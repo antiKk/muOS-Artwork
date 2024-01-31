@@ -1,0 +1,27 @@
+
+<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Information ShortName="muOS Box Art" LongName="muOS Box Art Mix" Description="2DBox + Support" Author="antiKk" />
+	<Viewport Width="320" Height="240" />
+	<Drawings>
+    <Item Type="Box2DFront">
+      <Display X="80%" Y="95%" Antialiasing="None" Width="80%" Height="80%" KeepRation="true" Anchor="BottomRight" />
+    </Item>
+    <Item Type="Region1">
+      <Display X="85%" Y="5%" Antialiasing="None" Width="20%" Height="20%" KeepRation="true" Anchor="TopRight" />
+    </Item>
+    <Item IfSystem="IsInTheList:20,23,57,58,59,114" TestOnly="true">
+    <Children>
+      <Item Type="Support">
+        <Display X="99%" Y="99%" Antialiasing="None" Width="60%" Height="60%" KeepRation="true" Anchor="BottomRight" />
+      </Item>
+    </Children>
+    </Item>
+    <Item IfSystem="IsNotInTheList:20,23,57,58,59,114" TestOnly="true">
+    <Children>
+      <Item Type="Support">
+        <Display X="99%" Y="99%" Antialiasing="None" Width="35%" Height="35%" KeepRation="true" Anchor="BottomRight" />
+      </Item>
+    </Children>
+    </Item>
+	</Drawings>
+</ImageComposition>

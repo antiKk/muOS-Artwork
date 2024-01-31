@@ -1,0 +1,9 @@
+<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Information ShortName="muOS Preview Image" LongName="muOS Preview Image Mix" Description="Screenshot" Author="antiKk" />
+	<Viewport Width="515" Height="275" /> <!-- This is the maximum size of the muOS preview pane. -->
+	<Drawings>
+    <Item Type="Screenshot">
+     <Display X="50%" Y="50%" Width="515" Height="275" Antialiasing="None" KeepRatio="true" Anchor="VCenterHCenter" />
+    </Item>
+	</Drawings>
+</ImageComposition>
