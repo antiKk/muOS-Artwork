@@ -1,0 +1,1 @@
+Metamoqester is a 2D arcade fighting game, similar in concept to Red Earth or Monster Maulers. One or two players (there is a co-op mode) fight against big monsters in deadly duels. There are three different characters to choose from. The game uses four buttons - Weak Attack, Medium Attack, Strong Attack, and Shoot/Throw Weapon.

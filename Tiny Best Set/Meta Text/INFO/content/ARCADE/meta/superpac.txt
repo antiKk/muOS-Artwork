@@ -1,0 +1,17 @@
+Super Pac-Man is a 1- or 2-player game where you are in control of the legendary Pac-Man. As in the original "Pac-Man" game, the goal is to clear each maze, but this time, instead of dots, the maze consists of prizes which are locked away behind gates. There are two ways to access the prizes. You can eat the keys which open a particular gate, and not always the gate which is closest to that key. Or you can crash through the gate after you eat a Super Pill and become Super Pac-Man. You are not required to eat all of the keys in order to complete the stage.  
+ 
+Four Power Pills are in maze and allow Pac-Man to turn the tables on the ghosts and eat them for a short time. When the ghosts begin to flash, time is running out and they will switch back, so beware.  
+ 
+New in this game is the Super Pill. There are two Super Pills in the maze which allow Pac-Man to become Super Pac-Man for a limited period of time. While in Super form, Pac-Man can crash through the maze gates, fly over the ghosts and avoid being killed (or eat them when they're blue), and travel at super speed whenever the player presses and holds the Super Speed button. When the super power is about to run out, Pac-Man flashes white and then returns to his normal form. You can extend the duration of Super time by eating a regular Power Pill. The Super time will then be extended by the duration of the ghosts' blue time.  
+ 
+Pac-Man loses one life whenever a ghost catches him when the ghost is not blue and Pac-Man is not in Super form. You start with a set number of lives ('Lives' dip switch), and bonus lives can be awarded to you as you reach or pass certain preselected point values ('Extra Lives' dip switch).  
+ 
+The tunnel is a great way to put some space between you and any ghosts that are on your tail since they can only move half as fast as you when they are in it. In Super Pac-Man, the ghosts are also slowed down by travelling through the passage directly beneath the ghost pen. 
+ 
+Occasionally, a star will appear in the middle of the screen with a picture on the left, and a rotating picture on the right. You may eat the star at any time for bonus points, but if you manage to eat the star when the right picture matches the left one, you will receive a larger bonus.  
+ 
+As the stages increases, the ghosts speed up their pursuit of Pac-Man and they stay blue for shorter and shorter periods of time after he eats a Power Pill until, in the high stages, they do not turn blue at all.  
+ 
+Super Pac-Man also features bonus stages in Stage 3, Stage 7, and every fourth stage thereafter, where there are no ghosts, a time limit, and Pac-Man is in Super form throughout the stage. Your goal is to eat all of the prizes in the given time limit. As with gameplay on the regular levels, you don't need to eat all (or any) of the keys. You are awarded the remaining time in the counter as points for successfully eating everything. With each Bonus stage, the walls and gates change color.  
+ 
+

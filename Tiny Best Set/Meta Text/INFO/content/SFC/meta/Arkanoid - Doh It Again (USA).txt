@@ -1,0 +1,1 @@
+A sequel to the arcade game Arkanoid. Use your paddle to move the ball around and hit bricks to clear the level. Once all the bricks are gone in the current level, you go on to the next level. Power-ups, like lasers and paddle lengthening will help you during the levels. Unlike the arcade version, the sequel has boss battles and somewhat of a storyline. 

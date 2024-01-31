@@ -1,0 +1,5 @@
+Kirby's Pinball Land is a game of pinball based on the Kirby series of games, with Kirby as the ball.  In the game you have to help Kirby defeat King Dedede and the three bosses who each guard one of the Pinball Lands.  
+
+The game is divided into three tables or Pinball Lands, each consisting of four screens, three ordinary screens, and a boss screen  If you fall off the bottom of the lowest one, you lose a life, unless you press A at the right moment to activate the springboard, which becomes harder each time.  Each screen has a variety of things to do.  The middle screen will give access to some sort of bonus game, where you must try to get as many points as you can, and can add to your bonus and bonus multiplier.  The bonus is added to your score when you lose a life, as in ordinary pinball.
+
+The aim is to defeat each boss.  To get to the boss you must perform a task on the top ordinary screen.  The bosses themselves must be defeated by firing Kirby at them, but they will try to stop you, sometimes by temporarily de-activating one or both of the flippers.  If you defeat the boss on each table, you face Kind Dedede himself.

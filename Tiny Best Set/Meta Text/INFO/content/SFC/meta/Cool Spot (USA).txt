@@ -1,0 +1,1 @@
+Cool Spot is a solid, colorful platform game featuring the 7-up mascot in the hero position. The game objective is fairly simple; you have to collect enough number of bonuses throughout each level in order to find the trapped Spots.

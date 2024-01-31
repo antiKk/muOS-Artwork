@@ -1,0 +1,3 @@
+Space Harrier is a sprite-scaling 3D shoot-em-up set in the 'Fantasy Zone'; a surreal world composed of abstract structures and a checkerboard landscape. The game's enemies are as abstract as its setting; with creatures including prehistoric Mammoths, alien pods, giant mushrooms and, at the end of most stages, a huge, fireball-spitting Chinese Dragon. 
+nnThe player's on-screen counterpart carries a portable jetpack under his arm which allows him to fly. The player can also run along the ground to avoid overhead structures and enemies. 
+nnIn addition to its flight capability, the jetpack is also equipped with a laser, used to destroy both the game's many enemies as well as some (but not all) obstructions, such as the trees and floating rocks on the first stage.

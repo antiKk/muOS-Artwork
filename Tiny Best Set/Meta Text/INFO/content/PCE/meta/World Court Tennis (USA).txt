@@ -1,0 +1,1 @@
+World Court Tennis is a tennis game with a twist. The action itself features no big surprises: the players control their characters over the scrolling tennis field and try to counter balls from their opponents. It is possible to perform typical tennis actions like cross, smash or lob and the hit performance depends on the timing.

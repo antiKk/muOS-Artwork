@@ -1,0 +1,1 @@
+A little caped hero fights his way to the boss' castle through a cute scrolling world. Enemies can be killed by fireballs or stunned when jumped upon. Killed enemies and chests leave coins to increase a person's score and options give aiming shots and bouncing fireballs.

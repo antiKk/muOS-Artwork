@@ -1,0 +1,3 @@
+The follow-up to Puyo Puyo is, like its predecessor, a falling block game in which the goal is to combine four or more blocks (Puyos) of the same color, which then disappear. The remaining Puyos will then fall down and can produce combos which can cause special blocks (Nuisance Puyos, that can only be destroyed by eliminating adjacent Puyos) to appear on the enemy's field.
+
+This game includes a story mode, in which Arle (the main character) fights against computer enemies, a vs player mode, a four player mode (SNES only), and an endless mode (SNES only).

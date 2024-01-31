@@ -1,0 +1,5 @@
+Picross 2 is the Japanese only sequel to the Game Boy puzzle game, Mario's Picross.  Your goal is to reveal the hidden picture inside each grid by chipping away the correct squares.  Clues along the grid's edges help you figure out which squares should be chipped away, and which should be left alone.  The puzzles are much more advanced than those in Mario's Picross - easy puzzles are in a 15x15 grid, while standard Picross puzzles are four 15x15 grids connected together, solved one section at a time.
+
+Picross 2 has two modes of play: the first, Mario's Picross, has you solving Picross puzzles with Mario.  In this mode, the timer ticks down from 30 minutes, and you must solve the puzzle before the timer reaches zero.  If you chip away an incorrect square, you are penalized time (first two minutes, then four, then eight).
+
+After solving a certain amount of puzzles in Mario's Picross mode, you can play Wario's Picross.  In this mode, the timer starts from zero and counts upwards.  You are not penalized time for any mistakes, however, this means that you do not know which squares are correct and which ones are incorrect until the puzzle is complete.

@@ -1,0 +1,1 @@
+Your goal is to make three people of the same color line up and disappear--but to do that, you won't flip the people around as they fall but rather rotate the entire pit once they've landed. Like clothes in a dryer, you've got to flip the whole playfield around and try to match up the midgets as they slide down to the bottom of the screen, reorganizing themselves as they go.

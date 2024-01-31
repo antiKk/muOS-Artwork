@@ -1,0 +1,5 @@
+A top down sci-fi shooter in which you take to the skies of several planets in an advanced starfighter in order to eradicate an alien invasion. 
+ 
+Soldier Blade puts you in direct control of a starfighter as you make your way through each enemy-infested stage. You are not alone in the fight this time however, as a small mecha follows your fighter at all times, and provides cover and supporting firepower at regular intervals. 
+ 
+The game also features a unique weapon system with three customizable gun pods, in which you can mount any of the several types of weapons available. Additionally you can sacrifice each of your pods to incorporate "option" satellites, bombs and other super moves depending on the pod/weapon combination you have equipped.

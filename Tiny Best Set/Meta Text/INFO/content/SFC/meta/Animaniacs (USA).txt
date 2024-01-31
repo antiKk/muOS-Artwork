@@ -1,0 +1,3 @@
+Animaniacs is a side-scrolling action/puzzle game based on the animated TV series of the same name.  The Warner kids, Yakko, Wakko, and Dot have escaped the water tower again and are on a quest to retrieve movie memorabilia from the Warner Bros. studio lot.  
+
+There are 4 stages, and in each stage the Warners must work together to get past obstacles and enemies. Yakko can push or pull boxes, Wakko can use his hammer to smash things, and Dot can blow kisses to charm simple minded foes.

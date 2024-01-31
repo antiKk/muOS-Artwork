@@ -1,0 +1,10 @@
+New Ghostbusters II follows loosely the original Ivan Reitman's film plot. You start out by selecting two ghostbusters out of  five (The 5th one is Louis Tully). The first, player controlled buster will use proton pack and second, controlled by AI, uses the trap where ghosts end up, after been freezed by using the proton pack. Player controlled buster can get hurt, if touched by a ghost, while AI buster can't. 
+
+The game's perspective is Top-Down, where you move from a one room to another and get rid of ghosts. The type of ghosts vary. After every level you have to fight against a boss, usually someone from the movie. For example, in the first courthouse level you fight against the Scoleri brothers. 
+
+The game contains six levels, inspired by the movie:The Courthouse
+2. Subways
+3. Apartment
+4. The Underground
+5. The Museum of Art
+6. Vigo's Altar

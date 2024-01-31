@@ -1,0 +1,10 @@
+Psycho Pinball is another pinball game in the style first introduced in Pinball Dreams and later popularized in Pinball Fantasies.  
+Standard features of these types of pinball simulations include an animated backglass display, multiple bonuses including a multi-ball, extra ball, etc., and background music that changes based on active specials.
+
+There are three main tables:
+
+1. The Abyss (Aquatic theme)
+Trick or Treat (Horror theme)
+Wild West (Western theme)
+
+An additional gimmick is a fourth Psycho Pinball table (circus theme) that has bonuses that can launch you to the other three tables, leading to massively high scores (and very long gameplay times).

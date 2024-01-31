@@ -1,0 +1,7 @@
+In 2001, Nintendo and Camelot released a Japan-only sequel for Mario Golf (GBC) called Mobile Golf. 
+ 
+It can be considered an expansion: the same game engine but with new courses, new golfers, new minigames and even an exclusive mini-golf mode that never appeared again in the series. It lacks a story mode, but all RPG elements (experience, leveling up, skill points...) for character building are still there. 
+ 
+But what it made it so special was its Mobile Adapter compatibility, a special link cable that allowed internet connection through a cellphone. This allowed for massive multiplayer tournaments to be held, where participants could get amazing prizes like special clubs for use in-game and even extra courses and characters that could be considered DLC somehow. 
+ 
+There is now a fan translation patch which also changes the way DLC is unlocked in-game, so you can unlock them (courses, characters, minigames and clubs) by playing the single-player modes.

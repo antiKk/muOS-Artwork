@@ -1,0 +1,5 @@
+Best of the Best Championship Karate is a realistic fighting game.
+After you choose your fighter for his parameters (strength, stamina and resistance), you can choose from 55 different moves.
+You can now train your fighter at a gym before the real fights.
+To master the game, one must alternate training and fights, as training improves stamina, strength and resistance.
+Be careful, loosing a fight reduces those parameters, so you have to be ready before getting on the ring ! 

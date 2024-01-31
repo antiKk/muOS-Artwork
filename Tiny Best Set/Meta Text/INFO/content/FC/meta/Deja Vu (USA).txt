@@ -1,0 +1,5 @@
+Deja Vu was the first game ever made by ICOM, the makers of such famous adventure games as Shadowgate and Uninvited. It featured mouse support, a multi-window interface, and bitmapped graphics at a time when text-based interactive fiction was the norm. 
+
+In Deja Vu your character wakes up in a toilet stall of a sleazy pub with no memory of who you are or what you're doing there. To make matters worse, you soon stumble upon a very dead corpse upstairs with three bullets buried in him. Sure enough, you find there's a gun in your pocket with three bullets missing. From there you have to figure out what happened and who you are before whatever is happening to your brain turns you into a mindless vegatable. To make matters worse the cops would very much like to have a word with you about that stiff.
+
+In 1991 a remake of this game was made for Windows 3.x, featuring improved graphics etc. 

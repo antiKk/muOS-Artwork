@@ -1,0 +1,3 @@
+A ninja-based action game that has the player leading Moonlight through numerous enemy-riddled levels on a quest to exact revenge against his father's murderer. To accomplish this task Moonlight is armed with a katana, shurikens, bombs, and a sickle and chain weapon. Each weapon offers its own advantages and must be used at certain times to overcome specific obstacles or opponents.  
+ 
+The game's coin-op origins are evident in the fact that that the home versions do not have passwords or saves. To compensate for this, however, adjustable difficulty settings were added.

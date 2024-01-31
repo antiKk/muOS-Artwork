@@ -1,0 +1,3 @@
+River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.
+
+The plane is armed with a cannon with unlimited ammo. It can be used to destroy the enemy vehicles and bridges, but a careless player can accidentally destroy a fuel station. Colliding with the riverbanks or with the enemy aircraft destroys your plane and makes you lose a life.

@@ -1,0 +1,3 @@
+The evil wizard Belzed and his forces have attacked the kingdom of Lowrel, killed its king and queen and kidnapped princess Silphee. Players take control of aspiring martial artist Thonolan who sets out to rescue Silphee and defeat Belzed.
+
+Kick Master is a side-scrolling platformer in which enemies are defeated by using various kicks and spells. Defeated enemies drop three items that refill Thoalon's health or magic, grant an extra life, damage him or increase his experience. When Thoalan gains a level, his maximum MP is increased and he learns new kicks, such as sliding, flying, roundhouse or butterfly kicks. Along the way, he can also pick up different spells that damage his enemies, protect him or refill his health.

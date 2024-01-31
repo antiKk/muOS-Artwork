@@ -1,0 +1,9 @@
+Cabal is a war themed shoot-em-up with one or simultaneous two-player gameplay in which two unnamed commandos must battle through five different stages - each containing four screens of play - to reach and defeat an evil dictator. 
+ 
+The game is an into-the-screen shooter with the action viewed from an over-the-shoulder perspective. The commandos can move left and right to avoid incoming fire while the enemies themselves are targeted by moving an on-screen cross-hair over them and pressing fire. If the fire button is held down, the commando remains static, allowing for more accurate targeting of the cross-hair. While static, the commandos are vulnerable to incoming enemy fire. 
+ 
+Initially, the commandos are armed with only a standard single-shot gun (albeit with unlimited-ammunition) and a limited number of grenades, but additional grenades and weapon power-ups can be earned as play progresses. 
+ 
+As well as enemy troops, vehicles such as tanks, armoured cars and helicopters also appear and take numerous shots to destroy. When destroyed or killed, some on-screen targets release points bonuses and weapon power-ups that drop to the bottom of the screen and can be picked up by the commandos. Weapon power-ups include additional grenades, a rapid-fire machine and an automatic shotgun, which has a slightly lower firing rate but has a larger targeting cross-hair, allowing it to strike a wider area with each shot. 
+ 
+Each of the game's screens is littered with buildings and barricades that can also be destroyed. This removes enemy cover as well as earning players bonus points.

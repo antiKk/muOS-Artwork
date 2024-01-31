@@ -1,0 +1,3 @@
+The civilization on the planet Avaron is by far more advanced than that of the Earth. People developed special biogenetical creatures - giant flies, crabs, and other animals. Unfortunately, those monsters rebelled against the Avaronians and threatened to conquer the planet. It is up to you to save the planet Avaron from the invasion!
+
+"Bio-Hazard Battle" is a horizontally scrolling space shooter. You can choose one of the four ships, each one having its own attacks. During the game, you can upgrade your ships' weapons by collecting colored balls floating around. You can store up to three different weapons at the same time, executing attacks in different directions. 

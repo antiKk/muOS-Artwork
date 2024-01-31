@@ -1,0 +1,5 @@
+Dropzone is basically a Defender variant, closely recreating the gameplay of the original Defender with its speedy scrolling and frantic gameplay.
+
+The player controls a spaceman with a jet-pack, flying across a barren landscape whose skies are inhabited by a number of different aliens, from the simple Planter to the slowly advancing Blunder Storm or the quick, aggressive Nemesite. 
+
+Planters and Nemesites will try to pickup the small men walking on the surface, who must then be rescued. The player has to shoot down the alien, while avoiding to hit the man. Sometimes, the aliens will carry an android, which is similar to the human but deadly. Care must be taken so as to not pick up the androids. All men must be transported to a surface base, where they are put in safety - this is the Dropzone.

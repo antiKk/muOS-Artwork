@@ -1,0 +1,3 @@
+Noobow is a puzzle platformer featuring a Japanese chocolate mascot. The aim of the game is to pick up objects and use them wherever they're needed in order to stop the sun and rain from fighting each other. After using the objects in the right places they disappear to confirm that players have made the right choice. 
+ 
+There are 7 levels in the game and Noobow will always refuse to put his life in danger. Completing each level is done by reaching the goal and assisting the characters that are waiting there.

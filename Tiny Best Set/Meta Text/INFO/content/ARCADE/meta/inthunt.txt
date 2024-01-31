@@ -1,0 +1,3 @@
+A 2D side scrolling shooter in which you take control of a small attack submarine and engage in underwater combat. The Dark Anarchy Society's forces threaten to destroy the earth's most important cities and only you can get past their defenses and destroy their secret underwater lair. 
+ 
+In the Hunt follows the classic template for 2D shooters, with the added feature of being able to control scrolling speed. Includes seven levels of underwater action (and keep an eye out for threats from above the surface), upgradeable weapons, and two player cooperative gameplay.

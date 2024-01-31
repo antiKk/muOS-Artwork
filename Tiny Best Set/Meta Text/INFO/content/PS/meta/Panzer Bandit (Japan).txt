@@ -1,0 +1,5 @@
+The game is a side-scrolling beat 'em up that uses the same engine used in Mad Stalker: Full Metal Force, also for the PlayStation. There is a total of 12 characters, including the four story characters and the eight unlockable bosses. 
+ 
+The game is controlled with two attack buttons (strong and weak) and the directional pad for moving left, right, crouching, and jumping. Shoulder buttons can also be used to change between foreground and background and can be used to activate the character's special attack. 
+ 
+An unusual aspect of the game is that if the player stands still during an attack, it is considered a guard. Other features include a combo counter and a guided elemental attack which launches an enemy.

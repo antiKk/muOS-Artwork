@@ -1,0 +1,7 @@
+Tumble Pop is a platform game for one or two players in which the aim is to clear each level of enemies by sucking them into - then ejecting them from - a portable vacuum-cleaner.  
+ 
+Holding down the fire button sucks the enemies into the cleaner, releasing the button causes them to be expelled back out. Ejected enemies act as projectiles that can damage and kill any other on-screen enemies that they collide with. All enemies must be killed before players can progress to the next stage.  
+ 
+Throughout the game, letters of the alphabet randomly appear in bubbles. These can be collected to eventually spell the word "TUMBLEPOP". Once this has been achieved players are transported to a time-limited bonus level, giving them the opportunity to earn bonus points and extra lives.  
+ 
+

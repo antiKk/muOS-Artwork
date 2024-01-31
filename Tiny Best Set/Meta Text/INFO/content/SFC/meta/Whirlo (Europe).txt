@@ -1,0 +1,3 @@
+A platformer title starring Valkyrie's lizard friend Xandra. In the game, which plays as a prequel of the Valkyrie games, you control Xandra as he leaves his enchanted forest in order to get help for his family. This will eventually lead him to meet up with our beloved Valkyrie and mark the beginning of their adventures.
+
+Xandra has all the abilities of a standard platformer character, which allow him to jump around and navigate the many obstacles found in the game. Additionally he's armed with a pitchfork which he can use to impale his enemies and stick to some surfaces. Collecting coins allow him to purchase extra lives, but there are no added weapons or spells as in the Valkyrie games.

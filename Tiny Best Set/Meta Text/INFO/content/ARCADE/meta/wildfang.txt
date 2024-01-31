@@ -1,0 +1,5 @@
+Wild Fang is a sideways scrolling beat-em-up for 1 or 2 players with a medieval setting. Players take on a variety of orcs, ogres, demons and other mythical creatures in their bid to destroy Satan, decapitating each enemy they encounter in order to collect their skulls for points and power-ups. 
+ 
+The player's character is an armor wearing beastmaster who sits atop of a fist-fighting giant.  Upon the player's command, the player may switch his mount into a tiger and attack with his mace.  Within each stage, there are also power-ups that allow the player to morph into a laser breathing dragon for a limited period of time. 
+ 
+The player's life bar is represented by a fire breathing dragon in the upper corner.  With each hit the player takes, the fire breath grows smaller.  Once the life bar is depleted the player's mount is killed and the player travels on foot and fights with throwing daggers.  If hit in this form then the player loses a life.  The game is over when all of a players lives are lost.

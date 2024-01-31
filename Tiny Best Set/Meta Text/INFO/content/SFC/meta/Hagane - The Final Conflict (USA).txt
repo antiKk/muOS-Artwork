@@ -1,0 +1,7 @@
+The Fuma clan protects the Holy Grail which is said to possess the power to destroy the world. When the Koma clan attacks and steals the Holy Grail, only one ninja survives. Transformed into a cyborg, it is his task to retrieve the Holy Grail and save the world.
+
+Hagane is an action-oriented platformer, featuring five stages, divided into several sub-stages, filled with lots of enemies, jumping puzzles, mid- and endbosses. The titular main character can perform double jumps, jump off walls, use four different weapons,  slide over the ground, somersault to dodge attacks and use several different special attacks.
+
+Weapons include: a short sword, a chain, small bombs and throwing knives. Bombs and knives have limited ammunition that can be restored by picking up the right items dropped by defeated enemies.
+
+Pressing and holding the shoulder buttons will cause Hagane to somersault and jump across the screen. This movement goes through three phases, pressing the jump or attack button during any of these phases lets Hagane perform different special attacks, such as flaming punches, kicks or backflips. 

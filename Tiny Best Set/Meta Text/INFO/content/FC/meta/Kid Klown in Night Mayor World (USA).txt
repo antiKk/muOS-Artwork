@@ -1,0 +1,7 @@
+Kid Klown and his family are on their way to perform in a circus when they meet the magician Night Mayor. He asks Kid Klown to help him open a treasure vault, but Kid Klown, having been warned about the evil magician by his parents, refuses. Not willing to give up so easily, Night Mayor kidnaps Kid Klown's family and dares him to follow him into his world if he ever wants to see his family again.
+
+Kid Klown in Night Mayor World is a side-scrolling platformer. Kid Klown has to complete several different stages inhabited by various enemies. His most helpful tools are his balloons that he can throw at his enemies, use as a trampoline or cling to in order to float through the air. 
+
+There are various items to be picked up as well, including bonus lifes, health power-ups, strawberries, lightnings that make Kid Klown temporarily invincible and question marks that can have the same effect as any of the other items, but might also reverse the controls.
+
+After every completed stage, a bonus game can be played in which Kid Klown may win items by throwing balloons at them. The number of balloons available depends on the number of strawberries collected in the previous stage.

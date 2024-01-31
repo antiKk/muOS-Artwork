@@ -1,0 +1,3 @@
+Denki Blocks! uses a single, simple digital toy set to provide a collection of 'puzzle games'.
+
+Denki Blocks! is played by sliding blocks around a board. When blocks of the same colour touch, they stick together to form clumps. Sometimes the player has to join all blocks of the same colour in any way possible. Sometimes specific shapes have to be made.

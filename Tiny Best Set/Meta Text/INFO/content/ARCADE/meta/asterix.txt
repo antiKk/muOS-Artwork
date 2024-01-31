@@ -1,0 +1,7 @@
+Asterix is a horizontally-scrolling beat-em-up for one or two players and is based on the French comic-book series, 'Asterix & Obelix'. Players fight as either Asterix the Gaul or his best friend, Obelix, as they take on the might of the oppressive Roman Empire.  
+ 
+Asterix and Obelix each have standard jump/attack controls, as well as a dash attack activated by tapping the joystick forward twice then pressing the attack button. Each character also posesses a powerful spinning arm attack, this is activated by holding the attack button for a short while until the character's face turns red, after which players must release the button. If the button is held down for too long, the character gets out of breath and takes a few seconds to recover. 
+ 
+The heroes' main foes are Roman legionaries and fat - ocassionally horseback riding - centurions. After an enemy has been beaten enough to fall to the ground, he can be picked up and attacked again, the nature of the attack is dependant on which character picks them up; Asterix will spin the stunned enemy above his head, whereas Obelix smashes him repeatedly into the ground. These stunned enemies also act as tempoarary weapons, as they will cause damage to any other enemies they come into contact with. 
+ 
+

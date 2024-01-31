@@ -1,0 +1,7 @@
+Mega Bomberman is a top down strategy game. Control your Bomberman through various levels defeating multiple enemies and plenty of bosses. Each level consist of blocks for exploding and some blocks that don't explode. At times you will need the non-exploding blocks as shelter. The blocks that do explode reveal power-ups and eggs. 
+
+The eggs are the unique twist to this version of Bomberman. When you get a egg, it hatches into a kangaroo. There are multiple kangaroo types, each with their own unique ability. You hop on the back of the kangaroo and utilize it's ability. If you happen to walk into an explosion the kangaroo takes the damage and dies and you continue to live. 
+
+Another unique feature in multiplayer is you can choose your character. Pick one of 9 such as Miner, Tiny, Fat, Cop, Punk(On cover), Lady, Old man, Robot and the original Bomberman.
+
+After selecting your character get ready for battle as you are placed in 1 of the 4 corners of the arena. Now just blow your way through the blocks and attack some opponents. Watch out for their bombs and remember to dodge your own. There are also many arena's to choose from. Each arena has it's own twist such as trap doors, an igloo to hide in, conveyor belts and more.

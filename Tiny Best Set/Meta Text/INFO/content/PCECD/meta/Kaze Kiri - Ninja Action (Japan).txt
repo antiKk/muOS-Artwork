@@ -1,0 +1,5 @@
+Princess Shizuhime has been kidnapped by a group of ninja under the command of Genbu, and brought to the castle of the malevolent Lord Hiei. The brave young ninja Kaze is summoned by Lord Yoshikage and sent on a dangerous mission: infiltrate Hiei's castle, defeat his minions, and rescue Shizuhime. 
+ 
+Kaze Kiri is essentially a beat-em-up with a few distinguishing characteristics. The game consists of traversing fully linear side-scrolling areas, defeating regular enemies and bosses on the way. Before being able to fight the stage boss, Kaze has to vanquish a pre-determined number of enemies, which is displayed as a shared enemy HP on top of the screen. 
+ 
+Kaze attacks with his sword when he is near the enemy, or throws shurikens at them from afar. Enemy projectiles can also be blocked by countering them with shurikens. Kaze can also disappear for a moment and re-appear at another location. He can jump, duck, perform somersaults, and grab and throw enemies. Kaze's health regenerates over time if he is not hit repeatedly. Completing the game unlocks another playable character, the female ninja Suzu.

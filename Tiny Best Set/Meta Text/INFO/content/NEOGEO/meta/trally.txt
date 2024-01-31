@@ -1,0 +1,4 @@
+Thrash Rally is a fast-paced racing game, similar to Neo Drift Out and Overtop, but using a top-down view. You can either participate in a World Championship or do a complete Paris Dakar rally.
+Using basic controls: accelerate with automatic transmission, brake and a combination of both to power drift, you have to follow a set path of courses. In the World Championship, each location consists of different stages that need to be finished in a single run. There is a strict time limit and you receive a time bonus upon finishing a section. The Dakar mode is one long track without stops. The championship uses regular cars, but in the Dakar race you can also choose a sand buggy, off-road bike or a truck.
+
+A global ranking is kept while racing, but it is based on your time, not on the number of cars you pass during the race. Aside from your opponents, you'll also find water, animals, hills, bridges, bushes and different obstacles in your path.

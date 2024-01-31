@@ -1,0 +1,5 @@
+The third bomberman game in the SNES series.  This game was an overhaul of the entire system of bombermans from before.  Again there are new levels and a new story but there are also a lot of new features.
+
+Super Bomberman 3 adds in 5 player support using a multitap and the extra controller slot.  The "revenge" or "miso bomber" feature was introduced in this game.  That is when a player dies they can still throw bombs in from the sidelines in an attempt to swap places with a player that is still alive.  Many new powerups were added in this game including the Kangaroo which in addition to giving a player and extra hit allowed them to have some extra ablity including jumping, laying rows of bombs, and high speed running.
+
+Players are also not limited to the traditional Bomberman.  There is a wide selection of different characters that the player can choose from.

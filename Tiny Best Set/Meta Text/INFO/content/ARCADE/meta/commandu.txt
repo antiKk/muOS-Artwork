@@ -1,0 +1,7 @@
+Commando is a vertically scrolling shoot'em up in which the player takes on the role of a highly trained commando soldier called "Super Joe", who starts the game by being dropped off in a jungle by a helicopter.  
+ 
+Joe's mission is to rescue captives and destroy the enemy bases and strongholds that appear at the end of each level, killing as many enemy soldiers as possible in the process.  
+ 
+The end-of-level strongholds see waves of enemy soldiers ordered to attack by a cowardly officer, who immediately runs away. Shooting the fleeing officer earns the player bonus points. Along the way, players can attempt to free prisoners-of-war by shooting their enemy guard escorts as they are transported across the screen. 
+ 
+Super Joe carries only two weapons: a limited-range machine gun with unlimited shots, and a limited supply of hand grenades. Extra grenades can be picked up as the player progresses through the levels.

@@ -1,0 +1,1 @@
+Tail Gator on Gameboy is a platform game in which you play as a crocodile moving through environments full of monsters. You'll only be able to jump and tail swipe your enemies, however if you collect enough "P" symbols you will be able to hit from a distance. Many chests are scattered around, it's up to you to open them to increase your score!

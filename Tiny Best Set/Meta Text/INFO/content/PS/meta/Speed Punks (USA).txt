@@ -1,0 +1,5 @@
+Speed Freaks is a fast go-cart game in a cartoony setting, featuring six different characters and twelve different tracks. 
+ 
+The game can be played in four different single-player modes or in multi-player mode with up to four people. 
+ 
+Several different pick-ups and power-ups can be found and used to defeat the rivals on the track, including homing missiles, remote bombs and stealth mode.

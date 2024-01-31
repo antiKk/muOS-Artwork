@@ -1,0 +1,4 @@
+Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at four different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race!  
+ 
+The player drives a Formula-1 race car on each track. The first objective of the game is to finish the qualifying lap as quickly as possible. If the player beats the time, he or she qualifies for the race. If not, he or she drives the remainder of his time along the qualifying course.  
+

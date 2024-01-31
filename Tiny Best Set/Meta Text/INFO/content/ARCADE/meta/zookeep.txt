@@ -1,0 +1,3 @@
+Zoo Keeper is a superb, fast-paced arcade game in which the player takes control of Zeke the zookeeper. Many of the animals at Zeke's zoo are running wild and have captured Zeke's girlfriend, Zelda. Zeke must recapture as many animals as possible and rescue his sweetheart from the animals' clutches. 
+ 
+Zoo Keeper features two different, alternating play fields, with each level having its own task to complete; as well as a final 'bonus screen'.

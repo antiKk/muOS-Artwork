@@ -1,0 +1,3 @@
+This is a side-story, set in the same world as the famous Lunar RPGs:  Silver Star and  Eternal Blue. The town of Burg is populated by harvesters, and you take control of two girls, Ellie and Lena. One day, they are sent to the island of Ien where they should study magic, and there begins their adventure.
+
+The game is a traditional Japanese-style RPG. You navigate your party through a top-down world, visiting towns and hostile areas. Enemy encounters are random, the battles are turn-based and are viewed from first-person perspective.

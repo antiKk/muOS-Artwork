@@ -1,0 +1,7 @@
+Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory. The goal is to aim the bubbles in such a way that they will touch identically colored ones. When such bubbles form a group of three or more, they pop and disappear from the screen. 
+ 
+If the ceiling of the area is covered by too many bubbles, it will gradually descend; the game is over when it nearly reaches the player-controlled pointer. Should the player fail to release the bubbles within a specific time limit, they will be released automatically, unaffected by the pointer's aiming. 
+ 
+A two-player mode is included as well. Each player competes on an area occupying half of the screen, dealing with identically generated bubbles. Whenever a player successfully disposes of a bubble group, a part of it is transferred onto the opponent's part of the screen. 
+ 
+The game features the two dinosaur protagonists (Bob and Bub) as well as other characters from Bubble Bobble, even though the two games have distinctly different gameplay.

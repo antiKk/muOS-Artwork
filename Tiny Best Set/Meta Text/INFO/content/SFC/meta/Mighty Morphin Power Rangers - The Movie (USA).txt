@@ -1,0 +1,5 @@
+This game is loosely based off of the movie of the same name, where the player can take control of either the Yellow, Black, Pink, Blue, Red or White Ranger in a side-scrolling beat-em-up in an attempt to stop the evil Ivan Ooze who is trying to control the universe.
+
+There are six different levels to play in each with their own standard obstacles and enemies, mid-level bosses and of course end bosses that range from Mordant, Lord Zedd to Ivan Ooze himself.  There are no weapons that can be used, instead the player must rely on kicks and punches to dispatch enemies and pick up health items left behind.
+
+Additionally, the Yellow, Black, Pink Rangers are extremely fast and can jump into higher areas but are more weaker than Blue, Red, White Rangers who are much stronger, but lack the speed and jumping abilities of the other Rangers.  Players can refill their health by picking up heart icons and power icons to increase their morphing meter.  Once filled, the morphing meter will increase the Rangers power, attack capabilities, speed and jumping abilities. 

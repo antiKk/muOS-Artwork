@@ -1,0 +1,1 @@
+Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.

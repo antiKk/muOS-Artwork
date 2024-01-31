@@ -1,0 +1,17 @@
+Greatest Heavyweights is a boxing game featuring the ex heavyweight champions Evander Holyfield, Larry Holmes, Joe Frazier, Muhammad Ali, Floyd Patterson, Rocky Marciano, Joe Louis and Jack Dempsey. Their likeness and real fighting style are simulated by the game.
+
+The game is an enhanced version of Evander Holyfield's "Real Deal" Boxing, being also played in a pseudo-3D side view with moving around the ring handled by scrolling the backdrop and moving the ropes. This time, a 2.5D camera is shown at the top of the screen.
+
+There are three game modes:
+
+1. Exhibition: one or two players can fight a single match.
+
+2. Tournament: one player chooses among the eight heavyweight champs available in a eight-man tournament against the remaining seven.
+
+3. Career: one player creates a character who starts as the #30 of the ranking, fighting his way up against fictional characters. During character creation, players can choose the fighter's color of skin (which now includes some unnatural colors such as green and blue), trunks and hair, haircut, size of body and stats emphasis (power, speed and stamina). Between matches, career mode offers various exercises to assign the boxer to improve his stats. After reaching the #1 in the ranking, the player will be challenged by each one of the eight greatest heavyweight champions.
+
+During the fights, besides an energy bar, the fighters have a head and a torso damage meter. This meters are images of their head and torso, which become gradually grey, from top to bottom, as they are hit. If one of these meters becomes totally grey, it will start blinking, warning that it the fighter takes some more punches on that area, he will loose the fight by TKO. Being knocked down tree times in a round also leads to a TKO. During the rounds' breaks, fighters regain strength as the girl with the round sign passes along their sides.
+
+Fighters can perform three types of punches: jabs, hooks and uppers, which can be aimed at the opponent's head or torso. Fighters can also taunt their opponents. Each one of the heavyweight champions has his own set of personal taunts. If by some reason the fighters avoid to fight, the spectators will start to hiss at them. To keep the spectators pleased, the fighters must keep punching each other on a regular basis.
+
+The game plays sensibly faster than Evander Holyfield's, and the character animation is more detailed. There's a replay feature included, and the fights are announced by Michael Buffer's voice.

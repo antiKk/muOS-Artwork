@@ -1,0 +1,3 @@
+In the early 1930s, people have lived in poverty since the great depression in 1929. Being laid off from their job, a great amount of pilots became the sky pirates in order to survive. The sea and the sky near Italy have been plundered by them. You earn a living by shooting down these pirates.
+
+Power Strike II is a top-down shooter where you must select which weapon you want to use during the game, and then fight your way through various stages, destroying both air- and ground-based enemies along the way. You can upgrade your weapons by collecting power-ups that can only be found by shooting specific ships. You will need to defeat the end-of-level boss (by destroying parts of it) in order to proceed to the next level.

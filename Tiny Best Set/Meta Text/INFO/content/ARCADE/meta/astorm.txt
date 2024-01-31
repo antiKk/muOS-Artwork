@@ -1,0 +1,3 @@
+Alien Storm is a side-scrolling beat-em-up in which up to 3 players take on the role of one of 3 futuristic warriors. The game heroes are charged with destroying the hoards of repulsive aliens who are invading the Earth. Many of the aliens are disguised as a variety of everyday street objects; such as telephone booths, oil cans, trash cans and mailboxes. The aliens reveal their true forms as the warriors approach. 
+ 
+Each of the 3 heroes carries their own individual weapon; Gordon has his plasma gun, Karla has a flamethrower and Scooter has an electric whip. At the end of each level, the warriors will enter a building and the shoot-em-up action will switch to a first-person perspective.

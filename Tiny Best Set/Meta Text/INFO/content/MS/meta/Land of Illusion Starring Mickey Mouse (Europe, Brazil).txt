@@ -1,0 +1,3 @@
+Mickey Mouse is reading an interesting book and suddenly find himself in a strange, dreamy village. he is told that a curse has been placed on the village, turning its good magic into bad one. The evil Phantom, who lives in the castle in the clouds, is responsible for that! Mickey decides to help the villagers and to defeat the evil Phantom.
+
+This is a platform jump-and-run game. There is a time limit to each level. Mickey can jump, duck, climb, and defeat enemies by jumping on them and pressing the down arrow at the same time.

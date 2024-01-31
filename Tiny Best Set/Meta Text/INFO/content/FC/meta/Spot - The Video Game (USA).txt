@@ -1,0 +1,3 @@
+A puzzle game loosely featuring licensing from the 7Up soft drink. The gameplay involves up to 4 players, which can be either human or computer, each taking on spots of a particular colour. Starting from opposite corners, they take it in turns to move, either by 'reproducing' one of their spots to form another one in an adjacent square, or by making a jump, losing the square you did have but taking one two spaces away.
+
+When a piece lands next to one of another colour, that piece changes colour into that of their opponent. The winner of each round is either the last player with any pieces left, or the player who has the most pieces left when the level is full.

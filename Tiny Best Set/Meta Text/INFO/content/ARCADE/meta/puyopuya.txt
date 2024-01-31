@@ -1,0 +1,3 @@
+Puyo Puyo is an incredibly addictive and original puzzle game in which players must form chains of four or more beans (known as 'Puyos') of the same colour to make to disappear. 
+ 
+Players can hinder their opponent by forming Puyo combinations; a successfully formed chain removes some some of the player's Puyos and causes 'junk' Puyos to fall into the opponent's play area. As these Junk Puyos are transparent, they cannot be used to form a chain and can only be destroyed when a nearby chain is created.

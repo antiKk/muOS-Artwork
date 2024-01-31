@@ -1,0 +1,7 @@
+You play Buster Bunny, in a series of levels, featuring characters from the Tiny Toon Adventures cartoon.
+
+Most of the six levels are platform levels, where Buster has a number of attacks to defeat the enemies he faces.  These include kicks and jumps, and a dash ability that lets you slide into enemies to defeat them, and also climb walls.
+
+The fourth level is an exception, and consists of a game of (American) football, played with a simplified version of the rules.  The idea is simply to get a touchdown, while as usual progressing at least ten yards in four downs.  There are two plays: a running play, where you simply run as far as possible while avoiding the opposing team; and a passing play that starts with a pass that can gain you extra yards, but must be caught.
+
+Between levels there are bonus games.  You spin a wheel to determine what game you play out of five available. 

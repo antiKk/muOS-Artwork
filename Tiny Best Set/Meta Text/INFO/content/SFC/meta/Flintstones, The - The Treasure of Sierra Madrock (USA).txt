@@ -1,0 +1,24 @@
+The Great Poobah has retired and is looking for a successor. Since there are so many candidates, it is decided that the person who finds the Great Treasure of Sierra Madrock will become the new Great Poobah.
+The player takes control over Fred and Barney who also participate in the treasure hunt in order to make Fred the New Great Poobah.
+
+The Flintstones: The Treasure of Sierra Madrock is a side-scrolling platformer that includes several board game elements. On a world map, Fred and Barney  throw dices to determine how many fields they can move. 
+
+There are different fields that hold different challenges.
+
+Most fields require you to finish a side-scrolling platforming level. Fred and Barney can jump, club their enemies and climb trees or stone pillars. Holding down the jump button lets them hover in the air for a short moment. Throughout the levels, different power-ups and items can be found: clamps are used as money, apples replenish some health, 100 stars grant an extra life to Barney or Fred and an empty Heart frame increases their life bar.
+
+On fields marked with a skull, a boss has to be defeated. 
+
+Heart fields hold bonus games in which you have to collect as many items as possible within the time limit.
+
+At amusement parks, several mini-games can be played to win items or extra lives. Mini-games include: Memory; Balls O' Fun", where you can win items by throwing a ball at them; a mini-game in which you have to stop monkeys from climbing down trees and stealing your items by hitting them with coconuts and others.
+
+In Cafes you can buy food to replenish your health.
+
+In stadiums you can participate in special challenges (3D cart races for example), in order to gain new abilities such as double jumps.
+
+While stadiums, cafes and amusement parks can be revisited, all other levels only need to be finished once.
+
+Fred and Barney are not the only characters that move about the playing field. You will also run into their wives Betty and Thelma as well as other characters that are also looking for the treasure. When Fred or Barney encounter their wives, they are dragged a few fields back. Other characters give them useful items if you can beat them at a challenge (usually a race).
+
+Other notable features are a password system and a competitive 2-player mode. 

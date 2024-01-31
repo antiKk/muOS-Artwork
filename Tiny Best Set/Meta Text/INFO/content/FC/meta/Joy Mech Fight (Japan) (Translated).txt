@@ -1,0 +1,5 @@
+The evil scientist Warunachi has hacked all the otherwise peaceful robots in Japan and now plans to launch an attack for world domination the likes of which the world has never seen. Fortunately his former partner, Dr. Eamon, saved one robot from the takeover and has now programmed him to defeat the other robots and foil Dr. Warunachi's evil plans.
+
+Joy Mecha Fight is a one-on-one 2D fighter, in which you control a robot and attempt to defeat your opponent by attacking him with your basic moves and special attacks triggered by specific control motions. Each robot is composed of six hovering segments: the head, torso and limbs, which hover around each other forming a basic humanoid shape. 
+
+The game features story, instant fight, and Vs modes. In the story mode you start with the Sukapon robot, and as you defeat other robots they become available for selection as you advance through the story with all moves being explained via a pre-fight tutorial if you want to. 

@@ -1,0 +1,3 @@
+Shanghai II is Activison's follow-up to their first tile matching game.  Players try to remove Mah Jong tiles in pairs from a set pattern.  Shanghai II has 8 different tile sets, 12 patterns based on the animals of the Chinese zodiac, and a layout editor for creating patterns.
+
+In addition to the standard game, Shanghai II also features "Dragon's eye" a 2-player Shanghai varriant.  Players take turns adding and removing tiles from a small field with one player attempting to remove all the tiles and the other trying to position tiles to make this impossible. 

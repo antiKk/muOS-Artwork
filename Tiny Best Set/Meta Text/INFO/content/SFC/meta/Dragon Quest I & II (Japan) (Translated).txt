@@ -1,0 +1,7 @@
+This is a remake of two classic NES RPGs - an exclusively Japanese release of the two first Dragon Quest titles on one cartridge.
+
+In Dragon Quest (known as Dragon Warrior in the US), you play as the descendant of the legendary warrior Erdrick, and your goal is to recover the magical Ball of Light from Erdrick's and the humanity's arch-enemy, the Dragon Lord. In Dragon Quest II, you assume the role of the descendant of the hero of the first game, and must join forces with two other characters in order to defeat a demon lord who destroyed a nearby city and killed its inhabitants. 
+
+Both RPGs feature random battles and turn-based combat viewed from first-person perspective. In Dragon Quest you fight alone, while in the sequel two other characters can join your party, and you also fight against multiple enemies at once.
+
+The remake includes updated graphics (although they still retain the original NES look), sound of SNES quality, and some changes in the gameplay and in the game world. Certain locations are larger, some menu commands (such as "Stairs") are omitted, and there is a larger variety of items. 

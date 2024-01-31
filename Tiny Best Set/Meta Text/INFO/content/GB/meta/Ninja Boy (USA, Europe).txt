@@ -1,0 +1,7 @@
+Ninja Boy is based off Super Chinese.  
+ 
+As such, players control a young Kung-Fu hero from a bird's-eye perspective and are able to move and attack up, down, left, right. Players use the hero's punch and kick abilities to defeat enemies.  
+ 
+Players can also find weapons and other items scattered across the game to use against the enemy hordes. After defeating a set number of enemies the players is allowed to run into an exit and proceed to the next level.   
+ 
+As the levels progress, difficult enemies become more numerous.

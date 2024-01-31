@@ -1,0 +1,5 @@
+Tapper is an action game where you're a beer tapper (barman) and have to serve beer to demanding customers. There are four customers, each has its own lane lengthier than the previous one, whom you have to keep at bay. If they reach the end of the lane without receiving their beer, you're a goner; if you miss one and accidentally spill beer needlessly you lose a life and should one of them throw you back the mug and you fail to catch it, you lose a life as well.
+
+Occasionally a bizarre icon will appear on one of the lines and, should you grab it, will invoke a "cabarette"-style show which will keep some of the customers occupied.
+
+The Xbox 360 version includes bonus rounds, as well as co-op and versus multiplayer modes, also online, along with achievements.

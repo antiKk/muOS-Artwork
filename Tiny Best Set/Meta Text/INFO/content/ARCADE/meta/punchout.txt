@@ -1,0 +1,5 @@
+The player assumes the role of a green-haired boxer, who must fight his way through six increasingly larger-than-life boxers to earn the title of 'Champ' in this superb 1-on-1 fighting game. 
+ 
+During matches, the player's boxer is viewed from behind as a wire-frame (so the player's opponent can be seen). Players must time their punches, dodges and blocks in order to defeat the opposing boxer. 
+ 
+The player's opponents are each rendered as humorous cartoon-like caricatures - adding much to the game's atmosphere - and each boxer fights in a slightly different style, forcing players to adapt to their strategy. The top monitor is used for statistics while the bottom one is used to display the actual fight.

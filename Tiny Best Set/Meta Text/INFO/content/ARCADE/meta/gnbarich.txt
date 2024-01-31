@@ -1,0 +1,11 @@
+Shoot back the enemy bullets! The breakout-like shooter with a variety of items and gimmicks! 
+ 
+GUNBARICH is a breakout-like shooter game that first appeared in arcades in 2001. 
+ 
+Control the flipper and shoot the pink ball = puck to break all the blocks to clear the stage. 
+ 
+You can set the difficulty level, life, number of continues, controls, screen orientation, item dropping speed, enemy bullet speed, and more. 
+ 
+In addition, now we have online rankings! 
+ 
+Be the world's best GUNBARICH!

@@ -1,0 +1,15 @@
+The Mandarin has knocked out Iron Man and the Vision. This time it is personal.
+
+You play as Captain America or Hawkeye. In the one player mode, you must fight your way through various thugs to rescue Iron Man and the Vision. This game is a side scroller, somewhat reminiscent of Bionic Commando in which you fight through a level then move to an overhead map to decide where to go next. In between levels, Wasp gives you hints.
+
+Captain America's attacks are: when he is standing, shield throw; when he is crouching, punch and when he is jumping, kick. Also, if you push twice in a direction, Cap can do a powerful forward charge with his shield for a short distance.
+
+Hawkeye's attacks are all arrow shots. He can shoot left, right, up, upper-left or upper-right.
+
+If you complete an area with one character then complete it with the other character right away, you can press start to switch between Cap or Hawkeye. This has the advantage that Cap's forward charge is powerful and by grabbing poles, he can then jump to areas Hawkeye cannot.
+
+Hawkeye can shoot enemies or targets too high for Cap to jump up and kick.
+
+In the battle mode, this is a two player, one-on-one battle. Player one chooses from Captain America or Hawkeye (the good guys) and player two chooses from Wizard, Ultron or Crossbones (the bad guys).
+
+You fight each other until one player has won three rounds.

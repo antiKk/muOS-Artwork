@@ -1,0 +1,5 @@
+Marvel Super Heroes in War of the Gems is a side-scrolling platformer/beat 'em up based on the Infinity Gauntlet storyline from the comics.  Adam Warlock calls on the heroes to recover the 6 Infinity Gems before they are used for evil.
+
+You may choose ones of five heroes: Spider-Man, Hulk, Captain America, Iron Man and Wolverine.  Each one has different stats and abilities.  (i.e. Spider-Man is agile. Hulk is strong, Iron Man can double-jump with his rocket boots, etc.)  Initially you can choose a training area in Avenger headquarters or four levels.  As you complete levels, most open up.  Each hero can be equipped with gems to boost their abilities in each section.  These must be obtained by finding them in the levels.
+
+Gameplay is fairly similar to X-Men-Mutant Apocalypse.  Combat is all on a 2D plane.  Each hero has basic jumps and attacks and special moves that can be executed with button combinations like quarter-rolls.  Enemies include various villains from the Marvel Universe and evil doubles of various Marvel heroes.

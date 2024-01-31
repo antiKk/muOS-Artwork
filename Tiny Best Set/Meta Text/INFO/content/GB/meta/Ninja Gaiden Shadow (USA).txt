@@ -1,0 +1,5 @@
+Ninja Gaiden Shadow is a prequel to Ninja Gaiden. It is 1985, 3 years before the events of the NES game, and Jaquio has not yet been awakened. However, Emperor Garuda, an evil dictator, threatens New York city and it is up to the Ryu Hayabusa to fight him.
+
+This game is an action side-scroller. Ryu can run, jump and beat his enemies using a sword. He also has a grappling-hook device, which can be used to reach higher platforms, which can then be hand-climbed across. By collecting power ups Ryu can use a magical technique called "the art of the fire wheel", an ascending and spinning wheel of fire which will take more damage than his usual sword. He has up to 5 charges of this technique. Ryu has a life meter with six units, which can be replenished by finding proper power ups inside containers.
+
+The game is divided in 5 stages. Each stages has sub-screens, and the main objective is to go from left to right till the end of the screen, destroying the enemies in the way. Among the enemies Ryu will find humans, cyborgs and machines. At the end of each stage a boss fight awaits Ryu.

@@ -1,0 +1,1 @@
+A vertically scrolling run and gun game, in which the player controls a soldier who must fight his way through 7 increasingly difficult levels. At the end of each level a boss must be defeated before the player can progress any further.

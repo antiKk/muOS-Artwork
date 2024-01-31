@@ -1,0 +1,6 @@
+This port of the arcade original has some extra modes available. Choose again from Thor the Warrior,  Thyra the Valkyrie,  Merlin the Wizard and Questor the Elf (each with their own advantages/disadvantages) and 1 to 4 players(supports Sega's four-player adapter).
+
+Alongside the standard arcade mode, there are the Quest, Battle and Record modes.
+Quest Mode: Defeat the four towers and solve the mystery of the ancient castle;  weapons can be bought with collected gold from merchants in the main hub area,  where you can also choose which tower to take on next. Experience points are good for increasing your stats.
+Battle Mode: Fight your fellows to the death. Maps can include teleporters/monsters/items etc. Avoid exits(or you'll be out of the round).
+Record Mode: Arcade mode with some variations such as a password continue,  also you can't die - although points will be lost for every 500 health lost.

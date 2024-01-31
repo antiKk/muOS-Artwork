@@ -1,0 +1,3 @@
+Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
+
+One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.

@@ -1,0 +1,3 @@
+Your job in this action puzzler is to help prehistoric man to evolve by helping them discover tools, the wheel, weapons, or even fire. Each level in the game will have a given task to help in this, and you are allotted a number of characters who must accomplish the task. The player can switch from person to person while moving the characters around each scrolling puzzle, and teamwork is essential to success.  
+
+Tasks can include finding objects (like a spear) on the screen, or trying to reach a specific destination which may require the use of objects you have discovered so far. Each level has a time limit, when time runs out the level can be restarted. 

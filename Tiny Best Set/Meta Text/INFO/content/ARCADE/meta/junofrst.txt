@@ -1,0 +1,7 @@
+Juno First a vertically-scrolling shoot-em-up viewed from a third-person perspective in which players must destroy waves of attacking aliens. Unlike other shooters of the time, the game's enemies don't line up in a gallery formation but instead move freely around the screen. Because of this, the player's ship can move both forwards and backwards (in addition to left and right). 
+ 
+As well as the attacking aliens a spherical 'space capsule' occasionally appears on-screen and if shot, it releases an enemy astronaut that can then be captured. This must be done within a set time, however, with the screen having  a red tint for the period in which rescue is possible. During the capture phase, every enemy the player shoots is worth an additional 200 points.  
+ 
+As a last resort players also have the option to 'warp' to another random part of the play area. This is highly risky as it may place the player's ship in a position more dangerous than the one it left. Players are allowed three warps per level. 
+ 
+Starting formations vary from stage to stage and the aliens mutate into more dangerous forms the longer they survive. To complete a level all aliens must be destroyed.

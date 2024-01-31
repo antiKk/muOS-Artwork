@@ -1,0 +1,21 @@
+STORY
+The European Wars against Spain and France have been costly to the British Empire. In order to gain additional funds for the war effort, the Crown raise taxes from the New World colonies without representation. This act compels the New World colonies to protest and boycott against British rule. By 1775, the Crown alarmed by the protests, boycotts and politically instability in the New World sends troops to subdue any rebellious efforts by the New World colonists. This threatening approach provokes the Thirteen Colonies to revolt. Thus starts the War for Independence in the New World (American Revolutionary War).
+
+GAMEPLAY
+Choosing Sides
+In Liberty or Death, you partake in the American Revolutionary War, either as the "rebels" - the American Continental Army or as the "Crown" - the British Royal Army.
+
+Choosing either one of the nations will prompt you to choose the leading Commander-in-Chief:
+
+The Continental Army: Charles Lee, Artemas Ward or George Washington.
+The British Royal Army: Henry Clinton, Thomas Gage or William Howe.
+
+Revolutionary Politics
+Each turn you will have to balance your treasury for the war effort. Money is provided by each state. The more states that support your cause, the more money will flow in your coffers. Money is spent in paying wages, strengthening the fleet and recruiting new regiments.
+
+Here, if you have a sufficient fleet, you can also command your Navy officer to "control the seas" which is conducting a blockade and privateering against enemy ships. This may result in seized goods that will be added to your treasury. 
+
+The American Revolutionary War in Liberty or Death included everyone except the American Indians: [1] Revolutionary Militia: American supporters but not yet fully supportive of Continental Army (not under your full control) [2] Loyalist Militia: Militia supportive to the Crown [3] French Army: The French will support the American cause after a formal alliance is held. [4] Spanish Army: The Spaniards will support the American cause after a formal alliance is held.
+
+Revolutionary Combat
+The Top-down turned based combat introduces units available in the Revolutionary War: Infantry, Guerrilla, Cavalry and Artillery (Engineers). Combat near shores may also be joined by Naval units: Fleet and Fires Ships. 

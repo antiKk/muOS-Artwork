@@ -1,0 +1,22 @@
+Star Castle is a 1- or 2-player outer space action game designed with features geared for maximum player appeal: A progressively difficult competitive level and a clearly defined enemy which must be both attacked and avoided at various points in the course of play. 
+ 
+The center of the playfield is occupied by the Star Castle which is programmed to constantly home in on the players' ships. Surrounding the Star Castle are three concentric energy rings of twelve segments each, which serve as both a protective perimeter for the Star Castle and a source of points for the player. Contained within the energy rings are three protective mines which seek out the players' ships and destroy them upon collision. The movements of the mines are programmed to simulate the actions of heat-seeking missiles. 
+ 
+The object of the games of Star Castle is to score the maximum number of points possible. This is accomplished by the combination of three elements: 
+a) Exploding the ring segments. 
+b) Exploding the Star Castle. 
+c) Avoiding the Star Castle's mines. A player's turn is over when his ship has been destroyed. The number of ships per game is set by the operator. 
+ 
+For maximum scoring, a player will want to shoot out sections of the energy rings in order to give him a shot at the Star Castle in the center of the screen. As play progresses, there are 2 facts a player must keep in mind: 
+1) Exploding all segments in a given ring will cause the entire ring to reappear - thereby eliminating a potential shot at the Star Castle in the center. 
+2) Exploding the rings in a manner that gives you a shot at the Star Castle will also give the Star Castle a shot at you. The Star Castle is programmed so that its nose always seeks out the player's ship. If there is an open shot at the player, it will take it. 
+ 
+When the Star Castle is hit by a player's missile, it will first implode and then explode with all remaining ring segments. After a one-second delay, the Star Castle will reappear with all three ring segments. If the Star Castle shoots the player, his turn is over. 
+ 
+As play begins, the Star Castle will appear in the center of the screen surrounded by its 3 energy rings. The player's ship appears about halfway up on the right hand edge. By using the control buttons to move forward, right or left, the player maneuvers about the screen using the firing button to launch missiles. 
+ 
+Points are scored by destroying the energy ring segments or the Star Castle itself. Exploding the Star Castle gives an extra ship as well as points. No points are given for the mines that attack the player. 
+ 
+The player's ship can be destroyed in 2 ways: By collision with the mines or by a hit from the Star Castle's torpedo. The mines are launched from the rings and attack the player for approximately ten seconds or until shot. The Star Castle's torpedoes are launched only when there is a clear shot at the player through all 3 rings. At this time the player also has his shot at the Star Castle. Both the Star Castle and the mines get smarter and faster as the game progresses. 
+ 
+The game of STAR CASTLE is not based on time units. The battle rages on until all the players' ships are destroyed. The length of the game depends solely on the skill of the player. It's the age-old challenge of man versus machine.

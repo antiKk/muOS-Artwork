@@ -1,0 +1,3 @@
+Shinobi is a scrolling platform beat-em-up in which the player takes on the role of Joe Musashi, a Shinobi Ninja, who must fight his way through 5 tough missions - each made up of between 3 to 5 stages - in his quest to rescue the kidnapped Ninja children of the Iga clan; now hostages of an evil Ninja syndicate called "Zeed". To complete a mission, the player must rescue all of the kidnapped children on each level, with the number of hostages remaining displayed on a meter in the bottom left corner of the screen. 
+ 
+Shinobi was a huge success for Sega, and deservedly so. Its perfectly realized blend of platform and fighting action and is as fine an exponent of the 'easy to get into, difficult to master' gameplay ethic as video games have seen.

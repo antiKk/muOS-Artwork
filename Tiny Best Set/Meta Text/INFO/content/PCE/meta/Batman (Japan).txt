@@ -1,0 +1,5 @@
+The TurboGrafx-16 version of Batman: The Video Game is a top-down maze-like game, somewhat similar to Pac-Man or Bomberman. 
+ 
+The game consists of five stages based on the movie: the Streets of Gotham, Flugelheim Museum, AXIS Chemical Factory, the Parade and the Cathedral, where Batman finally faces the Joker. The first four stages are divided into 12 sub-stages or mazes. Each main level has its own objective, which basically consists of finding items in the mazes: collecting "smilex" components in the streets of Gotham, cleaning paintings at the museum, planting bombs at the factory and cutting off the ropes of Joker's balloons at the parade. Before each level, a cutscene with scenes from the movie is displayed. 
+ 
+Batman can attack his enemies with his Batarang. Through the levels, he will collect items which will upgrade his speed and give his Batarang a longer range and multiple shots.

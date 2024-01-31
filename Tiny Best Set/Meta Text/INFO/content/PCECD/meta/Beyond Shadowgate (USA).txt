@@ -1,0 +1,3 @@
+This is a sequel to the adventure game Shadowgate. You control Prince Eric, the descendant of the hero of the first game. You return to your home country, only to discover that your father was murdered. You should become the new king, but the minister of the late king has other plans, frames you for killing your own father, and throws you into jail, where your adventure begins.
+
+Unlike the first Shadowgate, this is a platform game - not an action game, but a classical point-and-click adventure viewed from a platform perspective. You can move your hero around, examine, manipulate, and take objects. You can also duck and have a "punch" command. Find the correct solutions to the game's puzzles, otherwise a gruesome death awaits you!

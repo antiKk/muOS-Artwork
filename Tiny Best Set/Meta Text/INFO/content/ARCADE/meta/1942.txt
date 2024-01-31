@@ -1,0 +1,7 @@
+"1942" is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet.  
+ 
+The player pilots a plane dubbed the "Super Ace" (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots.  
+ 
+During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points. 
+ 
+At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. "1942" differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.

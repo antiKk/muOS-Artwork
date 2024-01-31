@@ -1,0 +1,5 @@
+Gyruss is a single-player shoot-em-up in which the purpose is to fly through the solar system, destroying waves of alien attackers, before finally reaching Earth. Planets that must be passed before Earth is reached are Neptune, Uranus, Saturn, Jupiter, and Mars.  
+ 
+It only takes two warps to reach Neptune, but all of the others, including Earth, take three warps to get to. Each time the player reaches a planet, they will be faced with a 'Chance Stage', a bonus stage in which players try to destroy as many aliens as possible to accrue points. After reaching Earth, there is a Chance Stage, followed by a very fast '3 Warps to Neptune' stage. After this, the levels and the background music start over.  
+ 
+Gyruss' superb gameplay, in which the player ship rotates around the edges of the screen and fires 'inwards', is heavily influenced by Atari's 1981 classic, "Tempest". While the design of the alien ships themselves is similar to those of Namco's also-legendary "Galaga" series.

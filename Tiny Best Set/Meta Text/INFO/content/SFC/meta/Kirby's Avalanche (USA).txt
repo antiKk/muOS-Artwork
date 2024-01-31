@@ -1,0 +1,3 @@
+The First Annual Dream Land's Avalanche Competition is about to get under way, and as Kirby and a host of characters from the Kirby series, you can join the tournament and become Avalanche king.
+
+Avalanche is similar to Puyo Puyo, and has you stacking colored blobs similar in a way to Tetris. When a certain amount of one color is stacked, an explosion occurs and the screen clears of those blobs, which then appear in the other players screen (either the CPU or a second player). When your screen is cleared before the other player, you move onto the next round, and so on until the final boss. The winner of that match is then crowned the Avalanche king. 

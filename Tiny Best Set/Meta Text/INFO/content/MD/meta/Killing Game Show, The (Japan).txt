@@ -1,0 +1,7 @@
+This is a vertical platformer with horizontal wrap-around. For the entertainment of the futuristic masses, you play a criminal that has been inserted into a mechanical body with the promise that if you succeed in surviving through all the levels (there are many and they are hard), you will be set free.
+   You start each level at the bottom, near pooling liquid which will soon rise, at your immediate peril. Navigate the level from bottom to the exit at the top before the liquid rises and kills you. There are many other foes that fly around, causing you damage and basically annoying you to spit.
+   Most levels must be navigated through a series of keyed gates, doors, or portals. These shaped keys are scattered around the map and must by picked up and used only on the gates they match individually.
+   Twist: You can only carry one special weapon (triple shot, laser beam, or vertical shot) and one tool (key, liquid-freeze, or a red herring) at a time.
+   This game requires a lot of memorization of enemy movement patterns and optimum routes.
+   A unique feature is that when you die, you can watch a replay and take over at any point to continue your game.
+   You can also hit the HELP button at the start of each level to view a map, helping you plan your route.

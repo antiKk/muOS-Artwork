@@ -1,0 +1,11 @@
+Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose. 
+ 
+The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing.  
+ 
+Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time.  
+ 
+Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage.  
+ 
+A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out. 
+ 
+Sunset Riders features eight stages of play.

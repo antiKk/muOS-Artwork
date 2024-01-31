@@ -1,0 +1,7 @@
+Dragon Warrior is the first famous console RPG. You assume the role of a descendant of Erdrick, a brave warrior of the past. Once upon a time, Erdrick defeated the evil Dragonlord with the help of the Ball of Light. Now, Dragonlord stole the Ball of Light, and your mission is to recover it and to restore peace in the world.
+
+In Dragon Warrior, you move your character around in a top-down world. In cities and palaces you can talk to people, rest in inns and buy stuff in shops. There's a variety of weapons, equipment and armor to buy. 
+
+When wandering around in the wilderness, you occasionally encounter enemies, and fight them from 1st person perspective. Combat is turn based: you select menu options while fighting - you can attack with your weapon, cast a spell (using up some of your magic energy), use and item or try to run. Killing monsters gives you experience, and, as is typical for RPGs, you level up and improve your stats when you gain enough experience. 
+
+Like in later RPGs, you have limited hit points, lose them when you are attacked by enemies, and die when you run out of them. When your character dies in a battle, he is automatically restored in a nearby town.

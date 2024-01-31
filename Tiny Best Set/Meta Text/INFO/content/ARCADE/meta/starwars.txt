@@ -1,0 +1,17 @@
+Star Wars is a single-player 3-D shoot-em-up based on the legendary movie franchise of the same name. This game is specifically based on the very first Star Wars movie, 'Episode IV: A New Hope'. The player takes on the role of Luke Skywalker (Red Five) whose goal is to blow up the infamous "Death Star" by firing a Proton Torpedo into an exposed exhaust port situated on the Death Star's surface.  
+ 
+Before reaching the exhaust port, players must survive three attack phases.  
+ 
+PHASE 1: The game begins in outer space above the Death Star. Players must engage in a dog fight with Darth Vader and numerous enemy TIE Fighters. All but Vader's fighter can be shot and destroyed. Incoming enemy fire must be avoided or shot to prevent damage to the player's Deflector shields.  
+ 
+PHASE 2: The X-Wing flies down to the surface of the Death Star and is confronted with a barrage of laser turrets and towers as the X-Wing flies across the Death Star's surface. Any collisions with either the towers or incoming enemy shots will cause damage to the player's Deflector Shields.  
+ 
+The laser tower tops have a progressive scoring incentive that is displayed at the top center of the screen, along with the number of remaining laser tower tops that need to be destroyed before the X-Wing enters the exhaust port trench. If the player manages to destroy all of the towers, a sizeable point bonus is awarded.  
+ 
+PHASE 3: The X-Wing begins its approach down the trench of the Death Star, heading for the exhaust port situated at the end of the trench. The trench walls are lined with red laser-gun turrets that fire at the player as he makes his approach. Incoming fire must either be avoided or shot. Trench catwalks of varying shapes and heights also appear in later trench runs. These must be avoided as any collision results in damage to Red 5's deflector shields.  
+ 
+If the player survives the trench run, the voice of 'Han Solo' will advise that 'You're all clear, Kid' and the player must quickly shoot the exhaust port to destroy the Death Star. If a trench run is completed without the player having fired any shots other than the shot into the exhaust port, a sizeable point bonus is awarded for 'using the force'. If the exhaust port is missed, Red 5 will plough through the wall at the end of the trench and lose one deflector shield, after which the trench run will start over.  
+ 
+If the player succeeds in blowing up the Death Star, Red 5 makes its escape before turning to view the colourful explosion. Bonus points for Remaining Shield Energy is now scored.  
+ 
+The player is then returned to the fray and whole process begins again. Each successive Death Star run greatly increases in difficulty; TIE Fighters shoot more often, there are more Laser towers and batteries in successive rounds and there are many more obstacles and laser fire during the trench run.

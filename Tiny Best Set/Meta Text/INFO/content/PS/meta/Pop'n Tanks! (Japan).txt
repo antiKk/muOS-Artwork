@@ -1,0 +1,9 @@
+Pop 'n Tanks is a tank combat game that strives for the dimunitive and the comic rather than the realistic. The players pilot a mini-tank across a 3D terrain, crushing barricades and shelling other tanks. Tanks may be customized by using a variety of parts, and once configured to the player's preferences, the data may be saved to a Memory Card. 
+ This is a tank battle game. The player who wins 2 rounds win the match. In order to win a match the player must empty the enemy's energy bar. 
+ You'll get to battle in all sort of arena with differentterrain ranging from lush forest, down town area, to spooky caves. 
+ Pop'n Tanks allows you to take control one of many SD tanks into 1 on 1 battle against an opponent. One can play in story mode to face all enenmies in progrssive order or have a quick battle or use your saved tanks in custom battle against a friend. The game has different game modes: 
+ - TANK WORLD: In this mode you get to create your own tank (based on the default tanks) to customise and compete in the tank world's tank competition. 
+ - STORY MODE: In which the player choose to play as 1 of eight chracters in a quest to beat all the others. The game characters are: Puel, Bit-Man, Puela, Vokkle, Domina & Hekkle, Ferina, Gunt & Date 
+ - QUICK BATTLE (Play against an oponent in a split screen mode) 
+ - CUSTOM BATTLE (2 players only. You get to battle with your customised tank from TANK 
+WORLD.

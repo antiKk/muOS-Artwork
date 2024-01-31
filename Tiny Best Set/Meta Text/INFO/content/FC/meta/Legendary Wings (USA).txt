@@ -1,0 +1,5 @@
+Legendary Wings is an arcade shooter influenced by Greek mythology.  A heroic figure from ancient times thrust into a strange futuristic world, you must fight your way through six levels to defeat "The Devil" and save the day.
+
+The primary gameplay mode is a top-down, vertical-scrolling shooter similar to Xevious and Capcom's own 1943.  Your main weapon is used to attack flying enemies, and your secondary missile weapon is used to attack fixed placement, land-based enemies.  Numerous powerups are available along the way, and these both improve your weapons and your resistance to damage (every "upgrade" is worth a free hit from enemies without dying).
+
+Several secondary gameplay modes (Danger, Lucky, and Palace) are also triggered at key points in the vertical-scrolling mode.  All of the secondary modes are side-scrolling shooters.  The Danger stage requires you to face a gauntlet of enemies, while the Lucky stage is full of powerups, game continues, and other bonuses.  The Palace stage is triggered when you defeat a mini-boss; you must get past the palace defenses before you can face the end-of-stage boss.  And, oh yeah...don't get crushed by those walls!

@@ -1,0 +1,7 @@
+Sonic Battle is a fast paced pseudo-fighting game akin to Super Smash Bros. Rather than being 3D side-scrolling, the game employs a 3D isometric view that is comprised of actual texture-mapped polygons. The character sprites are 2D.
+
+There are 9 characters to choose from and 5 modes of play: Story, Battle, Challenge, Training, and Mini Games. You can link up 4 GBA's to fight your friends, and each character has several different attacks. It has a system of selecting Aerial, Ground, and Guard based attacks. Depending on what type of attack you set for which area (aerial/ground/guard) you have a possibility of 9 total different special attacks to choose from (only 3 at a time in a match though) which you can change each time you lose 1 stock point.
+
+The game includes a trainable character whose abilities and techniques you can raise and add to. You get to pick and choose every aspect of the robot's style (running, attacking, jumping, dashing, etc.).
+
+The game takes a moderate amount of time to play through as all the characters, and adds a longer lifespan to itself if you wish to play through and beat it completely (all characters, get all moves for the trainable robot, etc).

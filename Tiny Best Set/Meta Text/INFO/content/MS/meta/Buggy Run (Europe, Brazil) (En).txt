@@ -1,0 +1,19 @@
+Buggy Run is a game that lets players race dune buggies in a championship over 15 possible tracks (plus 4 in 2 player mode) each winning money that can be used for dune buggy upgrades.  There are 4 different modes that can be played in single player mode that includes Race, Vs Com, Freerun, and Battle.
+
+In the main mode Race the player is given $20,000 starting cash that can be used to upgrade the buggy. The upgradable features of the buggy are Tyres (grip), Engine (speed), Suspension (limits bounce), Steering (cornering), Transmission (performance). All the upgrades cost $10,000 for level 2, $30,000 for level 3, and $50,000 for level 4 however the player doesn’t need to get them in order. There are also special upgrades to buy that includes $5000 for a mine (drops behind and if another car hits then it is blown up until reset), $5000 for Nitoro (gives the players car a short speed boost), and $10,000 for extra capacity of special items (starts with 2 slots to a max of 6). Special Items must be used in the order they're placed in the slots.
+
+Within the race the player will be racing 4 other cars to a race to the chequered flag on an isometric scrolling track. Some hazards on the track are lumps and jumps, bumps, rough road and mud. Appearing on the track are special power-ups that are red or white boost and extra money also a random that selects between the two. The prize money for winning is $30,000, 2nd gets $20,000, 3rd gets $10,000, and last gets $5000 to spend on the upgrades and power-ups between races. There are 3 stages of racing that is beginner, intermediate, and expert that have 5 races each. The player must qualify for the next stage or else it will be game over.
+
+In Vs Com the player plays the computer one on one on any track of the player's choice. All the upgrades for the buggy for the player and the computer are done though allocating a set number of points to varies upgrades. All the item slots can by used for either the nitoro or mine. 
+
+Freerun is a time trial where the player races alone without upgrades on any track against the clock. 
+
+Battle mode is where the player picks 3 computer players to battle on a round arena with the objective to knock the opponents off with the last player on the arena winning.
+
+There is also a two players mode that include Race, 1P vs 2P, and Battle.
+
+In 2P Race there is $30,000 for both players to upgrade there cars before placing them on a track with a fixed overhead view where they play 2 computer opponents. There are 4 different themes to pick from.
+
+1P vs 2P is just the two players battling it out on one of 4 tracks each with 4 different themes. Buggy upgrades are done though allocating a set number of points.
+
+Battle is the same as single player battle only with 2 players and 2 computers.

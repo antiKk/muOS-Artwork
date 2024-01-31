@@ -1,0 +1,9 @@
+The tiles klank end over end down the ramp. Catch them on the paddle, or they fall in the pit. Flip them from the paddle into the bins, matching the same-colored tiles horizontally, vertically, or diagonally. Each line of colored tiles is a Klax. When you've made a Klax, you hear a fanfare. When you complete a wave, the crowd cheers. Let a tile fall in the pit, and you hear a scream as it falls in. If you fail to complete a wave, the crowd is disappointed. Stay alive, complete the waves and don't drop any tiles! 
+ 
+Catch the tiles as they come to the end of the ramp on the paddle. Flip a tile into a bin by pressing the start/flip button. Pull the joystick forward to increase the speed of the closest tile as it klanks down the ramp. Push the joystick back and toss the top tile on the paddle back on the ramp and gain a little time. 
+ 
+The paddle can hold up to five tiles. As long as the green light is on below the paddle, you can pile more tiles on the paddle. When the red light appears, you must flip at least one tile in a bin or toss it back on the ramp before you can collect any more tiles. You can flip tiles into a bin as long as the green light is on below the bin. 
+ 
+To succeed in Klax, make points and also complete each wave. Create a horizontal, vertical, or diagonal row of at least three tiles (just like in tic-tac-toe) in the bins to make a Klax and make points. You receive the most points for diagonals, less for horizontals and the least for verticals. When you create a Klax, the tiles in the Klax disappear to make room for more tiles in the bins. 
+ 
+

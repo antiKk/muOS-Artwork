@@ -1,0 +1,5 @@
+Whomp 'Em tells the tale of a little Native American Indian named Soaring Eagle who is on a quest to fill his magic pouch with totems. These totems are guarded by fearsome bosses at the end of different environments spread throughout the land. Each totem gives Soaring Eagle a new power to help him complete his journey.
+
+Whomp 'Em is a side scrolling action platformer. The hero can run, jump, and attack with his spear. Not only can he jab forward with his spear, Soaring Eagle can also stab upwards or downwards while jumping. Further, he can use his spear to defend from attacks coming from above.
+
+Soaring Eagle must first conquer a bossless, introductory level. From there, he is free to choose from among 6 different lands to explore: Fire test, ice ritual, secret cliff, water test, magic forest, and sacred woods. Each level is highly unique with its own dangerous enemies and lethal boss. After completing these 6 areas and collecting the associated totems, Soaring Eagle is whisked off to a cloud realm where he must use all of his accumulated power to defeat a much larger enemy.

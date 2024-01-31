@@ -1,0 +1,7 @@
+Puzz Loop is a puzzle game for one or two players in which different coloured marbles continually roll down a spiral path towards a central goal line. 
+ 
+Players control a rotating cannon situated at the center of the spiral and must stop the line of marbles from reaching the goal by shooting matching coloured marbles into the line. If three or more marbles of the same colour are matched, they will disappear. 
+ 
+In addition to standard marbles, bonus marbles occasionally appear that will, for example, temporarily slow down the rate the marbles' advance, or cause all marbles of a certain colour to be destroyed. Also, providing there is a clear line of sight, unwanted marbles can be fired straight out of the play area to prevent them from adding to the advancing line. 
+ 
+All marbles must be destroyed to complete a level. The game is over once the marbles are pushed over the goal threshold.

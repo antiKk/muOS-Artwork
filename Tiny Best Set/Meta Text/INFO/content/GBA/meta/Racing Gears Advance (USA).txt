@@ -1,0 +1,5 @@
+This handheld racing game offers a range of licensed cars, several courses and circuits, and a challenging set of opponents. To these stock elements, it adds one more: weaponry. Now you can choose to nitro past the opponent ahead of you, or slow him down with a missile.
+
+With each vehicle and driver pair you can race in Practice Mode to familiarize yourself with tracks or choose a Championship Mode to progress through a series of circuits. After each race you'll need to spend some of the money you've earned (either by placing or picking up money icons during the race) to repair and -- if possible -- upgrade your car. The upgrades can improve your car as a racing machine (e.g. a larger engine or better brakes) or as a war machine (e.g. adding more weapons bays or buying a new type of weapon).
+
+The track design uses the isometric view, and almost never puts the car behind an obstacle. However, among the twisty roads are a few shortcuts that require you to think outside the lines of the road, and occasionally take a leap of faith.

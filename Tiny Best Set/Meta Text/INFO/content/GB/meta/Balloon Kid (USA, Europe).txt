@@ -1,0 +1,3 @@
+Balloon Kid is a unique side-scrolling platform game. You control a little girl who's brother has floated away on a big bunch of balloons. It's up to you to chase after him through 8 treacherous levels.  Instead of the usual jumping from platform to platform, you have a pair of balloons that allow you to float through the level. You must control your height carefully by tapping the 'A' button. Meanwhile, the screen is always scrolling to the left, and you have to keep up.
+
+In addition to the single player adventure, there is a 2-player mode that allows you to compete against a friend via the Game Boy link cable.  In this mode you try to get your opponent to maneuver their balloon kid into the various level hazards.

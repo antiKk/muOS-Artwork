@@ -1,0 +1,3 @@
+This is an enhanced version of 1943: The Battle of Midway, with most of the graphics and sounds reworked. There are also changes in the weapons and the inclusion of anachronical items such as laser-firing WWII planes and ships that run on ground. The player controls a biplane Boeing Stearman E75 N68828 instead of the P-38. 
+ 
+The PC Engine adaptation adds some original levels to those from the arcade version, as well as animated intermissions.

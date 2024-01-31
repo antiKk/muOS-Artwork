@@ -1,0 +1,1 @@
+The player controls a small red car and dripping paint must jump between platforms to paint them in.  Oil cans are collected and used to shoot at:  police, taxis, ambulances and jeeps; that roam the levels. Catch 3 balloons to advance multiple levels.  Cats must be avoided at all costs.

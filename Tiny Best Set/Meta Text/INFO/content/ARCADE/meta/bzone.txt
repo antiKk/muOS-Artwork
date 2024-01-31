@@ -1,0 +1,5 @@
+Battlezone is a classic one-player first person 3-D wire frame shoot-em-up in which the player controls a tank patrolling a dangerous war zone. Set in a valley surrounded by mountains, the aim is to destroy as many enemy tanks as possible, while avoiding return fire and destroying or avoiding the homing missiles that occasionally appear. 
+ 
+Enemy tanks come in two varieties; standard slow-moving tanks and fast-moving 'Super Tanks'. A single hit taken from either an enemy tank or homing missile will result in the loss of a player tank. A flying saucer also occasionally appears but does not attack the player and can be either ignored or destroyed for bonus points. 
+ 
+A radar screen at the top of the play area shows the current position of any enemy tanks or missiles within range, and the war zone is littered with indestructible pyramids and boxes that can provide temporary cover. Only a single shot is allowed on screen at any one time so accuracy of shots is vital to survival.

@@ -1,0 +1,3 @@
+Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out!
+
+Mr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning.  Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).

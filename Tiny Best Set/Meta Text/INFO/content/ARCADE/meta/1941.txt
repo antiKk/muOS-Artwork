@@ -1,0 +1,5 @@
+The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]

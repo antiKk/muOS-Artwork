@@ -1,0 +1,3 @@
+Tecmo Super Bowl is the follow-up to the NES football arcade/simulation Tecmo Bowl.  While the basic gameplay of the original is intact, a host of new features and improvements have been added.  
+
+Features include: 28 real NFL teams/mascots with real NFL players (circa 1991), 11 players on the field per team, player substitutions, fumbles, improved control over kicks and punts, eight plays to choose from during games, customizable playbooks, arcade/coach/computer simulation options for one or two players, pre-season/regular season/Pro-Bowl games, regular season team standings and rankings, regular season player statistics and rankings, end-of-game boxscores, and a 12-team playoff following the NFL format.

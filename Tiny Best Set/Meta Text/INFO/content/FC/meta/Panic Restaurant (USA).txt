@@ -1,0 +1,5 @@
+Panic Restaurant is a side-scrolling platform game where you play as chef Cookie. The rival chef Ohdove has taken over his restaurant and it's up to Cookie to reclaim it.
+
+It is a fairly basic platform game. You run and jump, and enemies are placed all around to try and stop you. The entire game, backgrounds, enemies and bosses, is food-themed. You encounter things such as sausages, microwave ovens, onions and hamburgers on your way through the restaurant. To your help you always have a frying pan to beat the enemies with, and you can also find other items, such as a spoon, and plates to throw at the enemies.
+
+The game contains 6 stages, each in a separate location in the restaurant, such as the kitchen, freezer and basement. At the end of each level you are faced with a boss. In between each level is a bonus game where you play a slot machine to try and win some extra health and lives.

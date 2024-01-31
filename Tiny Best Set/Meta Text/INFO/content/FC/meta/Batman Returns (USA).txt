@@ -1,0 +1,7 @@
+Like Konami's other adaptation of Batman Returns, the NES version is a side-scrolling beat 'em up. Next to brawling action, it also features two sections where the player controls the Batmobile and the Batskiboat seen in the movie.
+
+In the beat 'em up sections, Batman has to defeat a large number of enemies (members of the Penguin's circus gang) to advance. Possible attacks include punches, sliding attacks, drop kicks and a powerful 360° cape slash attack which will drain Batman's health bar. Gadgets to be used include a limited number of batarangs and a grappling hook. The hook is useful for many things: it can take down flying enemies, pull Batman up to higher levels, lets him climb into open windows and more. Hidden in background items somewhere in the levels are power-ups, including hearts that refill the health bar and extra batarangs.
+
+Each of the six levels in the game concludes with a boss fight against one or more especially powerful enemies.
+
+The Batmobile is armed with machine guns and bat discs, used to dispatch the enemy bikes and cars in the driving level. The Batskiboat section is similar, except that there are no enemies and the only goal is to collect coins for extra points.

@@ -1,0 +1,5 @@
+A platform game in which the player controls a mother Kangaroo who must climb through the treetops trying to rescue her captured son. Numerous monkeys, the kidnappers of her child, roam the levels set on stopping the player's progress. The monkeys constantly throw apples at the Kangaroo which must either be avoided (either by ducking or jumping, depending on the height of the approaching apple), or punched away, the latter of which allows the Kangaroo to punch the apple back towards the attacking monkey. 
+ 
+If the player stalls for too long or does not punch either an apple or a monkey, a giant ape will appear and steal the Kangaroo's boxing gloves, leaving the player temporarily defenseless. The gloves are returned after a short time. 
+ 
+Fruit and vegetables litter the levels and can be picked up for bonus points. Each level also has a bell hanging from one of its platforms, which can be punched to make fruit and vegetable items appear. The game consists of 4 different stages, once these are completed the game begins again with an increased level of difficulty.

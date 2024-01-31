@@ -1,0 +1,3 @@
+Fast-paced action-puzzle game where the player eliminates colored shapes that are approaching his alter ego, another colored shape, before they reach the top, ala Tetris.
+
+In order to eliminate the other shapes, you must point your piece at it and 'fire'. If the shape is the same color as your piece, the shape is eliminated, as well as all of the shapes of the same color behind it, until your piece hits a piece of a different color. If the shape is of a different color, or it is hit when collecting a line of similar shapes, your piece exchanges colors with the shape.

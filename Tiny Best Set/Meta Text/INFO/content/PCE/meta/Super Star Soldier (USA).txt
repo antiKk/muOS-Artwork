@@ -1,0 +1,5 @@
+Super Star Soldier takes place in the far future, where you are the last hope for planet Earth, which is being attacked by an alien race. 
+ 
+The game features top-down view with vertical scrolling levels, similar to its predecessor Star Soldier.  
+The game features the following game play modes: normal play, score play, 2 minutes play and 5 minutes play. 
+Each level has its own tough boss at the end.

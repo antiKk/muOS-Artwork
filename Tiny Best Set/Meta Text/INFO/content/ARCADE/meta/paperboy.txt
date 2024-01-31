@@ -1,0 +1,17 @@
+Paperboy © 1984 Atari Games.
+
+Paperboy is a one or two-player game in which the objective is to deliver Newspapers to the Paperboy's customers from Monday through to Sunday. 
+
+Each game begins with ten customers and ten non-customers. Paperboy's customers live in the brightly coloured houses, while non-customers live in dark coloured houses. To deliver to a customer, the player must throw a paper either into the customer's mailbox, or onto their front porch. Failure to deliver a paper to a customer results in the loss of that customer for the next day. Any damage done to a customer's property also results in the loss of that customer. Losing all ten of Paperboy's customers will get him fired and the game is over. However, on any day in which all customers have their papers successfully delivered, one of the non-customers will re-subscribe.
+
+Non-customers' houses and yards are loaded with targets at which to throw your extra papers (windows, lamps, statues, etc.). Hitting these targets earns points for the "Breakage Bonus", which is displayed at the top center of the screen. The total Breakage Bonus is awarded to the player at the end of each day (or at the end of the game-whichever comes first). 
+
+If Paperboy loses a customer, that customer's house will be dark coloured the next day. As a non-subscriber, this house now presents more targets at which to throw newspapers for building up the Breakage Bonus. At the start of each day, a map of Paperboy's route is displayed to indicate subscriber and non-subscriber houses. This helps to remind players of what customers they may have lost on the previous day and the location of remaining customers. 
+
+Paperboy can carry a maximum of ten papers at a time, but can restock his supply by riding over paper bundles placed here and there on his route. A paper supply indicator is displayed underneath the player's score. 
+
+While making his deliveries, Paperboy must avoid collisions with all stationary objects and other characters moving about the neighborhood. To avoid collisions, Paperboy can ride his bike anywhere - on the sidewalk, in the street, or into front yards. A collision with anything results in the loss of a life. 
+
+In addition to the obstacles, non-subscribers are hostile towards Paperboy and will attack him and try to knock him down. If Paperboy damages a subscriber's property, that character may also attack. So the more customers that are lost, the more hostile the neighborhood becomes toward Paperboy. 
+
+At the end of each delivery day, players have a chance to sharpen their skills by guiding Paperboy through the Paperboy Training Grounds. This obstacle course is filled with various targets at which to throw newspaper, as well as ramp jumps to be negotiated. This is a bonus round and no lives are lost for failing to reach the finish line.

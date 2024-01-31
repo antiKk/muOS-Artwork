@@ -1,0 +1,11 @@
+Circus Charlie is a single-player abstract platform game in which the player must guide the eponymous Charlie through six different circus events. Bonus points can be won by finishing a level as quickly as possible, with further points awarded for collecting any of the money bags that occasionally appear. 
+ 
+Finally, additional bonus points are awarded for completing a level without losing a life. The game is over when all Circus Charlies are lost. 
+ 
+The six different events are: 
+Ride a lion and jump through fiery hoops and over blazing pots.  
+Jump over monkeys while walking a tightrope.  
+Bounce on trampolines, avoid fire breathers and sword jugglers.  
+Jump on giant, rolling beach balls.  
+Ride a horse while avoiding obstacles.  
+Trapeze.

@@ -1,0 +1,5 @@
+Bionic Commando is a scrolling platform shoot-em-up set ten years after the end of World War III, with the player taking on the role of 'Super Joe'; an elite Commando tasked with infiltrating the enemy's heavily defended military base to discover their secrets plans and destroy their missile silos.  
+ 
+To aid him in his mission, Joe is equipped with a bionic arm; a telescopic grappling hook that is used to traverse the many platforms and ledges that make up the game's levels. The arm can also be used to temporarily stun enemies or knock them from platforms, as well as to retrieve the bonus items, wooden crates and weapons that are occasionally dropped into the war zone by parachute.  
+ 
+As well as the bionic arm, Joe is armed with a shotgun used to kill enemies and destroy obstructions. The shotgun can only be fired left and right, however, and cannot be used at the same time as the bionic arm. More powerful guns can be picked up throughout the game. 

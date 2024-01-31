@@ -1,0 +1,5 @@
+The lovely princess Lala was kidnapped by the Evil Demons of the Empire. You are Lolo, a round ball-like creature (just like the princess herself), and your mission is to sneak into the empire castle and to liberate the princess.
+
+Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts. It is not always easy, because some hearts are blocked by enemies who will shoot you when you cross their path horizontally or vertically (or both). Once you collect all the hearts, a treasure chest will open and activate all the creatures in the room, even those who were not hostile until now. You must quickly cross the room to the exit which is now available to go to the next room. The game contains 50 rooms in total.
+
+The difficulty level increases with each room, and after a few levels there is an especially hard room with tougher enemies.

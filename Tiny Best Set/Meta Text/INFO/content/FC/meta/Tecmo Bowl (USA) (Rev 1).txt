@@ -1,0 +1,7 @@
+The most popular American football game to hit the NES console, Tecmo Bowl pits the player vs. the computer in 11 game single-elimination playoff action, or you can go head-to-head with a human opponent in action or coach mode.  There are 12 teams of real NFL players (circa 1988) to choose from, but don't look for official NFL team logos or mascots like Bears or Dolphins--Tecmo Bowl has the NFLPA but not the NFL license.
+
+The play perspective is top-down and the screen scrolls horizontally.  Player graphics are large and colorful, which is made possible by limiting the number of players to nine per team.  Animated cut-scenes are shown following touchdowns and at half-time, and crowds are shown filling the endzone seats.
+
+There are four plays to choose from on offense--usually two runs and two passes. The player takes control of the quarterback before the snap and then either hands off to the running back or works through his receiver progression from the top to the bottom of the screen.  Defense consists of trying to guess which offensive play the opponent will select and then taking control of one of the defensive players before the snap.  A very simple power meter system is used for kicking field goals, extra points, and punts.
+
+There are no game or season stats and there is no way to save your season, but there is a password feature allowing you to resume tournament play where you left off.

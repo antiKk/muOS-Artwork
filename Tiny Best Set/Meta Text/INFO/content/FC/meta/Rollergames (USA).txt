@@ -1,0 +1,7 @@
+This is a platform game in the same fashion as Turtles II, that is that it's a sidescroller were you can move up and down on the screen, but you go on rollerskates. This makes the game go much faster than its counterpart, which adds difficulty and also a sense of speed.
+
+It includes a silly story about three different roller skates gangs (somewhat like motor cycle gangs) in a close future, which is most an excuse for the game to exist.
+
+You can choose between three different gangs, one is all-around, one is fast and weak (and consists of women) and one is slow and strong, you get the fashion. This adds some replayability, but in reality, they are kind of the same.
+
+The game also suffers from trial and error; you must learn the courses if you want to master them. Luckily, the game has unlimited continues.

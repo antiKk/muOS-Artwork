@@ -1,0 +1,11 @@
+Fire Shark takes place around a small island in the South Pacific.  It is a continuously-scrolling aerial shooter with a top-down view.  Your World War II era biplane has been modified to shoot lasers and drop powerful bombs. 
+
+There are ten levels in the game in which you will face aerial, aquatic, and ground enemies. They all fire scores of missiles at you in an attempt to knock you from the sky. 
+
+In between levels, your plane will land on a runway for refueling and maintenance.  You will receive bonus points for the number of bombs left in your hold and the number of lightning bolt icons you picked up in the prior level.
+
+There are also many power-ups available in each level.  Slow-moving blimps contain a power-up icon which is revealed after the zeppelin explodes.  Other icons appear when various other enemies or buildings are destroyed.  These power-ups will float around the screen for several seconds. Grabbing them with your plane earns you a weapon upgrade or bonus points.
+
+The standard weapons are the bomb and the Wide Shot.  As power-ups are obtained the number of shots per blast can increase up to 16.  The Wide Shot is a comparatively weak weapon that usually requires multiple hits to take an enemy down.
+
+The Shark Beam is a green laser that fires in a spiral pattern and the strongest weapon of all is the Super Fire.  It will fire continuously while the fire button is held.  Power-ups increase its beam count to 4.

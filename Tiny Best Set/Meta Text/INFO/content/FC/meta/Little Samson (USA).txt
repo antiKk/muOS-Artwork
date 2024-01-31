@@ -1,0 +1,13 @@
+Ta-Keed, the Prince of Darkness, has managed to escape from his supernatural penitentiary where he has had centuries to plot exactly how he will take revenge on those that locked him away. Emperor Hans sends his troops to deal with this threat, but they are no match for the ultimate evil one. As an alternative, the emperor summons the bearers of 4 Magical Bells. These 4 adventurers must make their way to the castle and work as a team if they are to destroy Ta-Keed.
+
+The first part of Little Samson has each of the 4 characters journeying from his or her home land to the emperor's palace. This gives the player an opportunity to explore that character's unique abilities which will be essential throughout the game.
+
+1. Samson is a human who is reasonably fast and also possesses magnificent rock climbing prowess. He is able to scale walls and hang across ceilings, and also grab onto walls and ceilings while jumping. His offensive option is the ability to shoot bells straight ahead.
+
+2. Kikira is the Dragon Lord. Since she has claws, she does not slip on ice. When she jumps, she can also fly for short bursts. She breathes fire in 2 intensities, depending on how long the player holds down the fire button. Her fireballs spread in arc patterns.
+
+3. Gamm is the Rock Lord. Since he is a living rock he is very strong. So strong in fact that spikes do not hurt him, which is very valuable in a number of situations. He is also very slow and has only a short leap. He has a powerful punch.
+
+4. K.O. is the Mouse Lord. He is tiny which allows him to enter areas that other team members can not. He is also extremely fast and the highest jumper of the team. However, he is the weakest member so he can not sustain very much damage. He has the same wall and ceiling traversal abilities as Samson. Offensively, he can drop time-delay bombs.
+
+When all 4 characters reach the emperor's palace, they all jump into Samson's bell. Actually, Gamm and K.O. quietly jump into Samson's bell; Kikira initially refuses. After a brief fight (with the player controlling Samson), Kikira joins the effort. Throughout the rest of the game, the player can switch between any of the 4 characters by entering the sub-screen. Each character has their own power meter. However, all the characters share lives. If the presently selected character loses all of his or her power, then one life is lost. The player must swap between all 4 characters in order to complete the journey.

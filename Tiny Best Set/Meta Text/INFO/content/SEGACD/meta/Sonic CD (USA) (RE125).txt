@@ -1,0 +1,3 @@
+This is a standard Sonic the Hedgehog side-scrolling action game. Dr. Robotnik has taken over the Little Planet, captured Amy, and created Metal Sonic with the goal of collecting all the Time Stones to be able to manipulate time and conquer the world.  It is up to Sonic to stop him, by rushing through levels set in different time periods, collecting Time Stones.
+
+Sonic CD has features that take advantage of the CD format such as CD audio, video clips, and more levels (over 50 in total).

@@ -1,0 +1,5 @@
+Three Wonders contains three games from which a player may choose: 
+ 
+Midnight Wanderers: Quest for the Chariot - A platform game that sees the player control a hobbit named Lou and his traveling companion, Siva, to run, climb, and shoot at enemies. 
+Chariot: Adventure through the Sky - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game. 
+Don't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru. It involves the player controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.

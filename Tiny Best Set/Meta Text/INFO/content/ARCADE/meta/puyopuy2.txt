@@ -1,0 +1,1 @@
+This sequel to Puyo Puyo is, like its predecessor, a game of falling blocks, in which the aim is to combine four or more blocks (Puyos) of the same colour, which then disappear. The remaining Puyos then fall and can produce combos that cause special harmful blocks to appear on the enemy's terrain.

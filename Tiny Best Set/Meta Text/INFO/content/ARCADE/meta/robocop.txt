@@ -1,0 +1,5 @@
+RoboCop - The Future of Law Enforcement is a single player, side-scrolling platform shoot-em-up based on the 1987 movie of the same name. The game's story mirrors that of the film, with former cop Murphy, now a half-human cyborg called 'RoboCop', on a quest to bring down the evil OCP corporation. 
+ 
+RoboCop features nine levels of action, with two of the game's nine stages being into-the-screen target ranges, in which players can try to accrue bonus points and earn extra health. Wooden crates occasionally bar RoboCop's progress, but these can be punched to remove them. Marked crates can be smashed to reveal one of three Weapon power-ups; Three-way Gun, Dual Laser and the incredibly powerful Cobra Gun. 
+ 
+The film's incidental music plays throughout the game and RoboCop's speech is sampled directly from the original film.

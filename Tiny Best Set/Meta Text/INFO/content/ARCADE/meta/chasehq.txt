@@ -1,0 +1,3 @@
+"Chase H.Q." is a checkpoint-based racing game in which the player takes on the role on an undercover cop called Tony Gibson in this 'Miami Vice' inspired game from Taito. Gibson drives a powerful unmarked police car (resembling a Porsche 911) along with his partner, 'Raymond Broady' and must chase down and apprehend various criminals. 
+ 
+The player has between fifty-five and seventy seconds (depending on the game's 'Dip' settings) to catch up with the fleeing criminal, then the same time period again to repeatedly ram into the criminal's car until it is too damaged to drive. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape and the game ends.

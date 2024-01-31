@@ -1,0 +1,17 @@
+Felix The Cat is a platformer based on the famous cartoon character.
+
+The Professor has kidnapped Kitty, Felix girlfriend, trying to exchange her for Felix' magic bag. Naturally, Felix is not going to let himself be blackmailed, and instead sets out to free Kitty. 
+
+There are four different types of levels. 
+
+1. Typical platforming levels in which Felix has to make his way to the exit while jumping about obstacles and chasms, killing enemies using different weapons.
+
+Swimming levels in which Felix rides a float or on the back of a dolphin.
+
+Levels that take place entirely under water.
+
+Flying levels that put Felix in control of different flying devices, such as a plane, a hot-air balloon or an umbrella.
+
+Throughout all levels, Felix can collect cat symbols to improve his weapons. After collecting a certain number of cat symbols, milk bottles or hearts will appear. Hearts improve Felix' current weapon. What types of weapon Felix can use, depends on what type of level he is in. There are lots of different weapons ranging from a boxing glove to motorcycles to tanks to spaceships. All weapons that are better than the standard weapon have an energy bar that diminishes over time and can be refilled by collecting milk bottles. Getting hit by an enemy decreases the level of Felix' current weapon. If he gets hit while carrying the standard weapon, he loses a life.
+
+The Game Boy version plays virtually identically to the NES version, but features less levels.

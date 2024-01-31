@@ -1,0 +1,1 @@
+DoorDoor is platform game in which you have to lock up the monster creatures that pursue you. Only one creature can be locked up behind one door. Don't forget to close the door or the creatures will walk out and pursue you again.

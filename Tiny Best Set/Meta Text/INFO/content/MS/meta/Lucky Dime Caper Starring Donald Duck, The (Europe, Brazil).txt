@@ -1,0 +1,3 @@
+The Lucky Dime Caper is a 2D platform game featuring Donald Duck in search of Uncle Scrooge's lucky dime, stolen by Magica De Spell.
+
+The game is the 8-bit counterpart for Quack Shot (released only for Sega Genesis), which also features Donald Duck, but the story and gameplay are totally different.

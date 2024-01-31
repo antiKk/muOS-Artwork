@@ -1,0 +1,5 @@
+Ranger X was released fairly late in the lifetime of the megadrive. Coming from an unknown developer it was released with little fanfare and advertising but has become one of the best demonstrations of what the genesis/megadrive is capable of.
+
+The game is a side scrolling shooter of sorts. You control a large mech (robot) which has a smaller side-kick mech which is a bit like a car. The two can join together providing an alternate shooting mode. Whilst controlling just the main mech however, the player can shoot both forward and back by using different buttons. The mech can also use it's rocket pack to boost off of the ground and hover for a short while. Levels are not necessarily left to right moving (although for the most part they are) and the game is an interesting blend of platform game and shoot-em-up.
+
+The game features innovative graphics given the hardware limitations - there is a 3D introduction to most levels (remembering that the console had no 3D capability and a tile-based renderer) and some levels use a line-based scrolling effect to give the impression of 3D backgrounds.

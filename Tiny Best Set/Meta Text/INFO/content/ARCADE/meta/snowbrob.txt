@@ -1,0 +1,13 @@
+One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels.  
+ 
+The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path.  
+ 
+If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible. 
+ 
+When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups: 
+Yellow = Long shot 
+Red = Speed up 
+Blue = Bigger snowballs (encases monsters quicker) 
+Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch. 
+ 
+Every 10th level features a battle with a large end-of-level boss.

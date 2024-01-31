@@ -1,0 +1,9 @@
+Joust is a platform-based action combat game for one or two-players (with the two-player game offering either team-up OR head-to-head combat; the first time arcade gamers were given this choice) in which each player controls a knight riding on the back of a flying ostrich.  
+ 
+The object of the game is to progress through platform-based levels by defeating groups of buzzard-riding enemy knights. This is achieved by 'jousting'; both enemy and player knights carry a lance and must fly around the level (actioned by repeatedly hitting the 'Flap' button) trying to oust rival knights from their steeds by ramming them with the lance. This can only be achieved if the attacking rider is above the enemy knight when the lance connects. A collision of equal elevations results in the two knights bouncing off each other, but if a player is lower than their enemy at the instant of contact, they themselves will be knocked from their steed and lose a life.  
+ 
+A defeated enemy will turn into an egg that falls to the bottom of the screen. This must be quickly collected by players as if the egg lands on a platform and isn't retrieved in time, it will eventually hatch into another enemy knight that must be defeated again.  
+ 
+Joust features three different types of enemy knights - Bounder, Hunter, and Shadow Lord - with each earning players different points values when defeated. A pterodactyl will appear after a predetermined time to hunt the players.  
+ 
+Accurately navigating the player Knights can be initially quite difficult as control is strongly affected by both gravity and inertia. Players can lose a life by either being knocked from their steed by an enemy knight, or by falling into the lava pit at the bottom of each level.

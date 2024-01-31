@@ -1,0 +1,3 @@
+Seven warriors are challenged to head on a quest to find three powerful elements of Sun, Moon and Stars. Whoever brings the elements to the Potion God will be rewarded the legendary Almighty Potion and all its magical powers. 
+ 
+There are seven stages in each game loop (two loops total). The first three stages are randomly chosen from possible four. At the second loop, enemies fire denser bullet patterns moving at faster speeds. Stage 2-1 takes place at the only stage not available in 1st loop, instead of the 1-1 counterpart. After completing the first loop with only one player, player can choose one of two choices for a wish with magic potion, with unique ending for each choice. If 1st loop is completed with two players, a combination-specific ending is played.

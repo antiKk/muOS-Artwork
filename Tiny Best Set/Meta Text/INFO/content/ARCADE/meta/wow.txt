@@ -1,0 +1,5 @@
+Wizard of Wor is a maze-based shoot-em-up featuring one or co-operative two-player gameplay. In a two-player game, player one controls yellow Worriors while player two controls blue Worriors. Players are also able to shoot each other's Worriors, earning bonus points and causing the other player to lose a life. Team-oriented players can successfully advance through the game by standing back-to-back and firing at anything that comes at them. 
+ 
+Each single-screen dungeon consists of a grid forming walls and corridors. There are doors situated at the left and right edges of the screen that are inter-connected, making the dungeon wrap around. Whenever a door is used by a player or monster, it deactivates for a short period, making it impassable. A small radar display indicates the positions of all active monsters. 
+ 
+

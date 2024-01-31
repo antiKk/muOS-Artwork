@@ -1,0 +1,3 @@
+Blazing Lazers is a top-down shooter featuring 9 levels of varied and fast-paced action.  The story here is the usual save-the-world variety. You must pilot your ship against 8 super-weapons and ultimately destroy the menace once and for all.
+
+The power-up system in Blazing Lazers deserves special mention.  There are four main types of weapons, and each type of weapon can be upgraded several times to produce an incredible amount of firepower.  In addition, there are secondary weapons systems that provide you with shields, homing missiles, multi-fire units, or super weapon power.

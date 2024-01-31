@@ -1,0 +1,3 @@
+F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix". 
+ 
+In "Practice" mode, the player chooses one track where he competes with one other hovercar to win the race (or there can be no rival at all, if you so wish). In "Grand Prix", the player must complete a series of races with several competitors. Each race consists of five laps.

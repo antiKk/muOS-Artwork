@@ -1,0 +1,9 @@
+In Magical Drop II, you control a clown that can grab and throw balloons. You have to match three balloons of the same colour or more vertically to pop them and clear the screen. You can hold multiple balloons of the same colour at once and cause consecutive collisions. There are special balloons that cannot be removed that easily and power-ups that clear entire rows or provide additional help.
+
+Depending of the originating country, there are different game modes:
+
+1. Survival: Play as long as you can - an endless flow of balloons appears at a rapidly increasing speed while you move up levels.
+
+2. Puzzle: You have a limited time to clear a fixed set of balloons before time runs out.
+
+3. VS Mode: Fight the CPU or a fellow player in a direct split-screen duel. Each character has specific item balloons during gameplay.

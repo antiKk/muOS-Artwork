@@ -1,0 +1,3 @@
+Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players move around several platforms collecting gold. Various enemies inhabit the levels, and the player, armed with a drill, attempts to drill holes to capture the enemies.  Unfortunately, this does not defeat the enemies, only disables them for a short time. After a few seconds, the enemies respawn and resume their chase of the player.
+
+The five-player option was new to any incarnation of Lode Runner, and operates in a very similar manner to Bomberman, except with hole drilling instead of bombing.

@@ -1,0 +1,1 @@
+A Racing Simulation using "real world" vehicles, mostly Japanese models. similar to the PlayStation Gran Turismo series. Players begin with a single vehicle selected from a range of fairly standard models, that car is entered into a series of races with cash prizes and prize money can be used to purchase additional vehicles or upgrade an existing one.

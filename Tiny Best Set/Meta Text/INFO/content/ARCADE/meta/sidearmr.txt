@@ -1,0 +1,3 @@
+An evil alien race called the 'Bozon' are trying to wipe out Mankind, and Lieutenant Henry and Sergent Sanders are given the responsibility of saving the Human Race. They each climb into a Mobilsuit - a jet-powered, heavily armoured combat suit - and set out on their mission.  
+ 
+Side Arms is a horizontally - and occasionally vertically - scrolling shoot-em-up for one or two players. Each player has two fire buttons, one for shooting ahead and one for shooting behind; crucial for a game in which enemies attack from all directions. Shooting certain enemies will reveal power-ups - displayed as 'POW' icons - and shooting the icons will either change their type, or reveal a special weapon. 

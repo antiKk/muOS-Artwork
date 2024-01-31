@@ -1,0 +1,9 @@
+Wild West C.O.W. Boys of Moo Mesa is a horizontally-scrolling platform run 'n' gun game for up to four players. The game is set in America's Wild West and is based on the cartoon series of the same name.  
+ 
+Players take on the roles of four recently mutated cows - now turned lawmen; the Cowlorado Kid, the Dakota Dude, Marshall Moo Montana and the shotgun-toting Buffalo Bull. The lawmen must shoot their way through enemy-packed stages to take down wanted criminals. 
+ 
+Controls consist of a jump and an attack button and pressing both buttons simultaneously will cause the player character to perform a stampede attack, do a spinning jump, or use any equipped item like dynamite sticks and tomahawk blades.  
+ 
+Numerous variety of power-up items can be found by shooting flying chickens, these include a rapid-fire Machine Gun and a Power-Up for wider bullets. Players have a three-unit life gauge that allows them to take three hits before losing a life.  
+ 
+The game consists of eight stages, each with a boss fight at the end, and after the first stage, players can choose in which order they want to tackle the following stages.

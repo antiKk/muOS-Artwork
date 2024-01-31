@@ -1,0 +1,3 @@
+Elevator Action Returns is a scrolling platform shoot-em-up for one or two players who each take on the role of a special task force operative and must foil a terrorist group that has planted nuclear bombs in various facilities. Players must also obtain the secret intelligence data scattered throughout each facility in order to disarm the bombs.  
+ 
+The objective of the game is to enter all of the red-coloured doors in each stage, then proceed to the exit. If players miss one of the red doors, they will be unable to progress beyond a certain point. There are also blue-coloured doors and entering these will award the player a special item, these include health refills, special firearms, sub-weapons and bonus points.

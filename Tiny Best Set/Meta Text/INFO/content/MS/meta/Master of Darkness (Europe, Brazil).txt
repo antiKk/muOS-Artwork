@@ -1,0 +1,3 @@
+Master of Darkness is a Platformer very similar to Castlevania.
+
+You play as a psychologist trying to defeat Dracula. This requires you to fight your way through several spooky locations such as cemeteries, laboratories, castles or a house of wax dolls. To defeat your enemies, you can use several primary and secondary weapons. Primary weapons are close combat weapons ranging from knifes to rapiers and axes, that differ in range and efficiency. Secondary weapons are long-range weapons (pistols, bombs etc.) with limited ammunition. The game features 5 Rounds divided into 3 stages. At the end of each stage, a boss must be defeated.

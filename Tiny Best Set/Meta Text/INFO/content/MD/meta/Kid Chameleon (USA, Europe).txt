@@ -1,0 +1,3 @@
+Kid Chameleon is a side-scrolling platform game in which the main character has entered a virtual reality game called "Wild Side" to free the other kids inside that have been captured (*cuckoo*). He can change his shape into various other forms (hence the "Chameleon"). This gives him special abilities which must be used to pass each of the game's 100+ stages.
+
+An interesting point about Kid Chameleon is that the game has 100+ levels (most of which are very, very difficult) which must be played in sequence AND there is no save feature or password feature - which means completing this game would be a major feat of endurance (and patience).

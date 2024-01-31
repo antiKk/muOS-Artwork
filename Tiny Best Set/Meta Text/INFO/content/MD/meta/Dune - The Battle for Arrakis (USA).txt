@@ -1,0 +1,9 @@
+Westwood Studios' real-time strategy classic Dune II received a major overhaul when ported to the Sega Genesis. While the basic concept remains the same, the game features all-new graphics, streamlined controls, changes to the tech tree as well as completely new levels.
+
+As in the original game, the player controls the troops of one of three noble Houses, called by the Emperor to mine the Spice Melange on the planet Arrakis, also known as Dune. A series of consecutive battles must be won by mining spice, constructing a base and building units to attack the enemy.
+
+The rather complex menu-based controls of the original game have been replaced by a context-sensitive cursor system, where a unit reacts according to what is below the cursor - either moving to a destination or attacking an enemy unit, for example.
+
+The tech tree has been simplified: Among other changes, concrete slabs are only available in the 4x4 size, there is only one type of vehicle factory and the advanced units do not require an IX research center anymore.
+
+Finally, the progression of levels in the console version is strictly linear, as there is no choice of the next map to be played as in the original version. 

@@ -1,0 +1,7 @@
+Spy Hunter is an action/driving game. It places the player as the driver of a G-6155 CIA Prototype Interceptor sports car. The object of the game is to travel the freeways and waterways, hunting down and destroying as many enemy vehicles as possible, all the while not harming civilian vehicles. The view is top-down and the screen scrolls vertically underneath the player's car. 
+ 
+The game begins with the player driving the G-6155. Soon, the player starts to encounter enemy vehicles which try to force the player's car off the road and crash. Each enemy vehicle has its own special feature, such as tire slashers or bulletproof armor. 
+ 
+Points are scored for driving on the road and for destroying enemy vehicles. There is a lead-in time when the player has an endless supply of cars. After this time expires, the player will lose a life each time the car crashes. Extra cars can be earned with high scores. The first extra car is earned at a default value of 30,000 points, but this value can vary depending on settings. 
+ 
+

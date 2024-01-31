@@ -1,0 +1,3 @@
+Wild Arms is a classic style RPG with some wild west aspects such as guns (called ARMS) thrown in.  The main map view is done with graphics similar in style to those found on SNES RPGs but to a higher quality.  Combat is a typical turn based mode in 3D mode where you designate each characters actions at the start of each round.
+
+During the game you control three characters: Rudy, a wanderer who uses ARMS, Jack, a treasure hunter, and Cecilia, an aprentice wizard.  During the game you encounter the usual hordes of monsters and discover a series of giant robot like cretures refered to as golems which play an important role in the plot.

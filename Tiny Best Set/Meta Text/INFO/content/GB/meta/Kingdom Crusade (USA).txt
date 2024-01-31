@@ -1,0 +1,9 @@
+Different from the NES game of the same name. In the game the player takes on the role of the legendary Prince Valiant licensed from the cartoon series of the same name which is in turn based on the comic series Prince Valiant. Prince Valiant must lead Arthur's armies against the Tyrant Cynan. The goal is to capture all his castles or defeat all his armies.
+
+A giant over-map shows the world and is divided in tiles. Each tiles has different terrain and shows whether units or castles are present in a tile. Tiles are either white or gray depending on whether Arthur or Cynan controls it.
+
+Characters on the map can be directly controlled after being selected. This happens in a top-down view similar to The Legend of Zelda. Characters can attack and jump. Each character has different attacks. Items can be collected and the player can move freely between tiles. Moving through tiles that are occupied by the enemy conquers those territories, but the enemy can take them back at any time by moving through them again. If two enemy units meet on the same tile, combat ensues. In real time the player must try to defeat the AI opponent. This is done through dodging his attack and trying to land a blow. To conquer a castle all enemies including those in adjacent tiles must be defeated. 
+
+It is also possible to find and collect items in the direct control mode. Items serve as power-ups that for example make the player faster or restore health points.The player can return to a castle at any time to heal completely.
+
+The player can select the size of the world to increase or decrease the game's length. Additionally he or she and change the difficulty of the AI player (Cynan) and select a handicap for himself. It is also possible to play against another player.

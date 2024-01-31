@@ -1,0 +1,3 @@
+While exploring Central America, Professor Ime has disappeared.  He was last known to be going to the Mayan Tomb of Chichen Iza.  You lead two kids in their search for the professor.
+
+This is a point and click adventure.  The directional buttons move a pointer on screen.  You'll be able to interact with items and switches after choosing from a list of keywords such as: look, use, and get.  The save feature uses passwords in order to continue your progress. 

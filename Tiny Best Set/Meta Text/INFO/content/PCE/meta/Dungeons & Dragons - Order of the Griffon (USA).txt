@@ -1,0 +1,5 @@
+The people of Radlebb Keep are worried: Undead and werewolves have been seen in the nearby forests, and rumor has that a vampire has taken residence at Koriszegy Keep. Lord Korrigan hires a group of adventurers to dispel the rumors. They soon find out that not only the rumors are true, but that there are also other evil forces at work in the area. 
+ 
+Order of the Griffon is a role-playing game based on 1st Edition Dungeons & Dragons rules (many well-known monsters, magic items and spells are present) and set in the D&D world of Mystara. It uses gameplay conventions that are somewhat similar to those from Strategic Simulations, Inc's Gold Box titles: When the party is in towns and dungeons, a first-person view is used, while overland travel happens on a large map of the area. Combat with monsters is turn-based and takes place on a special tactical screen. 
+ 
+A party consists of four characters, which cannot be created but must be selected from a list of 21 different predetermined characters.

@@ -1,0 +1,1 @@
+Pop'n Bounce is a puzzle game similar to Break Out; the player must bounce a ball off a paddle in order to knock out a wall of sprites. However, in Pop'n Bounce, the sprites are of assorted living creatures instead of bricks.

@@ -1,0 +1,7 @@
+The player is in the role of Landau, a man who must pass three tests in order to gain the crown of the land Baljinya, which for years has been rife with lawlessness and fear, and restore peace to the land. To pass the three tests, Landau must find the Tree of Marill, subdue the Goblin of Balala Valley, and destroy the Statue Of Evil.
+
+Landau is controlled in a 3rd-person side-scrolling view. He can explore the world map (which can be seen by pressing the pause button) freely in a non linear way, but some portions of the map will be available only after defeating certain enemies or getting certain items. The Kingdom of Baljinya has towns and villages where Landau can stop to rest (restoring his health) and gather information from the people. There are also castles which can only be entered after completing certain tasks. Between those villages, towns and castles lie different kinds of terrains, like flatlands, dark forests, mountains and swamps. Those terrains are plagued by different kinds of monsters, some specific of each terrain.
+
+There are two weapons which can be used by Landau: a sword and a bow. The sword can be used by pressing the button 2 while standing, kneeling or jumping. The bow can be used by pressing the button 1 only when standing or kneeling. Landau cannot walk and attack at the same time. Along his way he'll find new and stronger swords and bows.
+
+Landau has only one life, but the game offers a continue feature which can be used up to 10 times.

@@ -1,0 +1,11 @@
+Ikari Warriors is a vertically-scrolling run 'n' gun shoot-em-up in which one or two players take on the roles of two bandana-wearing musclebound soldiers as they engage in jungle warfare, fighting over land and water to reach the village of Ikari. 
+ 
+Players can rotate their guns through 360 degrees, allowing them to fire and move in all directions. Standing between the soldiers and their destination is a multitude of enemy soldiers, tanks, helicopters and reinforced bunkers.  
+ 
+The enemy soldiers utilise a number of different weapons, including machine-guns, grenades, super grenades and flame-throwers. The game's standard enemy troops wear blue uniforms, but there are also enemies in red uniforms that when killed, often drop power-ups that either give players more ammunition, increase the power of bullets and grenades or even kill all enemies on the screen. The players' munitions are limited in number so additional ammo and grenades must to be picked up along the way.  
+ 
+While most of the action takes place on foot, unoccupied enemy tanks can be found that can be entered and driven. Tanks offer increased firepower as well as resistance to enemy shots. Too many enemy hits, however, will eventually see the tank explode, this is proceeded by a warning flash to allow the player to exit the tank before the explosion. Should the player be caught inside when the tank explodes, a life is lost. Tanks also have a limited amount of fuel but extra fuel can be found to replenish it. 
+ 
+Another obstacle that players need to be wary of, whether on foot or in a tank, are hidden land-mines. These cannot initially be seen put will appear and flash as the player approaches. These cannot be destroyed and contact with them results in an instant death. 
+ 
+Unlike most arcade games, Ikari Warriors is not separated into different stages; the game takes place over one huge, scrolling stage. Ikari Warriors does have a continue feature, but it's only possible to continue from where the last game ended by first holding down the FIRE button, then pressing the start button. Simply pressing the start button restarts the game from the very beginning.

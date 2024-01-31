@@ -1,0 +1,7 @@
+Trax is a side scrolling shoot'em up game that put you in command of a tiny tank in some classic action levels. Pitting your tankmanship against a villainous tank master who is creating machine of destruction that has taken over the land.
+
+You can fire from multiple angles but due to the control limitations of the Game Boy, your vehicle can only turn his turret clockwise.
+
+There are a few power ups which increase your weapons like explosive cannonballs, multi-direction shots or anti-armor shells. 
+
+The game also features some boss fights as you progress through the game's several different environments, forest, desert, cave, city, and tank factory.

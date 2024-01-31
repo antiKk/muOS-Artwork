@@ -1,0 +1,5 @@
+In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.
+
+Players must flap their steed's wings to hit the enemy from a higher jousting point to destroy the vulture and its rider. Once the enemy has been hit, an egg falls to one of the platforms below. The heroic knights must destroy the eggs before they hatch and release new and increasingly more difficult knights. The three strengths of enemy knights are Bounder (red knight), Hunter (white knight), and Shadow Lord (blue knight). These enemy knights are not the only challenge to be found in the game. Players must also contend with crumbling platforms, lava trolls who attempt to pull knights into the fire, and the dreaded "unbeatable"(?) pterodactyl.
+
+The game was novel for its time for being one of the few two-player simultaneous games in the arcade.

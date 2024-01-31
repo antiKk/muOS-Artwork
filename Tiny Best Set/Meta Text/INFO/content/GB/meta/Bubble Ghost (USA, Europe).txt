@@ -1,0 +1,3 @@
+Bubble Ghost needs to blow a bubble out of his creator's castle. Your task is to guide him so as to direct the bubble through the gaps in each room. The bubble's direction is affected by which part of the ghost hits it.
+
+Candles, fans, and other obstacles serve to make little Bubble Ghost's task harder. Bubble Ghost is invincible, but the bubble is prone to bursting if it hits anything at pace. You have five bubbles before the game is over.

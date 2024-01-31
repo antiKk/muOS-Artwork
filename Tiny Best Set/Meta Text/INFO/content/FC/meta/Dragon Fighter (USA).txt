@@ -1,0 +1,3 @@
+In Dragon Fighter the protagonist is a fighter who can turn into a dragon. In this side-scrolling action game the hero can walk, jump, and slash with his sword. He can also charge his sword to fire a magical projectile. The real power-up, however, is that he can transform into a flying dragon. When this happens, the game turns into a shmup-style game in which the scrolling moves at a constant rate and the dragon can shoot fireballs in a spread formation. Transforming into a dragon is restricted by a power meter.
+
+The game features six levels of action-- a snow level, a cave level, a water level, an industrial level, and a haunted castle level. The sixth and final level is fought entirely as a dragon with unlimited flight capability.

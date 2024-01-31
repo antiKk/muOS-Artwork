@@ -1,0 +1,3 @@
+You are the legendary Red Baron, flying a plane through a horizontal side-scrolling scenery set during World War I. To complete a mission, you simply need to get to the landing spot on the other side without being shot down, but you can gain extra points by destroying enemy vehicles and planes. For huge points, pick up a bomb hidden in the level (you will be warned by a sound when approaching it) and drop it on a large structure. If you fail to land on the landing strip, you run out of fuel and crash.
+
+You can only shoot horizontally and diagonally by tilting the plane's nose. When in trouble, perform an aerial loop with the secondary button, this often destroys other planes and avoids bullets. There is a co-op mode with the character Max as well.

@@ -1,0 +1,3 @@
+Strike Gunner S.T.G. is a vertical-scrolling jet fighter adventure set in the far-off year of A.D. 2008. The player controls their fighter as the scene unfolds around them, as enemies of air, land, and sea continuously enter the screen in wave after wave of assault. The player(s) begins with a set number of lives, a number which can be added to with good play. Run out, and your mission is over - there are no saves!
+
+Before each level, the player chooses one special weapon that can be utilized via an often-refilled meter, in addition to their normal guns. But choose wisely, you can only use one special weapon per round, and once used, it will be unavailable to you in later rounds! Play solo or with a human wingman. 

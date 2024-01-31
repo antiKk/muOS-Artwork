@@ -1,0 +1,5 @@
+Mystic Warriors is a horizontally-scrolling platform beat-em-up for up to four players, in which the evil 'SKULL' organisation has taken over the world and driven its terrified civilians into hiding. Five Ninja warriors set about destroying SKULL and freeing the World from its grip. 
+ 
+Mystic Warriors features five selectable characters, one of which is shown being kidnapped by SKULL once players have made their character choices. What follows is eight levels of platform 'run-and-gun' action, with an end-of-level boss waiting at the end of each stage. 
+ 
+Players are armed with both Shuriken throwing stars and with a sword for close encounters. Numerous boxes are scattered throughout the levels (or are being carried by enemies), all of which contain bonus items such as weapon power-ups or energy-replenishing food. Other power-ups include an invulnerability shield (known as the "Shinobi Shield") which lasts a few seconds and a "Smart Bomb" power-up, which destroys all on-screen enemies. Some boxes also contain points-giving items, such as bags of money, jewellery and gold.

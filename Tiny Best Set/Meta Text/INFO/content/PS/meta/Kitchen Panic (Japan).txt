@@ -1,0 +1,3 @@
+Incredibly cute platformer in which you play a little brown thing, hopping along through giant kitchen levels filled with gushing tap water, stacks of dishes, vicious serrated knives and tin cans, valuable vegetables, dangerous soap bubbles and so forth. 
+ The gameplay gimmick here is spin: during a jump you can press up or down to start your character to spinning forward or back. Then when next you press Jump, he'll either launch himself way straight up (backspin) or a long way forward (front spin). 
+ And of course there's plenty of call to use the spin jumps

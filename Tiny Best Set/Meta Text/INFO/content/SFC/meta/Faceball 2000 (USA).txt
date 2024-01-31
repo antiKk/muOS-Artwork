@@ -1,0 +1,3 @@
+Faceball 2000 is a first-person shooter.  You control a H.A.P.P.Y.F.A.C.E., or Holographically Assisted Physical Pattern Yielded For Active Computerized Embarkation. The graphics consist of flat shaded corridors. Enemies are all simple geometric shapes with smiley faces on them. Although the graphics are simple, they allow for full freedom of movement, not unlike Wolfenstein 3-D.
+
+There are two modes of play. First there is a single player mode in which your goal is to find the exit to each level.  There are 70 mazes in this mode. The second mode is the multiplayer arena. For the Game Boy: up to 4 Game Boys can be linked together in this mode.

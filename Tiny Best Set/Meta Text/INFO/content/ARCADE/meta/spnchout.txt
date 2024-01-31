@@ -1,0 +1,7 @@
+Super Punch-Out!! is an update of the superb boxing game, "Punch-Out!!", featuring five new larger-than-life opponents. The player once again assumes the role of a green-haired boxer who must fight his way up through five boxers to earn the title of 'Champ'.  
+ 
+As with the original game, the player's boxer is viewed from behind with his torso rendered with wire-frame graphics (allowing the player's opponent to be easily seen). Punches, dodges and blocks must all be well-timed in order to defeat the opponent.  
+ 
+Both the player and the opponent have stamina meters displayed at the top of the screen. These decrease when either boxer takes a punch and boxers will get knocked down if their stamina meter runs out completely. Faster knockdowns will cause the fallen boxer to recover less stamina upon getting up; the same happens if a boxer is knocked down by a knockout punch.  
+ 
+Thanks to the refined roster of new and hugely distinctive enemy fighters, Super Punch-Out!! is considered to be an improvement over the first game.

@@ -1,0 +1,7 @@
+Undercover Cops is a horizontally-scrolling beat-em-up for up to three players in which Dr. Clayborn and his henchmen have taken control of the city. Police Commissioner Gordon has called on three of New York's Finest undercover cops: Bubba, an ex-professional football player; Flame, a former Miss America; and Claude, a retired philosophy teacher. They must fight every lackey and vanquish Dr. Clayborn in order to restore law and order to the city.  
+ 
+Besides the usual human thugs, players fight strange mole creatures and mutants with jet packs and blades for hands. Players can never use enemy weapons, but the stages contain objects that can be picked up and used instead, These include burning oil drums, steel girders, concrete columns that shatter on impact, boxes of hand grenades and giant fish.  
+ 
+As well as the standard punch and kick moves, each character also has a special attack. This move is more powerful than standard attacks but each time a special attack is executed, some of the player's health is lost. 
+ 
+Player characters can eat mice, frogs, birds and snails to restore their health. The game consists of five stages with a powerful enemy boss character waiting at the end of each one.

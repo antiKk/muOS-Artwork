@@ -1,0 +1,2 @@
+Magical Crystals is a maze/shooter game, developed and published by Kaneko, which was released in 1991 (also licensed to Atlus).  
+The player impersonate a magician going through a set of mazes suspended in the air; the goal of the game is to rescue the pixies trapped inside the magical crystals. The game has a total of 6 worlds. Each world is divided into 3 acts and has a boss fight and a bonus stage at the end.

@@ -1,0 +1,5 @@
+Shatterhand is an action game with eight-direction scrolling. You control Shatterhand in his quest to find and defeat General Grover, leader of the Metal Command. Through the game you’ll encounter all kinds of mechanical and biomechanical creatures. Shatterhand’s primary weapon is his cybernetic fists and therefore most enemies must be defeated by punching them.
+
+Additional help can be given from any of the eight hovering satellite robots, each of which has it’s own weapon that fires automatically when Shatterhand throws a punch. These satellite robots can be obtained by collecting combinations of alpha-beta letters that appear when you punch some of the white boxes that are scattered throughout each stage.
+
+The game has seven stages. The first and the last must be played first and last respectively, but the five middle stages can be played in any order. The path to the final showdown with General Grover leads through a factory, a refinery, an anti-gravity research facility, a submarine, a burning subway, a filtration plant and finally to General Grover’s missile launch complex.

@@ -1,0 +1,3 @@
+In Spud's Adventure the player takes the role of a potato who is tasked with rescuing the king's kidnapped daughter. To do so, he has to climb a tower consisting of many floors. There are two types of gameplay  encountered during the game: Finding the exit in a maze-like stage while shooting enemies (touching them takes away life energy and eventually leads to death) or a Soko-Ban variant. Here the player has to push blocks into certain marked positions, but they cant be pulled. In those stages the level can be reset without penalty. 
+Shooting enemies awards experience points which eventually leads to a health upgrade.
+The protagonist also encounters various friendly sprites who can be talked to and give hints.  

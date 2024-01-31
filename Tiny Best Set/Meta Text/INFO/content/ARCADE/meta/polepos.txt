@@ -1,0 +1,3 @@
+Pole Position is a 1-player game using a color raster-scan video display. Game action takes place at the Fuji Speedway in Japan. The country around the speedway consists of green meadows, hills, and snow-capped Mt. Fuji.  
+ 
+The player drives a Formula-1 race car on the track. The first objective of the game is to finish the qualifying lap as quickly as possible. If the player beats the clock, he or she qualifies for the race. If not, he or she drives out the remainder of the time along the qualifying course. 

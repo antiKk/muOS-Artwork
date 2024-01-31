@@ -1,0 +1,5 @@
+Evil lurks out there in the universe and only you, aboard your trusty Vic Viper starfighter, can put an end to it. Gradius Gaiden is yet another shooter in the Gradius series.
+
+Gameplay consists of moving your fighter across side-scrolling stages shooting everything in sight and avoiding enemy fire, with your objective being to reach the end and defeat the stage boss to move on. You can collect power-ups which fills your power-up bards and which can then be triggered at any time for a specific effect depending on what bar is active at the moment. 
+
+The game uses 2D graphics with some polygonal elements and features 2-player co-op gameplay as well as the option to select from four starfighters to take into battle.

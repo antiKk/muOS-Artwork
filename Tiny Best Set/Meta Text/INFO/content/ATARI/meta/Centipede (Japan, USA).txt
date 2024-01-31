@@ -1,0 +1,47 @@
+In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves. 
+
+The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands. 
+
+Insect Opponents and Mushrooms
+All enemy insects have a distinctive sound before attacking, which may help the player identify which insect is attacking. Enemies and objects in the game are as the following:
+
+1. The Centipede
+The Centipede will attack in 12 waves. In the first wave, the Centipede will have a head attached to 11 body segments. In the second wave, the Centipede will have a head attached to 10 body segments, in addition to a detached head. The third wave will have the Centipede with an attached head, 9 body segments, plus two detached heads. These body segments will transform into heads and continue to do so until Wave 12. In the last wave, the Centipede will have 12 detached heads, independently attacking the player. Centipede heads are worth more points than body segments.
+
+Attacks from the Centipede will come from the top of the screen, moving downward. If a spark hits any part of the Centipede, that particular body segment will transform into a mushroom, while the body segment behind it will become the new Centipede head. When the Centipede is destroyed, it will briefly disappear and re-appear from the top of the screen again.
+
+The Spider
+The Spider will attempt to distract the player from attacking the Centipede. It will destroy any mushroom it touches. Spiders will score more points if it is hit in closer distances.
+
+The Flea
+The Flea will appear if the player has destroyed most of the existing mushrooms. It will drop down creating a new batch of mushrooms where it falls. The Flea will disappear after two hits. After the first hit, the Flea will drop down much faster.
+
+The Scorpion
+The Scorpion will appear in the third wave. It moves slowly but will pick up speed, moving faster. While doing so, it will poison any mushroom it touches.
+
+Mushrooms
+Mushrooms fill the Enchanted Forest and may act as obstacles or cover for the player, with added effects to enemy insects. It takes for shots to complete destroy a mushroom. There are two type of mushrooms: Magic Mushrooms and Poisonous mushrooms. Magic mushrooms are the default mushrooms in the game and are also the the result of the player destroying an insect or Centipede body segment. Poisonous Mushrooms are the result of the Scorpion touching a mushroom. Poisonous Mushrooms will prompt the Centipede near it to move straight towards the player through any mushroom. Losing a wand will restore any partially damaged mushroom.
+
+Game Difficulty and Variations
+The game offers four difficulty levels: Novice, Standard, Advanced, and Expert. Game Variations are as the following:
+
+1. One Player
+Two Player Alternating
+Two players will take turns when the active player is bitten.
+Dual Player Competition
+Two players will appear on the screen at the same time. Scoring is separate. Shots fired from one player will paralyze the other player.
+Team Play
+Two players will appear on the screen at the same time. Scoring is combined. Shots fired from one player will not paralyze the other player.
+
+Scoring
+The player will win a bonus magic wand for every 12,000 points to a maximum of six wands. The game will end when all wands are lost. Scoring are as the following:
+
+Centipede Head - 100 points
+Centipede Body Segment - 10 points
+Spider at close range - 900 points
+Spider at medium range - 600 points
+Flea - 200 points
+Scorpion - 1,000 points
+Flea - 200 points
+Restored mushroom - 5 points
+Destroyed mushroom - 1 points

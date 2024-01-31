@@ -1,0 +1,5 @@
+Simon Belmont returns in the first Castlevania title to grace the SNES.  The console may be different, but the setup is very familiar: The place is Transylvania.  The villain is Count Dracula.
+
+Belmont has the classic Castlevania assortment of weapons (the famous whip, daggers, axes, fire bombs, boomerangs) at his disposal, and he gains strength and points by collecting various-sized hearts, coin purses, and pork chops. 
+
+Like most Castlevania games, Super Castlevania IV is a 2D side-scrolling action game. However, it is 2D with more depth than ever before. Parallax scrolling and rotating chambers are some of the "Mode 7" effects made possible by the SNES hardware.

@@ -1,0 +1,5 @@
+Magical Puzzle Popils is a single screen platform puzzle game. The object in each round is to go through the labyrinth until the player reaches the princess (or the princess reaches the player). The player can break blocks, climb ladders, go through portals. There are also hazards to avoid, like red spikes and enemies.
+
+Breaking blocks is the most important gameplay element. Breaking a block causes the column of blocks above it to fall one place down. The player must use this block breaking ability to change the labyrinth and create a way to the princess. 
+
+The short introduction sequence shows the back story: A beautiful princess fell in love with you! And you fell in love with her too... The wizard of forest "Popil" shut her in his labyrinth. Please save her! 

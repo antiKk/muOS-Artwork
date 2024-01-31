@@ -1,0 +1,5 @@
+Moon Crystal is a platform action game where you control Ricky Slater on his mission to free his kidnapped father from the evil Count Crimson. The Count is forcing his father, a great scientist, to use the power of the moon crystal to turn the dead into living and rule the world.
+
+There are 7 stages, each ending with a boss fight. The themes of the stages follow the story closely. The player begins each stage with only small knife to defend yourself. The player can find power-ups that can extend the range of your knife, give additional health containers, allow Ricky to make double jumps etc. The player has 3 lives and also an unlimited amount of continues.
+
+The game is notable for its fluid animations and rich graphic cut scenes which moves the story forward. It was never officially released outside of Japan, but an unofficial English translation patch exists.

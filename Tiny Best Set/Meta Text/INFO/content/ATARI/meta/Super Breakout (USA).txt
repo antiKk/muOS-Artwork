@@ -1,0 +1,5 @@
+Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to use the paddle at the bottom of the screen to keep a bouncing ball within the playfield. There are four different game variations included. The first is 'Breakout', and plays the same as the original game. 
+
+This leaves three new gameplay concepts. In 'Progressive' the brick walls will slowly drop towards the bottom of the screen and the ball moves progressively faster and faster. When there's room, a new layer of bricks will appear at the top. 
+
+The other two games add a second paddle. In 'Double Breakout' you have two balls to keep in play and score with. In 'Cavity' there is a single ball in play when you start, but two additional balls trapped within the bricks. These are freed when their surrounding bricks are destroyed.

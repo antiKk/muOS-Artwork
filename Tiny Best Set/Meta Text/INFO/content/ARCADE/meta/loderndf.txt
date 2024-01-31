@@ -1,0 +1,3 @@
+Lode Runner: The Dig Fight is an arcade sequel to Lode Runner. It is very similar to its predecessor. You must find all gold on the map and several enemies chase you. You can dig temporary holes in the ground to catch and eliminate enemies. The game uses a new graphics set and has some story elements, presented through static cut-scenes. 
+Maintenance Code: In test mode enter this code... 
+5-0-8-2-0: Some nice features appear include stages select, obj test, etc... and a complete Map editor!!

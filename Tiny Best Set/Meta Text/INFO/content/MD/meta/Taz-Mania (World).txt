@@ -1,0 +1,13 @@
+One evening, Taz's father is telling an intriguing tale. Somewhere on Tazmania is a Lost Valley, and in that valley nests a huge seabird, so huge that one of it's eggs could feed a family for a year! Just think of the omelette one of those could make!
+
+Thus Taz becomes fascinated and leaves in search of one of those eggs before his Dad has even finished the story...
+
+Taz can Jump, perform a Spinning Jump and a Spin Attack. Munch roast chickens to replenish life. Gain extra points by moving quickly through the levels - there are six stages and each stage has two rounds.
+
+There are a few other items and pickups such as:
+
+1. Spring: boings Taz up to high ledges.
+2. Blocks: destructible.
+3. 1-UP: extra life.
+4. Star: invulnerability. Unless you run into a bomb.
+5. Bomb: does what it says on the tin.

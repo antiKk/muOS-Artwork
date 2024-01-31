@@ -1,0 +1,5 @@
+This coin-op conversion doesn't have a sniper rifle light gun, but all the scoping action is still here. 
+
+The aim of the game is to save the captured family of the President of the USA, by sniping all on-coming enemies as you go along. 
+
+As an enemy appears, an area of the screen zooms in, allowing you to easily pick off the guy in the head. Once done, press a button to zoom out, so as to choose your next target.

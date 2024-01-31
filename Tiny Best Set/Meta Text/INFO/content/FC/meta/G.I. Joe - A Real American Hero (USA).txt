@@ -1,0 +1,9 @@
+G.I Joe is a side-scrolling action game where you can select 3 out of a possible 5 characters to complete a mission. 
+
+Each level is in three main parts:  The fight into the mission zone, the mission zone, and the escape from the mission zone.  The stages where you fight into and escape from the mission zone are straightforward action – just fight your way to the end of the stage, and defeat the stage boss.
+
+The actual mission zone is a maze, where the object is to place bombs at pre-determined locations, then find and use the exit.  The mazes start out easy with the first one being only two screens high and 4 long.  Level 6 is 7 by 8 for a total of 56 screens.
+
+Characters:
+
+Duke (Tiger Force first sergeant/squad leader), Rock & Roll (gatling gunner), Capt. Grid-Iron (hand-to-hand combat specialist), Blizzard (arctic attack soldier), Snake Eyes (commando) 

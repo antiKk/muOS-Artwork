@@ -1,0 +1,5 @@
+Aoi Blink is a side-scrolling platformer based on the TV anime series of the same name. The five levels are similarly built as the ones in Super Mario Bros. 3: they are divided into various areas which are reached through a map screen with branching paths. Those areas need to be solved to be able to walk further on the map.  
+ 
+The speciality of this game is that the player can switch between three characters with different abilities on the fly, e.g. one can jump high and another has a better gun. Those are important to be able to solve the challenges the levels bring, mostly consisting of traditional platforming and avoiding/shooting enemies.  However, the boss area at the end of the level map has to be opened with a master key. There is one hidden in every area. 
+ 
+The three characters are based on characters of the series and change depending on the level. The health pool is shared between all characters and losing all hearts results in losing a life. Hearts can be refilled by collecting money which is left behind by killed enemies.

@@ -1,0 +1,5 @@
+The Red Star nation and the Blue Moon nation are at war. Each has deployed troops and works to obtain enough funds so as to buy the necessary military hardware to overcome the other side.
+
+Famicom Wars is a turn-based strategy game. The player takes the role of commander of military forces for either the Red Star or Blue Moon armies. The goal of each battle map is to overcome the other side's forces, destroying all enemy units and capturing all enemy-held landmarks. Each side of the battle takes their turn, moving units across the map. The capture of cities will give that side extra funds which can be used to build new units at factories and shipyards.
+
+Famicom Wars features 17 maps total to battle across.

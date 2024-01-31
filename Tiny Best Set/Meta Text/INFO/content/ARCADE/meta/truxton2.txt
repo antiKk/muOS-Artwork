@@ -1,0 +1,3 @@
+Gameplay is similar to the previous Tatsujin. Tatsujin Oh has six huge areas, each with a boss at the end; the game "loops" these six areas forever. Lives are given out at 70000 points, then every 200000 points after; players start with three. 
+ 
+There are power-ups to increase ship speed, add a smartbomb to your stock, and change/strengthen your current weapon. Red fires bombs in a small area around your ship,  blue is a homing laser, and green fires wide-reaching salvos of green shots.

@@ -1,0 +1,15 @@
+The player has been issued an emergency order. He must save the earth from being conquered by enemy forces. He climbs into his helicopter and prepares for intense aerial combat. Shooting oncoming enemy aircrafts and bombing the enemies below, he tries to make his way through the different stages to reach the enemy base. When he finishes the first stage, he is transported to his next mission by ab aircraft carrier. He hops into his jet fighters, tanks, ships, helicopters, and aircraft carriers. The player must also be aware of unseen enemies and surprise attacks. 
+ 
+Different kinds of power ups can be obtained throughout the game. These include: 
+'3' 3-Way: Bullets fire forward, right, and left. 
+'L' Laser: Player can shoot double lasers. 
+'T' Triple: Missiles are fired that spread out three ways in front. 
+'V' Vulcan: Rapid bullets are fired in the directions controlled. 
+'B' Bomb: Air to ground missles which can be upgraded twice. 
+'O' Orbital: A small drone using the same weaponry as the helicopter which can be otained by clearing a special formation of little red fighters. 
+ 
+There is an additional super weapon that destroys all the enemies on the screen at once. However, use of this weapon is limited. 
+ 
+Ajax contains 2 different types of stages: 2-D and 3-D. In the 2-D stage, the player controls a helicopter. In the 3-D stage, the player commands a jet fighter. 
+ 
+Ajax features some impressive graphics filled with rotation and scaling effects (some may get a little dizzy, though!), a solid soundtrack and excellent game control. Highly recommended for any shoot'em up enthusiast!

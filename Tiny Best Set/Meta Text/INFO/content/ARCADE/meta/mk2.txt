@@ -1,0 +1,9 @@
+Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics.  
+ 
+As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'.  
+ 
+Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked.  
+ 
+Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background).  
+ 
+Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.

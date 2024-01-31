@@ -1,0 +1,3 @@
+Up'n Down is an abstract racing game viewed in a forced third-person perspective.  
+ 
+The goal of the game is to collect coloured flags, while avoiding the enemy vehicles and obstacles that litter each course. The flags needed are displayed at the top of the screen and are coloured as follows: Light green, blue, red, olive, dark green, magenta, yellow and black. If the flags are collected quickly enough, bonus points are awarded. Collected flags remain visible on the track but are changed to white in colour.

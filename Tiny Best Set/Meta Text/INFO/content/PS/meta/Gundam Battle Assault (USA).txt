@@ -1,0 +1,5 @@
+This game is the follow-up to Gundam: The Battle Master. Heero Yuy, the pilot of a Mobile Suit Wing Gundam is on a mission to destroy the remaining enemy Mobile Suits, who are under the command of Treize Khushrenada, in order to stop a war from starting. In the story mode, Heero can pilot any of the available mobile suits to do battle with his enemies. Each suit has its own set of special moves and a super attack. Some of the weapon based special attacks use ammunition which can eventually run out. The super attack can only be used 3 times during each fight. Each suit also has thrusters that can be used to fly in the air a bit. On the defensive side, players can dodge attacks by sidestepping and also can utilize a beam shield which can be used to protect the player from projectile attacks. Mobile suits come with 3 life bars total and fights are decided by trying to deplete all the life bars of an enemy mobile suit.
+
+The game also contains a 2 player versus mode. 
+
+Options allow the player to choose their difficulty level and also let them set the timer during a match to either on or off.

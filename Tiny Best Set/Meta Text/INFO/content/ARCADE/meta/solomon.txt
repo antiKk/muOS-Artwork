@@ -1,0 +1,15 @@
+Solomon's Key is a single player platform/puzzle game in which the wizard Dana is on a quest to retrieve Solomon's key and vanquish the demon hordes that have broken through into his world. To achieve this Dana must advance through the fifty rooms of 'Constellation Space', before finally reaching the magical key. 
+ 
+Dana is armed with a magic wand that can be used to both destroy and create granite blocks, while blocks situated directly above Dana's head can be destroyed by repeatedly jumping up into them until they shatter. The blocks act as platforms, as well as barriers to defend Dana from the numerous patrolling enemies. Each room contains a golden key, retrieving this automatically opens the room's exit door and players must then try to find/create a safe route past the constantly spawning demons to reach the exit and progress to the next room.  
+ 
+Bonus Items - some hidden inside pre-existing granite blocks - are scattered throughout each room. Collecting these earns the player extra points. Power-ups can also be found, these appear as potion bottles with a flame emblazoned on them and a maximum of three can be carried at any one time. When a potion is used, Dana shoots a fireball which will move along the walls and platforms until it hits and kills the first demon it comes into contact with. 
+ 
+As well as bonus items and power-ups, each room also contains a hand-bell. When collected this triggers the release of a trapped fairy, the fairy will then slowly fly around the room and can be rescued for bonus points. An extra life is awarded for every ten fairies rescued. 
+ 
+The game's levels are based on Zodiac star constellations. The main levels are divided into groups of four - making a total of fourty-eight standard rooms - with each group representing a separate constellation. In addition to the standard rooms, each constellation also has a secret bonus room that can only be accessed by finding the given constellation's 'Seal', which is located in the last room of each group. There are three further secret rooms - 'Page of Time', 'The Page of Space' and the 'Princess Room' - that are only accessible if the player has found the 'Hidden Seals of Solomon'. 
+ 
+The four room groups are: 
+1-4 Aries 5-8 Taurus 9-12 Gemini 
+13-16 Cancer 17-20 Leo 21-24 Scorpio 
+25-28 Libra 29-32 Virgo 33-36 Sagittarius 
+37-40 Capricorn 41-44 Aquarius 45-48 Pisces

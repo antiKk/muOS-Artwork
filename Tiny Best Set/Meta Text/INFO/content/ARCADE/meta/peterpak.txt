@@ -1,0 +1,5 @@
+Peter Pack Rat is a platform game in which the player, controlling the game's hero, a rat called Peter; must rush around a platform-filled screen collecting a variety of objects to take back to Peter's nest. These objects include bottles, watches, hats, balls, and cans. 
+ 
+A number of enemy creatures hinder the player's progress; these include rats, cats, dogs, bats and owls. There are 3 different levels to play through; a junkyard, a sewer and a tree. 
+ 
+As well as the objects that must be collected and taken to Peter's nest, additional objects can also be collected and thrown to stun attacking animals. Flying animals that have been stunned can be ridden around the screen for a short period of time. A round ends when all the desired objects have been collected and placed in the nest. Successive rounds add more objects and enemies, as well as changing the patterns of the shortcuts.

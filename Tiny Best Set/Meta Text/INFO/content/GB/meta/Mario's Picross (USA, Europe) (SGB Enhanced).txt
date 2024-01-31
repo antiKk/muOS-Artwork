@@ -1,0 +1,4 @@
+Nonograms are number puzzles where logic is used to find the solution. Clues are provided along the sides of the playfield grid, telling the player how many squares to fill in each row and column. With logic the player can figure out exactly which squares of the grid to fill. The thinking process is similar to solving Sudoku puzzles.
+
+Mario's Picross (from PICture CROSSword) is Nintendo's take on Nonograms. In this game, Mario takes on the role of an archaeologist who chisels away the squares in each playfield. The result is a small picture. There are 256 different puzzles to solve, divided into four courses with increasing difficulty level.
+

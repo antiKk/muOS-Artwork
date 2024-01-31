@@ -1,0 +1,3 @@
+Flicky is a side-scrolling platform game in which the player controls 'Flicky', a flightless bird who must collect her lost chicks - called 'chirps' - and guide them safely to the exit, represented as a door with Flicky's name shown above it.  
+ 
+Flicky must watch out for the house cats that emerge from cat-flaps and start roam the levels, as any contact with a cat results in the loss of a life. Any chicks that are touched by a cat will be separated from Flicky and must again be retrieved.  

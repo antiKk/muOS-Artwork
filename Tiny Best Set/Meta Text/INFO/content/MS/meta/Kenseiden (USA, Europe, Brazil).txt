@@ -1,0 +1,5 @@
+In Kenseiden, you play Hayato, a fearless samurai warrior. You must get back the stolen swords and scrolls, and defeat the evil waiting in the Black Castle!
+
+Kenseiden is a one-player game that comprises of sixteen levels. Each of the levels are side-scrolling, with bamboo houses or dank, haunted caves as their backdrop. These levels see Hayato beseigned by ghosts, skeletons, and other spirits of the supernatural. On his side is his curved sword, which he can swish at will against the monsters. If Hayato comes in contact with a monster, he will lose some life.
+
+At the end of each level, you will have to fight a warlock or one of their henchmen. More often than not, there is a hut with a sealed door, but the door is not unlocked unless a warlock or henceman is defeated. You gain a new special power whenever you recover a scroll from them. These special powers range from high jumping to the ability to whirl your sword around like a windmill.

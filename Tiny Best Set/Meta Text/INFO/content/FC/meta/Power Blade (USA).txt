@@ -1,0 +1,7 @@
+It is the year 2191, and Earth's blissful existence was governed by a master computer. Then suddenly, its master control program malfunctioned, and people panicked ensuring total chaos. Secret Agent Nova is called in to locate agents located in six sectors. These agents hold an ID card which Nova must acquire to gain access to the security room within each sector. There, he must defeat the guards and obtain secret tape units, and if Nova obtains six of these, he will be able to gain entry to the control center and defeat the guard to destroy the computer and restore order to society.
+
+Power Blade is a platform game, in which you must run through the level, destroying various enemies, and exit through the door. However, you can't leave each sector without locating agents.  By destroy enemies, you can get power-ups which restore your energy or upgrade your weapon. Occasionally, you can get a special power-up which transforms you into a Mech, which has a special attack mode and an three units of energy.
+
+You must get through each sector before time runs out. You can leave a sector without getting the ID card and go to another sector, and come back when you're ready.
+
+Power Blade is the significantly altered US Version of Power Blazer

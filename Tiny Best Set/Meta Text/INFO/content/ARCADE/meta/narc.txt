@@ -1,0 +1,5 @@
+NARC is a graphically violent one or two-player side-scrolling shoot-em-up in which players take on the role of "Narcs"; futuristic police officers whose duty it is to either arrest or kill drug dealers, junkies and attack dogs as players fight to crush the criminal empire known as K.R.A.K.  
+ 
+The Narcs have both machine guns and rocket launchers at their disposal and players can also pick up (confiscate) discarded drugs and money to earn extra points. These are totaled up at the end of each level. On many stages a special colour-specific 'Keycard' needs to be found before players can progress to the next section of the level.  
+ 
+

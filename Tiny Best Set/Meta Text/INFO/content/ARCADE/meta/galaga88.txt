@@ -1,0 +1,14 @@
+Galaga '88 is an updated version of the old favorite, "Galaga", with more invaders and more player firepower. Galaga '88 gives players a chance to once again repel the invaders from the Galagan Kingdom. One or two players can try their hand at fighting the invaders. This time the Galagans have four more allies, each with unique weapons and defenses that a player must overcome.  
+ 
+By destroying special enemies or obstacles the player can get 'items'. When a player has two items, they can warp to another dimension to confront more Galagan ships with new strategies. In the Challenging Stages (labelled in this game as 'That's Galactic Dancin'), the player shoots down as many invaders as possible as the Galagans dance to a waltz, tango, march or jazz tune.  
+ 
+The player selects single or dual ship power. The objective is to destroy all the Galagan foes in each of the 29 sectors of the galaxy, with each sector more difficult than the last.  
+ 
+Unique Features:  
+More opponents. In addition to Boss, Goei and Zako, the original Galagan crew, Don, Nin, Ban, and Gan have been added. Each of the Galagans has a unique way of challenging the players.  
+Different types of ships. Players can choose single or dual ships (if the game option is set for dual and single). When the player retrieves a dual ship from the Boss's tractor beam, it turns into a triple ship with ten times the power of a single ship.  
+Challenging Stages. In the 'That's Galactic Dancin' stages, the Galagan invaders dance to a waltz, tango, Sousa march or jazz tune, while the player shoots down Galagans to earn bonus points.  
+Warping to a new dimension. By destroying particular enemies or obstacles and capturing two of their items, the player can warp to the next dimension.  
+Player challenge. Each dimension has different mix of Galagans with different strategies to be overcome.  
+Win back captured ships. The player can win back ships captured in the Boss Galaga's tractor beam. When the player destroys the Boss, the ships are released. If the player retrieves them, the ships become dual ships if they were single and triple if they were dual.  
+High Score Mode. Upon completing a game, a player can enter his initials if they are among the top eight scorers on the game.

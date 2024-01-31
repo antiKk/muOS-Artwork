@@ -1,0 +1,7 @@
+While exploring her house's attic, the little witch Wendy discovers a treasure chest.  Upon opening it, magical stones are released from their prison, and head to a castle which is suspended in the sky. The power of the stones upsets gravity, and the castle comes crashing to the ground, right on top of Wendy's house!  It's up to Wendy to set things right again!
+
+Wendy: Every Witch Way is a combination of a side-scrolling platformer and a puzzle game.  As Wendy, players explore the castle in search of the troublesome stones that have upset gravity.  Wendy has the ability to control gravity herself – by pressing up or down on the control pad while jumping, Wendy will cause gravity to reverse in that direction.  Most enemies and obstacles in the game world are also affected by the gravity switching – you'll need to manipulate gravity frequently to progress through the game's different puzzles.
+
+Stars can be used to power up Wendy's magic.  For every star that she collects (to a maximum of five), her magic will increase.  Beginning with a small weak shot, you can power your magic up to a spread shot that fires in three directions.  The stars also act as Wendy's health meter – if you get hit, you'll lose a star, as well as some magical power.  Get hit when you have no stars left, and you'll lose a life.
+
+At the end of every world, there is a short bonus stage with Wendy riding on her broomstick.  In these stages, you must attack enemies and collect stars as Wendy automatically flies to the next world.

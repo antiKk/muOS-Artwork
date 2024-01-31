@@ -1,0 +1,7 @@
+This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
+
+By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
+
+There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
+
+Picking up flags gives you bonus points with 10,000 points gaining you an extra life.

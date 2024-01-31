@@ -1,0 +1,3 @@
+In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane. 
+ 
+Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').

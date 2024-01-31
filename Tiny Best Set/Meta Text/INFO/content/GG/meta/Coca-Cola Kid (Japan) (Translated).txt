@@ -1,0 +1,3 @@
+Coca Cola Kid is platformer starring the eponymous mascot of the Coca Cola company in the 90s. On his way through the levels, the kid can make use of a skateboard, but has to continue by foot if knocked off. Enemies can be defeated by kicks and flying kicks, energy is -not surprisingly- restored by collecting cans of a certain soft drink.
+
+The game was released in Japan only.

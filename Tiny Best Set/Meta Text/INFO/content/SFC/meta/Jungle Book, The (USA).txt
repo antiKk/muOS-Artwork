@@ -1,0 +1,5 @@
+Based on the famous animated movie, Walt Disney's The Jungle Book is a platform game where you control Mowgli, the boy who was raised by wild animals deep in the jungles. Your goal is to find the human village so you may you join your kin once again. 
+
+Mowgli is an athletic individual, and can jump, run, swing on vines or climb them without any problems. Most of the animals he comes upon, however, are inexplicably hostile, so he must defend himself with a variety of thrown weapons, such as bananas and boomerangs. 
+
+To complete each level, Mowgli must collect a number of crystals (how many - it depends on the difficulty levels) within a time limit. A compass in the corner of the screen helps him by showing the direction where the nearest crystal is. 

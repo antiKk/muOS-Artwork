@@ -1,0 +1,5 @@
+An evil doctor has kidnapped John and Tom's friend, Mary, and has stolen their treasure map. Rescuing Mary and getting back all pieces of the map takes them through 5 levels of arcade-style Jump'n Shoot-action.
+
+There are several weapons to acquire, ranging from a yo-yo (the standard weapon) to bombs, icicles, missiles and more. Weapons differ in range, shooting frequency, and power, and can be shot in all directions. Each weapon also has a unique chargeable attack as well as a super-attack (which uses up one bomb-symbol).
+
+It is also possible to jump on enemies or perform a sliding attack.

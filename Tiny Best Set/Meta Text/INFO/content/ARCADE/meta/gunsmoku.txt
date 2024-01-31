@@ -1,0 +1,5 @@
+Gun.Smoke is a vertically-scrolling shoot-em-up set in the Wild West, in which the player takes the role of a Billy; a young Sheriff charged with hunting down and killing a number of infamous 'Wanted' outlaws. 
+ 
+Each level is packed with gun-toting bandits and the Sheriff must shoot his way through the stage, before finally taking on the wanted outlaw 'boss' character at the end. Each outlaw wields a special weapon unique to them, such as a Winchester rifle, knives, darts or boomerangs. 
+ 
+Shooting the barrels that litter the levels reveals power-ups such as boots (for extra speed), rifles (for increased range) and bullets (for rapid fire). The game's 3 directional fire buttons (for firing left, right or ahead) can be combined (pressed Simultaneously) to create a total of 8 different firing directions.

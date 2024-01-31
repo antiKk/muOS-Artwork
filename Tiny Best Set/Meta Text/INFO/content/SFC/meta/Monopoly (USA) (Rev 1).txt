@@ -1,0 +1,1 @@
+This time, a Monopoly game on your computer, as good as it knows to be in your reality. Every move of yours can be in 3D animation, or off if you don't want to see animations. There can be up to 6 players at once, and it can be played over the Internet. Music is in midi format, and the sound quality is at the wav format. Roll, spin, and don't miss to give us a grin.

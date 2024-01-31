@@ -1,0 +1,3 @@
+The Fantasy Zone is a solar system consisting of eight brightly colored, fantastic planets. The evil Menons are trying to take over all of the planets in the Fantasy Zone by using misappropriated foreign currency to build their forces. It is the player's job to recover all of the coins and save the solar system! 
+
+Fantasy Zone is an arcade style shooter for one or two players. The goal is to destroy all of the creatures on each planet and collect as many of the lost coins as possible. At the end of each level is a large enemy that will have to be defeated before moving on to the next world.  At various points in the game, the player will be able to find a parts shop, which allows purchasing improvements for his spaceship, including better weapons and faster engines.

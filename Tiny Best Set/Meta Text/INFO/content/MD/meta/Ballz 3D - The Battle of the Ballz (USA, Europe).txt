@@ -1,0 +1,1 @@
+Ballz is a fighting game, but what makes it uniqe is the fact that your player is made out of balls. The game has a detailed 3D engine with a fixed camera. The game plays like your normal beat 'em up game. This game supports 2 players, 3 difficulties and up to 21 matches. 

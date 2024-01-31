@@ -1,0 +1,5 @@
+Image Fight is a vertically scrolling shoot-em-up with an original premise. The game's first five stages are supposed to be a 'simulation' and serve as training to test the player's abilities. Player's will receive a penalty if their hit-ratio is too low. 
+ 
+Once players have proved themselves on the opening stages, they will progress to the game's last three stages, blasting off into space on a mission to destroy the alien vegetation surrounding the Moon's main computer. If the player fails in the mission, they must endure the dreaded 'Penalty Zone'. Features a high level of challenge, a wide variety of weapons and the ability to change speed. 
+ 
+If the player's ship is equipped with one or more red/blue extra guns, pushing both Action buttons simultaneously will sling the guns forward in a boomerang-like fashion. This is a powerful and destructive method and can be done an unlimited number of times.

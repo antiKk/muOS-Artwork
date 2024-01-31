@@ -1,0 +1,5 @@
+Utopia takes the Sim City gameplay concept and adds a military element to it. The game is set in the distant future, where your job is nothing less than Colony Administrator for a new settlement on some far-flung planet. Your aim is to provide the highest Quality of Life rating for the colonists. 
+
+You do so by ensuring that there is enough life support, power, housing, employment, police and entertainment to keep the citizens of your colony happy. Hindering your goal are random events such as solar eclipses (which can render your solar panels inactive) and also a different, hostile alien race that inhabits the planets in the many scenarios at offer. 
+
+Not only do you have to be a good mayor but you also have to be a good general. Resources must not only be attributed to civilian research but into weapons research, intelligence and the building of tanks and spaceships, if you wish to survive long enough to see your colony flourish into a metropolis. As a rule, you will have built a strong colony before the aliens come, but the final push towards a QOL of 80% or higher can only be achieved once there is no outside threat.

@@ -1,0 +1,3 @@
+Over Horizon is a side-scrolling shooter in which the player has to guide a spaceship through various levels and destroy numerous enemies. The ship's weapons can be fired in tow directions and defeated enemies sometimes drop power-ups that equip the ship with different weapons and up to two options. There are three different weapons in addition to the standard shot: Laser, homing missiles and bombs.
+
+The "Edit Mode" presents an unusual feature. In it, players can determine the options positions (which can be changed by pressing the A and B button simultaneously), as well as the properties of the weapons. It is, for example, possible to have the laser behave like homing missiles or the homing missiles like bombs.

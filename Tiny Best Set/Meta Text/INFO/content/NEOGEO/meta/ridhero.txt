@@ -1,0 +1,7 @@
+Riding Hero is a motorcycle racing game with three modes of play: W.G.P. mode, R.P.G. (Story) mode, and Multi-Play mode.
+
+In W.G.P mode, you pick your bike that you want to use, and then race up to ten world circuits, including France, Germany, Italy, U.S.A, Spain, Sweden, and more. You race against the top riders. Try to aim for the top.
+
+R.P.G. mode is interactive. You travel between locations, and explore them, and speak to any people here. You start with no bike, so you must go to the Bike Shop and purchase one. Then with some help with the owner, you can race against up to six opponents. The more races you win, the more money you earn. Keep winning and you will be able to race the Suzuki 8-hour. During this mode, a timer will count down. If this expires, you must insert a coin in order to continue.
+
+Multi-Play mode lets you "link" cabinets together so that two players can race each other side-by-side.

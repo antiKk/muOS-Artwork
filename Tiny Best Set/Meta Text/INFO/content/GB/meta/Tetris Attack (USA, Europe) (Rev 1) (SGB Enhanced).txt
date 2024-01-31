@@ -1,0 +1,5 @@
+All is not well on Yoshi's Island! The devious king Bowser has cast a spell on the island's inhabitants, turning them into his mindless slaves. Only Yoshi has escaped its effects, and so he must set off to free his friends, and to defeat Bowser and break the spell.
+
+Tetris Attack is a fact-paced action puzzler featuring the colorful cast of characters from Yoshi's Island. A stack of blocks continually rises from the bottom of the screen, and the player controls a cursor which can swap any two blocks horizontally. Make a row or column of three or more and they'll clear, potentially creating combos from new blocks falling to take their place. Combos will send large garbage blocks to your opponent, which must be eliminated by clearing a piece that is touching it, turning it into normal blocks.
+
+The game offers a story mode against the computer, as well as a 2-player versus mode, an endless mode, a timed mode where a certain number of blocks must be cleared, and a puzzle mode where a set arrangement of blocks must be cleared in a specific number of moves. The game is based on the Japan-only title Panel de Pon.

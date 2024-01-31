@@ -1,0 +1,9 @@
+Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes.  
+ 
+Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head.  
+ 
+A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in "Pac-Man"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit.  
+ 
+Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated.  
+ 
+The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal "Pac-Man".

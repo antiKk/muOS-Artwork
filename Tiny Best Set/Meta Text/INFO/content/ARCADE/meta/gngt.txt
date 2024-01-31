@@ -1,0 +1,3 @@
+Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task. 
+ 
+The player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.

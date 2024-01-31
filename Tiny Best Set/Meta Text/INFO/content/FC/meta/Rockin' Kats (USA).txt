@@ -1,0 +1,15 @@
+Willy is a young jazz cat who goes by the name of "The Rockin' Kat". His girlfriend, Jill, was kidnapped by Mugsy, the local crime boss.
+
+In this side scrolling game, you must help Rockin' Kat Willy to save his girlfriend through 7 stages. Each stage is a TV show broadcast through different channels of a TV set, and you must thus choose which channel you want to play. Through the channels Willy it will be sent to different themed shows such as western movies, gangster movies, etc, as well as some bonus channels.
+
+Willy can walk and jump around, and carries as a weapon a spring-load Super Punch Gun, which he can put in diverse uses:
+
+1. Knock his enemies: by pressing A.
+Perform higher jumps: by jumping (B) and pressing down + A.
+Spin Attack: by grabbing a ledge (A) and rotating with the d-pad.
+Spin Jump: by grabbing a ledge (A), rotating with the d-pad and jumping (B).
+Catch and Trow: by holding A, grabbing an object and releasing A.
+
+He can also buy attachments that will make his gun more powerful, such as the Bomber, the Twin Balls, the Hammer Punch and the Jet Sneakers. 
+
+Rockin' Kats is so cartoonish that you might expect to see it on Saturday morning TV.

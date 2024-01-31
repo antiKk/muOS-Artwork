@@ -1,0 +1,1 @@
+The objective of Land Maker is to shoot a certain colored block to other blocks of the same color to create a building. The larger the building the greater damage that is done to the player's opponent which in effect speeds up the moving counter which pushes the blocks ever closer to the edge after which the player or opponent will lose the battle.

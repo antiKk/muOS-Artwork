@@ -1,0 +1,5 @@
+A collection of classic Nintendo Game & Watch titles, as well as GBA exclusive updates.
+
+Games include Donkey Kong 3, Boxing, Fire Attack, Mario Cement Factory & Rainshower, plus extra games that can only be opened if you beat the high score for each game.
+
+Each game has two modes, one which emulates the original Game & Watch LCD format and an updated version which features improved graphics, slight gameplay changes and a host of Mario characters.

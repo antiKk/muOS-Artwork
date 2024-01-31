@@ -1,0 +1,5 @@
+In Painter Momopie the player has the important task to wipe all the castle floors. The castle is divided into several rooms which have to be finished within a time limit one after another. Those rooms have varying layouts with more open spaces, tight gangways or dead ends - but every field is dirty. 
+ 
+ Cleaning is the simple matter of walking over a tile and if everything is clean, the level is done. However, there are also ghosts walking around the rooms which kill the player at touch. 
+ 
+ The protagonist has access to a few magic spells which grant advantages when used, e.g. a time stop, killing a near enemy or speed up. Each spell costs a certain amount of magic points.

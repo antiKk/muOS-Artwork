@@ -1,0 +1,1 @@
+Airwolf is a horizontally scrolling shoot'em up game.

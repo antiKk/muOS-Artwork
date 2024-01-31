@@ -1,0 +1,5 @@
+Loosely based on a movie, Kung-Fu Master is a side scrolling action game for one or two players, who alternate turns.
+
+Mr. X has captured the pickpocket Sylvia and it is up to Thomas, a kung-fu master who owns a restaurant, to get her back. She is located on the top floor of Mr. X's castle and Thomas will need to fight his way to the top. Of course, this won't be easy as each floor has many opponents to get past and a floor boss at the end of each level. 
+
+Thomas is able to move left and right, jump, duck, and punch and kick. Enemy projectiles such as knives can be kicked in the air to rebound them towards the enemy. On the top floor resides Mr. X himself. 

@@ -1,0 +1,5 @@
+This third-person racing game resembles Gremlin's earlier Lotus series, in terms of its general look and feel, right down to the text font used in the game. Your task is to race through 16 countries, each of which features four races, with many real-world circuits recreated in incongruous locations (such as the Monza layout in Ayers Rock, and the old Hockenheim in Vancouver). 
+
+These four-race blocks each represent their own mini-championship, in which you race against 19 cars, needing to finish in the top 10 to continue, and with the top 6 scoring points 10-6-4-3-2-1, and the respective amount of money in thousands. This can be spent on various upgrades, ranging from engine to tires (wet and dry) and from shocks (front, side and rear) to gearboxes. The ideal approach is to buy the more expensive versions ASAP, as you get no saving when upgrading. If you win the four-race championship, you get the next password. 
+
+You get a set amount of nitro boost to use during each race, although bonus nitros, money and instant speed-up token appear on many tracks. Hazards such as puddles, barriers and ramps are also frequent.

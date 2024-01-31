@@ -1,0 +1,3 @@
+You play as a clown, trying to finish the level while avoiding Blackjack's booby traps.
+
+To successfully finish each level, you'll need to beat the fuse. What is the fuse? At the start of each level, there is a bomb fuse at the same location as you are, you must get to the end of the level faster than it does in order to prevent the big bomb from going off. In addition, you'll also need to find all 4 card symbols before you can finish. If you don't, you'll get to go to the beginning of the level and have another try.

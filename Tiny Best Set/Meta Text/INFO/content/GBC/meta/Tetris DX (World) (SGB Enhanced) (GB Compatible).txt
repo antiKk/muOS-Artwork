@@ -1,0 +1,3 @@
+Tetris DX requires you to place different shaped blocks which fall from the top of the screen, along the bottom of the screen to make up a line which then disappears from the screen. Watch out though, if you cant fill the gaps and the blocks fill up to the top of the screen the game is over.
+
+Tetris DX features 4 one-player modes and two-player mode using the Universal Game Link Cable.

@@ -1,0 +1,12 @@
+Tron is a 1- or 2-player game set inside the 'Tron' computer, and is based on the ground-breaking Disney movie of the same name. 
+ 
+Tron consists of twenty-two stages - or 'phases' - of play. Each phase consists of four separate games called "domains", all of which must be completed before moving on to the next phase. Players can determine the order in which each of the four domains is attempted, but the domain position is random and is only revealed once that domain has been chosen. 
+ 
+The four domains that make up a phase never change throughout the game, although both the difficulty level and number of enemies increases with each subsequent phase. The domains are as follows: 
+ 
+LIGHT CYCLES: The player controls a Light Cycle that leaves a blue light trail in its wake. The aim is to 'box in' the yellow enemy Light Cycles, making them crash into either a cycle trail (theirs or the player's) or a wall. The player must also avoid any collision with either walls or light trails. The joystick controls the direction of the bike and the trigger controls its speed. 
+I/O TOWER: Destroy the Grid Bugs that emerge from the grid surrounding the tower. The bugs will multiply and fill the entire screen if not stopped. Players must attempt to clear a path to - and enter - the I/O Tower before the timer runs out. The stick controls the movement of the player's character and the spinner controls the direction of fire. 
+TANK MAZE: Destroy all enemy tanks that are patrolling the maze. The player's tank can fire in all directions and can bounce shots off walls, but can be destroyed by a single shot; while enemy tanks can only fire in the direction of travel but need three shots before they are destroyed. "Recognizer" tanks also feature in later phases; these Do NOT shoot but move quickly and will try to ram the player's tank. The joystick controls the movement of the player's tank and the spinner controls the direction of fire. 
+MCP CONE: Destroy the blocks in the descending, rotating coloured column to clear a path and move the character up into the light cone above the blocks. A bonus is awarded if all of the blocks are destroyed. The stick controls the movement of the character and the spinner controls the direction of fire. 
+ 
+Bonus lives are awarded periodically throughout the game as specific point scores are reached. Each enemy and item has an assigned point value (see the "SCORING" section for details).

@@ -1,0 +1,3 @@
+Shock Troopers is a 1-2 player game where players select one of eight characters to play as. Each character has their own attack. Players also have to choose one of three routes to take. The object of the game is to go toward the end of the level and defeat the end-of-level boss, which is usually a huge vehicle. Crates that are scattered throughout the levels can be broken into to reveal new weapons and power-ups.
+
+There is a team mode where players have to select three characters. The characters can be switched on-the-fly during gameplay, which is useful if one of them is badly injured. Players can use the other teammates until life-ups can be found.

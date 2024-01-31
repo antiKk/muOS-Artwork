@@ -1,0 +1,3 @@
+Silpheed for the Sega CD is a shoot-'em-up sequel to the PC title of the same name. Gameplay is similar: this is basically a 2D shooter with 3D graphics.  You move your ship in a 2D plane that reaches into the screen, kind of like a pinball table. The Sega CD version of Silpheed uses pre-rendered video for the backdrops, and filled polygon graphics for the player ship and enemies. 
+
+The story here is typical for a game of this type. The central computer system controlling the galaxy network has been hacked by terrorists.  The terrorists are using the computer to attack colony planets throughout the system.  You are the Galaxy Union's last resort: you must fight your way across 11 stages to reach Earth, and re-take control of the computer.

@@ -1,0 +1,5 @@
+Undead Line is a top-down arcade shooter with scrolling screens, like Commando and other games. The player controls a character (from a selection of three on the MSX 2 version) that shoots projectiles at enemy monsters.
+
+The six levels available are presented in a menu and can be selected and played in any order. There is a boss battle at the end of each one.
+
+Chests with power-ups are scattered throughout the levels. They open when shot, and in the Genesis version it is possible to cycle through the available power-ups by keeping firing at them. The power-ups include armor and speed boosts, and several types of projectiles.

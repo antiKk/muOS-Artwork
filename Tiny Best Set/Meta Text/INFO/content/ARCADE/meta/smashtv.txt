@@ -1,0 +1,5 @@
+Smash TV is a single-screen shoot-em-up for one or two players and is set in a futuristic game show in the year 1999. Contestants must enter enclosed arenas and compete to collect prizes, money and keys, while fighting to stay alive as they are attacked on all sides by waves of enemies. 
+The game is a sequel to the legendary "Robotron: 2084" and like its prequel, utilises a dual joystick control system, with the left stick controlling player movement and the right controlling the direction of fire. 
+Enemy waves enter each arena from four directions via open doorways and all must be killed before players can progress to the next stage. Some arenas feature static gun emplacements set into a wall that must also be destroyed. Power-ups that improve weapons, speed and armour appear at regular intervals, although each only lasts for a limited time. 
+Smash TV is broken down into stages, each with a set number of arenas. Tough end-of-level bosses await at the end of each stage. 
+

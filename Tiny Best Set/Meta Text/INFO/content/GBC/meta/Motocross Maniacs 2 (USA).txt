@@ -1,0 +1,5 @@
+Motocross Maniacs 2 is the follow up to the Game Boy title Motocross Maniacs. Much like in the previous iteration of the game, the aim is to ride a dirt-bike through side-scrolling courses filled with loops, jumps, ramps and hills. There are many bonus items to help the player along the way, such as nitro boosts and super suspension.
+
+The player has the option to play against a computer player or a friend (via Link Cable), as well as Time Trial or Championship.
+
+There is also a level editor and room for three saved custom tracks made by the player.

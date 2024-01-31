@@ -1,0 +1,5 @@
+An alien threat looms over the galaxy and only you and your trusty star fighter can defeat them.
+
+Pulstar is a 2D side-scrolling shooter in which you control your ship as it makes its way past stages filled with waves after waves of enemies bent on your destruction. You can upgrade your main weapons by collecting power-ups and charging up energy allows you to release charged attacks at the cost of power-up consumption. Additionally your ship comes with an ever-prescent "option" gun pod that floats around your ship and which can be positioned in several configurations to help protect the ship or increase its firepower.
+
+While completely 2D, the game uses pre-rendered 3D sprites and includes fully animated cutscenes between each level. Also features support for two-player gameplay.

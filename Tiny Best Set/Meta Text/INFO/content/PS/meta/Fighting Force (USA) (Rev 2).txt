@@ -1,0 +1,3 @@
+Fighting Force is a fighting "beat-em-up" which takes place in an interactive city where you can pick up several objects (like trash cans and car tires) and throw them at your enemies which appear on scripted moments. 
+
+Though the game advertised very interactive places, they all ended up in rectangular arenas because of an invisible wall which surrounded them. There was no way to walk around freely.

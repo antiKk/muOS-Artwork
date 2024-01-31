@@ -1,0 +1,1 @@
+Ring King is a port of an arcade game by the same name. Box your way from the lowest ranks up through the circuits, on your way to become world champion. Build your fighter up in training mode, or take on another player's boxer in a 2-player battle.

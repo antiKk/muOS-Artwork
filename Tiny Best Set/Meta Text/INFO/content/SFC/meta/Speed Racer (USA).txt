@@ -1,0 +1,3 @@
+This game is a take on the classic Anime cartoon series, Speed Racer.  You play as Speed, an aspiring race car driver with his trusty car, The Mach 5, along with his GO team, out to travel the world and win every international grand prix on the circuit.
+
+Along the way, you fight off the infamous villains of the series, out to stop Speed by any means necessary, even capturing his girlfriend, Trixie.  There are seven levels in all and in between racing levels you'll be on foot in a side-scroll style adventure, fighting off thugs and gangsters, collecting power ups to help you out, including green flags in order to keep your health up (not kidding about that).

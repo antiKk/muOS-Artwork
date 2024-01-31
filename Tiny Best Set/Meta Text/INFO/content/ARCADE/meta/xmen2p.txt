@@ -1,0 +1,13 @@
+X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto. 
+ 
+Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character. 
+ 
+The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself. 
+ 
+Players can chose from 6 X-Men characters, they are: 
+Cyclops  
+Colossus  
+Wolverine  
+Storm  
+Nightcrawler  
+Dazzler

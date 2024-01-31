@@ -1,0 +1,7 @@
+Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes:
+
+1. The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable).Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and Geese Howard (the end boss from Fatal Fury).
+Other improvements include:
+
+1. A new Count Down mode (defeat as many opponents as possible in 3 minutes).Extra color schemes for every character.New & improved background graphics.Dolby Surround Sound support.
+Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.

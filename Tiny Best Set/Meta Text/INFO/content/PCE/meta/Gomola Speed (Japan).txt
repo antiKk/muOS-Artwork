@@ -1,0 +1,5 @@
+Gomola Speed is an action game featuring a robot snake. You must find the pieces of your body strewn about each maze-like stage, which increase your size, and use your length to surround items, food, and enemies in order to eliminate them. You can also use bombs to stun more dangerous enemies.
+
+Different stages may have different goals -- for example, you may have to find a key, or use your surround ability on floor tiles to reveal items or enemies. Only your snake's head is vulnerable; if an enemy hits your body it will scatter all the pieces and you'll have to collect them again. After completing set conditions on each stage, a door will open that leads to the next stage, at which point you'll be just a head again, and will have to hunt for your body once more.
+
+The game has the same unique UPL style that will be familiar to fans of games such as Atomic Robo-Kid and Mutant Night.

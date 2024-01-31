@@ -1,0 +1,10 @@
+The Joker lives again in SunSoft's sequel to their NES 
+original. The Joker has somehow managed to escape from Arkham Asylum once again, and Batman must fight him across seven stages to restore peace to Gotham City.
+
+Batman carries a gauntlet shooting basic bullets by default. This can be upgraded with weapon powerups located in boxes throughout the level, giving access to homing and energy weapons. Every upgrade weapon can be charged up for a secondary attack, different for each weapon. Batman also has a slide useful against most enemies and some bosses. 
+
+Boss fights introduce a system where life is measured by points instead of tick marks or bars. In these sections, Batman has significantly more health, and can take many more hits when rumbling with these stronger foes.
+
+Levels include a snowy landscape, moving train, military base, and sewers. Two levels require you to run and dodge explosions while vehicles keep pace in the background. Some levels also have Batman activate a jetpack and play through a short side-scrolling shooter. 
+
+This game is one of the few Batman games that was not based directly on a movie or television series. 

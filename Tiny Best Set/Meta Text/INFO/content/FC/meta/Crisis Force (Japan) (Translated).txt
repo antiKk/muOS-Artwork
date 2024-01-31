@@ -1,0 +1,9 @@
+The year is 199x and a robot army has invaded Tokyo City. A boy and a girl (who remain unnamed) board their ships to fight off the threat.
+
+This is a vertical scrolling shoot-em-up game viewed from overhead, where the player pilots a fighter ship through seven levels of intense shooting action. Each level hurls enemies and bullets at the player's ship, ending with a boss fight, except for one which instead is a boss rush level. The game allows for two players to play at the same time.
+
+The player has a choice of two weapons; bullets or lasers. Weapons can be changed by picking up gems of different colors. Picking up the same color as you already have allows you to upgrade your current weapon a few times. The player's ship can change form and with it the way that the weapons work. This allows the player to pick the best weapon strategy for each situation. The player also has a limited amount of bombs that are useful to get out of tricky situations.
+
+When a weapon is upgraded it also acts as a shield so the ship can take an enemy bullet without dying. This will however degrade the weapon down to the first level again. There are also pickups that alter the ship's speed and a special gem that, if five of them are collected, temporarily transforms the ship into an invincible super ship.
+
+Crisis Force was only released in Japan.

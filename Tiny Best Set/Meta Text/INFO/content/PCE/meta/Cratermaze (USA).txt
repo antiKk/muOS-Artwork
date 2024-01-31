@@ -1,0 +1,5 @@
+Cratermaze is an action puzzle game viewed from an overhead perspective. Each stage consists of a maze filled with various enemies and items. You must collect all of the keys on the stage to open the exit door while avoiding or eliminating enemies. Your primary method of dealing with enemies is to dig holes; if an enemy walks into a hole, they are momentarily trapped and you can then fill the hole to kill the enemy.
+
+You can also obtain temporary weapon powerups such as rayguns and yo-yos, as well as extend your digging reach to dig multiple holes at once. There are also several bosses encountered throughout the game.
+
+The Japanese release, Doraemon: Meikyu Daisakusen, features popular children's character Doraemon and his friends. The game is a conversion of the 1987 Nichibutsu coin-op Kid no Hore Hore Daisakusen, which also saw a modified Famicom version called Booby Kids.

@@ -1,0 +1,7 @@
+Just like in Soko-Ban, it is your goal to push a number of crates onto certain spots in order to finish a level.  
+ 
+Finding the right way to move all the crates on the right spots becomes increasingly difficult and you have to plan numerous steps in advance in order not to block your own way.  
+ 
+The game features over 25 levels with 10 sub-levels each one. You can always choose the order in which you want to complete the sub-levels, but you have to complete all sub-levels in order to advance to the next main-level.  
+ 
+If you have finished the game or become hopelessly stuck, there is also an option to create your own levels.

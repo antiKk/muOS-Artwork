@@ -1,0 +1,18 @@
+Track & Field © 1983 Konami.
+
+Track & Field is an athletics-themed action game for up to four players, who compete against each other in six track and field-based disciplines. 
+
+The game controls consist of two run buttons (one for each 'leg' of the athlete) and one 'Action' button. Players must hit the two run buttons alternately to build up speed and use action button to jump or throw.
+
+In each event, there is a qualifying time or minimum score threshold that the player must achieve to advance to the next event. failing to qualify (in one heat for track events or in three attempts in the other events) will reduce the players' number of lives by one, the game is over once all lives are lost.
+
+Track & Field can accommodate up to four players, who compete in pairs in the running events and individually in the others. If there are fewer than four players, the remaining slots are played by the computer (or player "CPU"). In all multiplayer heats, however, the relative performance of the players has no effect on the game and advancing is based solely on reaching qualifying times and targets.
+
+The six events are:
+
+100M DASH - Run as fast as possible.
+LONG JUMP - Run to the take-off board then choose angle of jump (42 is the optimum angle).
+JAVELIN - Run to the line then choose angle of throw (43 is the optimum angle).
+110M HURDLES - Run and time jumps over the hurdles.
+HAMMER THROW - As the athlete spins faster and faster, time release of hammer and angle of throw (45 is the optimum angle).
+HIGH JUMP - The athlete will run to the bar; just as he reaches it, use Action button to start the jump and hold down the action button to reduce the angle of climb, i.e. you start going straight up at 90 degrees if you tap the button just once. Use run buttons while in the air to gain extra height.

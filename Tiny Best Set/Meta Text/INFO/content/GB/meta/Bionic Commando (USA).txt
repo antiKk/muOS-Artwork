@@ -1,0 +1,5 @@
+You play a soldier with a bionic arm that extends and contracts.  Your arm allows you to grab on to fixed objects to swing around and climb up levels -- no jumping allowed! The arm also grabs opponents and pull them towards you.
+
+Your mission is to infiltrate the enemy fortress, find your missing comrade, "Super Joe", and take out the evil leader, "Generalissimo Kilt", of the invading force that has been attacking your people for the last 2 years.
+
+After most levels the Bionic Commando will recieve items. Often these items are required to successfully complete other levels. Additionally, each level will require a different colored communicator in order to make sense of message traffic

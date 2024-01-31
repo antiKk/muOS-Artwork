@@ -1,0 +1,5 @@
+Nemesis is the first entry in the long-running Gradius series on the Game Boy. Its side-scrolling shoot'em up gameplay follows the series template closely. Players control the Vic Viper through five levels, most based on levels in earlier entries, for a kind of 'greatest hits' of the series. There is a cave level (as in level 1 of the original Gradius), the mandatory Moai stage, a Gigeresque organic level, a graveyard (similar to bonus stages in the MSX and PC Engine version of the original Gradius) and a high-tech base. Besides the classic core ship in the first level, all boss enemies are entirely new.
+
+The cycling Gradius power-up system is reused here: collected power ups advance the power meter which can be activated at any time to gain the highlighted item. The line-up includes the classic selection of speedups, missiles, dual shots, lasers, option satellites and forcefields.
+
+The game allows players to start in any of the five levels and even to set the number of lives to a maximum of 99.

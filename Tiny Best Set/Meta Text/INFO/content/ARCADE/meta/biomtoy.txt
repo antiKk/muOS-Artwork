@@ -1,0 +1,9 @@
+Biomechanical Toy is an eightway-scrolling platform shoot-em-up set in a world of magically-animated toys, in which the magical pendulum that animates the toys has been stolen by the evil 'Scrubby', a criminal once imprisoned for trying to steal the pendulum who has managed to escape and take his revenge. The player takes on the role of Inguz and is tasked with freeing the few remaining good toys that are trapped throughout the stages, while destroying or avoiding the many evil toys that now patrol the kingdom.  
+ 
+Inguz carries a basic, single-firing pistol, although additional ammo clips can be found throughout the game that upgrade the gun with either extra shot power, automatic firing or exploding bullets. When the gun's current ammo clip is empty, Inguz will take a moment to reload, leaving him vulnerable to attack. Freed toys will give help to Inguz by providing additional firepower for a short time. 
+ 
+Inguz begins each stage and each new life with a full health meter of eighty units, but food can be found that will replenish the meter. The player can lose a life either by running out of health, falling off the bottom of the screen (or into a hazard, such as a lava pit), or by running out of time. Clearing each stage awards bonus points based on both remaining time and health units. 
+ 
+Checkpoints - indicated by red flags - are located at certain points throughout the stages. In the event of losing a life, play restarts from the last checkpoint reached. Objects with Inguz's face on them (such as wooden chests and balloons) release bonus items when shot.  
+ 
+An abstract, oriental-looking face occasionally forms part of a level's platform which, when shot, releases balloons which can in turn be shot for bonus items. A giant flying hat also occasionally appears and will drop bonus items when shot. Smart Bombs can also be found at certain points that, when run into by Inguz, will damage or destroy all enemy toys on screen.

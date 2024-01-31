@@ -1,0 +1,3 @@
+Blades of Vengeance is a platform game incorporating RPG elements and character styling, reminiscent of Gods by The Bitmap Brothers. The Dark Lady has unleashed hordes of monsters who you must slay.
+
+The player can choose from three main characters - the Huntress, Warrior and Sorcerer, all of which have different abilities. Throughout the game the player has the option to improve their powers by collecting armour and weapons (such as a mace and a crossbow) or by using spells. Each of the 8 levels ends with a boss.

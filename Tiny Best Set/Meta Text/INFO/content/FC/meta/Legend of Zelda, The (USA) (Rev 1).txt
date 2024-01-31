@@ -1,0 +1,15 @@
+In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+
+The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
+
+The game is drawn in a top-down perspective. Link begins his quest in the Overworld, which features forests, mountains and lakes and is divided into several screens. Link can explore the Overworld freely, though when he enters a screen, he will encounter several enemies. He can attack them with his sword. If link is at full health, he can toss his sword to attack enemies from afar, but when he is hurt, even slightly, he can only fight in melee range. 
+
+Link's health is represented by hearts; initially he can have a maximum of three hearts, but as he progresses in the game, he will find heart containers that increase his maximum health. The enemies are varied - some attack from up close, some shoot projectiles. When killed, they often leave behind an item - a heart to restore energy, rupees that function as money (and can be used to buy stuff in various shops in the Overworld), or bombs which can be picked up and set down to attack enemies or destroy some walls. When enemies are killed, they stay dead and will not re-appear once the screen is entered again. 
+
+There are other items to find in the game; some function as weapons, while others are used to solve puzzles. 
+
+To find the Triforce pieces, Link must explore dungeons. Once he finds an entrance to the dungeon and goes in, he must explore the rooms, fight enemies and collect keys until he finds the boss monster he must defeat. He will then be able to pick up a Triforce piece. Once he does so, however, all the monsters in the Overworld come back to life. 
+
+If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
+
+The Legend of Zelda is known for several factors that were revolutionary at the time: A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.

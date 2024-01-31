@@ -1,0 +1,1 @@
+A platform game with shoot'em up elements where you play as a robot that can transform into a more powerful robot by collecting power-ups.

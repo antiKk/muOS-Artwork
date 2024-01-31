@@ -1,0 +1,9 @@
+An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs.  
+ 
+This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver. 
+ 
+There are three castles in the Kingdom; the White Castle, the Black Castle, and the Golden Castle. Each castle has a Gate over the entrance. The Gate can be opened with the corresponding colored Key. Inside each Castle are rooms(or dungeons, depending at which Skill Level you are playing). 
+ 
+The Castles are separated by rooms, pathways, and labyrinths. Common to all the Skill Levels is the Blue Labyrinth through which you must find your way to the Black Castle. Skill Levels 2 and 3 have a more complicated Kingdom 
+ 
+Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Adventure creator Warren Robinett even described the dragons as looking like ducks.

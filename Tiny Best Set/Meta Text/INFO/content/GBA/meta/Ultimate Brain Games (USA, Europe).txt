@@ -1,0 +1,5 @@
+Ultimate Brain Games is a collection of 8 games you can play against the computer or a friend.  The games include Sink Ships (aka Battleship), Mahjong, Backgammon, Chess, Checkers, Reversi, Dominoes, and Four in a Row (aka Connect Four).
+
+You start out by designing how your character looks.  You can modify 9 areas of your character, from eyes to clothes.  After doing so, decide to play single or multiplayer.
+
+Each game follows the rules and gameplay seen in the original games.

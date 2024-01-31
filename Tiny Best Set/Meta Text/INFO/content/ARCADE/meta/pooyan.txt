@@ -1,0 +1,5 @@
+The player takes on the role of a bow-and-arrow welding pig who must protect her piglets from the pack of hungry wolves ballooning up or down the cliff face. The pig is suspended in a winch-controlled cage and must move vertically up and down, shooting the balloons and sending the wolves plummeting to the ground. Any wolves she misses will, having safely reached the ground, climb a ladder to try and bite her. Also, if any of the wolves reach the ground, more piglets will be captured by them. Mother Pig must try to kill as many wolves as possible without letting them reach the ground. 
+ 
+On the second level, the wolves use balloons to float upwards to the top of a high cliff. If enough of them reach the cliff, they will push a huge boulder down onto Mother Pig's cage. After this level has been completed, the piglets who have been captured are rescued and the game starts over with increased difficulty. 
+ 
+There is also a bonus round where Mother Pig will attempt to eliminate as many wolves on ascending balloons as possible by throwing as few slabs of meat as possible for a maximum bonus score.

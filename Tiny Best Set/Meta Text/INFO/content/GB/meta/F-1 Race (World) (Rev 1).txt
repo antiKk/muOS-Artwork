@@ -1,0 +1,3 @@
+F-1 Race is an arcade style racing game featuring tracks in locations all around the world.  You will find tracks from Australia, Canada, Portugal, India, Russia, and even Egypt.  Gameplay is viewed from a behind-the-car perspective using scaled bitmaps.
+
+There are three modes of play.  First is a championship mode, where you compete in a series of races, and must place first in each to advance to the next. Second is a time trial mode, in which you try to achieve your shortest lap time around the track of your choice.  Finally, there is the multi-player mode for up to four drivers.

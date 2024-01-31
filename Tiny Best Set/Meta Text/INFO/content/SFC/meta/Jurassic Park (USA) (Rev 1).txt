@@ -1,0 +1,9 @@
+The SNES game based on the film Jurassic Park is an action title that combines top-down and first-person perspectives.
+
+Playing as Dr. Alan Grant, the player's ultimate goal is to escape the Jurassic Park island. To reach that goal, several other tasks must be completed, including restoring power to the park and destroying a Velociraptor nest. 
+
+The large game world is seen from a top-down view and can be freely explored. Some areas are not accessible from the beginning, however. To enter them, keycards must be found or some special goal be completed, like rebooting the computer system and using it to open certain gates. Dr. Grant can defend himself against the many free-roaming dinosaurs with a variety of weapons, including an electroshock gun, a shotgun, rocket launcher, gas grenade launcher and bola gun. All weapons except the electro gun require ammo to work. A radar at the bottom of the screen helps in detecting approaching dinosaurs, but will only work once the park's motion detectors have been activated.
+
+Upon entering one of the park's buildings, the game view switches to a scrolling first person perspective, reminiscent of early first person shooters like Wolfenstein 3D. Just like outside, dinosaurs lurk in the corridors, and the same guns as in the overworld map can be used to destroy them. Many buildings consist of several floors, with elevators connecting them. Some rooms are pitch black and can only be entered when in possession of night vision goggles.
+
+The game supports the SNES mouse for the first-person sections and the computer system interface.

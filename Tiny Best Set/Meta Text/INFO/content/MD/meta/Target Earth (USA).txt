@@ -1,0 +1,3 @@
+Space shooting game set in the future with Earth under attack by robots.
+
+You are the pilot of a mech robot which can either walk on planet surfaces or fly in space.  There are two types of levels in the game.  Surface levels take place on planets or moons and allow the mech to run and jump to the end of the level while fighting enemies, as in a side scrolling game.  Space levels have no gravity and allow the mech to move in any direction.  The mech can be equipped with a large assortment of machine guns, lasers, and grenades.

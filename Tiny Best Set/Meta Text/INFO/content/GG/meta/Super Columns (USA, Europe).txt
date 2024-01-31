@@ -1,0 +1,5 @@
+Super Columns is an updated version of Columns with more options of play, but with the same setup, maneuvering falling blocks into groups of three or more to eliminate them from the screen.  Along with a Versus mode there is also a Story mode as well.
+
+An evil sorcerer by the name of Surhand has stolen a mystical amulet which brings peace and serenity to the land of Phoenicia and hopes to use it to bring death and destruction to the land.  The player must battle their way through his four guards in a series of best two-out-of-three games of Columns in order to face off against Surhand and bring peace back to the land.
+
+The Flash Mode also returns to this version as well as the new Endless Mode where the main objective is to score as many points as possible before the timer runs out.  There are also special columns throughout these modes such as Glitter Columns which eliminates all blocks of the same color on the screen at once as well as Stone Block Columns which can only be eliminated through magic power-ups that can be obtained by eliminating the base blocks.

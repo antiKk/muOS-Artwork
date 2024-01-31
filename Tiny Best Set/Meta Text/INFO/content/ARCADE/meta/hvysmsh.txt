@@ -1,0 +1,3 @@
+Heavy Smash is a futuristic handball game. You start by choosing a team from the United States, Japan, Spain, Brazil, Germany, England, Italy, Egypt, Australia or a special team of cyborgs. 
+  
+The game is controlled with three buttons: one to throw the ball, another to pass it to another teammate, and a third button to jump. You have a power indicator that fills up quickly over time and when it's completely full, you can perform a super launch.

@@ -1,0 +1,5 @@
+Aztec Adventure is a traditional action/labyrinth game in which the player assumes the role of Nino, an explorer whose aim is to find the Aztec Paradise.
+
+The labyrinth is full of Aztec mythology creatures and other ancient Mexican references.
+
+Although it is a maze game, the controls are very simple and easy to manage.

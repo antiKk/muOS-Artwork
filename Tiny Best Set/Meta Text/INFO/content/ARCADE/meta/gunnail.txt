@@ -1,0 +1,1 @@
+A vertically scrolling shoot 'em up.

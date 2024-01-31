@@ -1,0 +1,3 @@
+About 200 years in the future, a comet is detected at the edge of the solar system.  Astronomers determine that it will pass near the earth, and send probes to examine it.  When the probes near the comet, it abruptly changes directions and heads towards earth.  At the last moment, the people of earth are able to launch surface-to-comet missiles and deflect its impact into the moon. At the center of the impact crater, alien war machines are gathering! The U.N. sends a lone spaceship to the moon to destroy the alien threat. 
+ 
+Dead Moon is a side scrolling shooter with 6 levels that take place on earth, in space, and on the moon.  It features 4 different primary weapon types, and several secondary weapon types.  Each level features mini-bosses and end of level bosses.

@@ -1,0 +1,13 @@
+This game lets you play two-on-two arcade basketball with players from all the NBA teams. Gameplay is fast and action-packed, with few rules, no fouls, and deliberately unrealistic jamming. Players are rated on eight ability categories, from steals and blocks, to dunks and 3-pointers.
+
+Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.
+
+The Tournament Edition ups each team's roster to three players, and allows for substitutions between quarters. Shoving players now results in injuries, which lower a player's stats; encouraging you to sub them out and let them recover. Aside from the usual secret characters and cheat modes, the T.E. also includes four new additions you can individually enable from the special options menu:
+
+1. "Hot Spots" are randomized zones on the court that reward extra points (up to a 9-point shot!) for making a basket while standing within them.
+
+Powerup icons appear randomly, and convey temporary arcade-like benefits when picked up. Some examples are instant "on-fire," enhanced 3-point accuracy, monster dunks from anywhere on the court, or a bomb that knocks all other players to the ground.
+
+"Juice Mode" increases the speed of the game up to 4x.
+
+"Tournament Mode" disables all other modes, special characters, and cheats, and challenges you to defeat all the NBA teams to unlock extra players (2 extra players for almost every team). Winning Tournament Mode also unlocks a higher CPU difficulty level. 

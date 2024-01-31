@@ -1,0 +1,5 @@
+The Burai, a race of evil super-brain aliens, have launched their plan to conquer the universe with their army of half-organic, half-robot creatures -- the robo-mutants.  It's up to you to stop them!  Strap on your jet pack, and get ready to become the ultimate Burai Fighter.
+
+Burai Fighter is an arcade shooter with two modes of play.  Most levels are side- and vertical-scrolling with pre-designed layouts.  A few levels are different, though: top-down perspective, with a randomized layout.  Either way, you'll be armed with a variety of weapons, including different guns (laser, missile, ring) and the powerful cobalt bomb which kills everything onscreen.
+
+Burai Fighter uses a slightly different gameplay mechanic when compared to other shooters. You can shoot in 8 directions, and when you hold down the fire button you keep shooting in that direction.

@@ -1,0 +1,7 @@
+The NES version of Batman: The Video Game is loosely based on the 1989 movie. It is a side-scrolling game, with a blue dressed Batman fighting enemies such as robots, jet-packed soldiers, ninjas and mutants.
+
+The game consists in five levels somewhat related to the movie: Gotham City streets (with Killer Moth as the final boss), AXIS Chemical Factory (with Machine Intelligence System as boss), Underground Conduit (with Electrocutioner as boss), the Laboratory Ruins (the Dual-Container Alarm as boss) and Gotham's Cathedral (with Firebug as boss) where Batman finally faces the Joker. Before each level, a cutscene with scenes from the movie is displayed.
+
+Besides his ever trusting punches, Batman has plenty of weapons in his utility belt: the Batarang, the Spear Gun and the Dirk (a three direction weapon). Batman has an ammunition counter shared for the three weapons. The Batarang takes one pellet per shot, the Spear Gun two pellets and the Dirk, three. Batman also has an eight hit life bar, which can be replenished by collecting hearts dropped by killed enemies. The enemies will also drop pellet items (10 pellets per item) and bonus items (which will only sum up points).
+
+Batman can also perform a "wall jump": he'll grab a wall when jumping toward it, allowing him to escalate some narrow passages. Batman has three lives and unlimited continues. 

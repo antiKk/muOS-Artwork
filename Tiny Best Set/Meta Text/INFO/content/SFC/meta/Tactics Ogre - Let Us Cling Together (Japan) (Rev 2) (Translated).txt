@@ -1,0 +1,3 @@
+Tactics Ogre is a very detailed 3-D isometric turn based war / rpg sim. You start out with a band of troops and build a small army and fight many battles with choices to make in between battles that will determine which one of the 8 possible endings in a non-linear storyline. 
+
+You have the option to recruit characters, control individual equipment of each character, with over 6 male character classes, 6 female character classes, 3 demi-human classes, and more. You can also train at safe locations to advance your army before the next battle / storyline advancement. 

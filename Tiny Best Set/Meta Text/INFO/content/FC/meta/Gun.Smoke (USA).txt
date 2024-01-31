@@ -1,0 +1,5 @@
+Gun.Smoke is a top-down scrolling shooter that casts the gamer as a lone gunman, out to save the gold rush town of Hicksville from a fearsome group of bandits known as the Wingates. Each level has a particular target enemy, although his or her henchmen must also be taken out.
+
+Although it largely takes place on foot, the gameplay resembles Commando, with its top-down action. The screen scrolls at a constant rate, and enemies come at you from the edges, to be shot or avoided. You can grab various power-ups along the way. Finding a horse will allow you to get hit twice before you die rather than just once. There are scenes in which you raft up a river and use the tracks of a railway line.
+
+On the NES you can tap the A button to fire up and right, the B button to fire up and left, or A and B simultaneously to fire straight ahead. One-button control systems mimic all this.

@@ -1,0 +1,5 @@
+An overhead scrolling fantasy shoot 'em up, Twinkle Tale casts the player in the role of the young witch Saria, in a quest to rid her magical floating island of the evil creatures that have invaded it.
+
+The game is played from an overhead perspective, with Saria having complete freedom of movement in all directions and with the objective being to clear out all enemies in all 9 stages, looting whatever treasure you can find and defeating each stage's boss.
+
+Saria's offensive weapons come pre-defined as three different spells, which you can freely switch to at any time and level-up by collecting power stars, as well as screen-clearing bombs.

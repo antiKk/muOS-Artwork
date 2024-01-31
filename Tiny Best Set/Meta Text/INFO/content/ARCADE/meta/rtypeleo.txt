@@ -1,0 +1,12 @@
+R-Type Leo is a horizontally-scrolling shoot-em-up and is the third and final arcade release of this classic series (although numerous console-only sequels would follow, see 'Series' for details). 
+ 
+Mankind are currently at peace with their former adversaries, the Bydo Empire, and have taken the opportunity to undertake a massive project called 'Project Paradise'. This involved the construction of an artificial terrestrial-like planet called 'Eden', created as a safe haven should humanity once again find itself under threat. However, soon after construction is completed, 'Major' - the bio-computer system responsible for maintaining Eden - malfunctions, taking control of the planet's defences and launching an attack on mankind. It is up to the newly-developed 'R-9 Leo' fleet to fly in and stop Major's assault on its creators. 
+ 
+R-Type Leo deviates from the gameplay style of its predecessors by removing the use of both the 'Force Pod' and the 'Wave Cannon'. The new weapons are called 'Force Bits' (later identified in "R-Type Final" as "Psy Bits") and the 'Bit Shot'. The three 'Force Bit' weapon types are: 
+Red - Claw Laser: a powerful horizontal laser beam and horizontal traverse wave 
+Blue - Mirror Laser: fires multiple, ricocheting lasers. 
+Green - Search Laser LRG: fires semi-homing lasers that can bend at 90 degree angles. 
+ 
+Unlike previous 'Bit' devices, the 'Force/Psy Bits' are capable of firing either forwards or backwards (their direction dictated by the movement of the ship itself). Finally, the 'Wave Cannon' is replaced by a 'Bit Shot', in which the Psy Bits detach from the ship and collide with the nearest enemy. The Bits can only do this for a limited time before running out of energy, and must be recalled to the ship to recharge. 
+ 
+R Type Leo consists of 6 stages and is the first game in the series to allow 2 players to play simultaneously.

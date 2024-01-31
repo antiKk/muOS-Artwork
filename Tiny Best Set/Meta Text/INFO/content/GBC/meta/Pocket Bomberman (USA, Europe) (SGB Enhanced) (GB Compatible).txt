@@ -1,0 +1,5 @@
+Long, long ago, the sun was covered by a dark and heavy cloud. It was said this cloud was caused by a monster that had sealed the Sword of the Sun. Legends also says that to break the seal, a hero must collect five Power Stones that are guarded by monsters. Bomberman takes up the challenge as he is the last hero strong enough to defeat such monsters.
+
+This is a side-scrolling platform game. In each world, you must clear four areas by killing any monsters within. To kill a monster, you drop a bomb. After a few seconds, the bomb explodes in a four-way blast. If the monster is within range of the blast, it is killed. After you clear these four areas, you must clear a fifth area by killing a boss to clear the world and collect its Power Stone.
+
+Be careful, though, because if Bomberman is touched by a monster, touches a dangerous item or is caught in the blast of his own bomb, you lose a life. After all lives are gone, you get the option to restart that last area or quit. In most areas, you can, though the placement of bombs, find items to increase your jumping, speed, blast radius, etc.

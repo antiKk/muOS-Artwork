@@ -1,0 +1,3 @@
+Super Bowling is a third-person bowling game. Players may bowl in several different environments, which range from ice ponds to neon-lit Chinese temples. Players can face-off against characters in their home stages, much like a fighting game. If the player wins they can then play on these stages in other play modes.
+
+Multi-player modes are also available, with a number of different variations.

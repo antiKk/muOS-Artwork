@@ -1,0 +1,3 @@
+The game centers around an unusual alien invasion against a colony planet in the year 2249 the aliens themselves are microscopic creatures that invade, infect, and kill the colonists. Scientists have deployed the microscopic fighter X-002 into the body of the hapless woman whose body has been invaded by the alien queen. 
+ 
+The game itself is a side-scroller like R-Type, albeit with a short vertical-scrolling area towards the end of the sixth level. Instead of the Force pod, however, the main power-up apparatus takes the form of two flexible tentacles. The tentacles are invulnerable to all enemy attacks, and can be positioned with careful maneuvering of the X-002.

@@ -1,0 +1,7 @@
+Thanks to an improved version of the SuperFX Chip, Stunt Race FX was the first racing game for the SNES to feature fully polygonal cars and levels, which made it possible for the game to include gradients and obstacles that could not be realized in earlier, "flat" racing games.
+
+The game features four modes of play: 
+Speed Trax is basically an arcade mode where the player has to qualify for each upcoming race by reaching checkpoints while collecting items to restore his damage- and boost-bar. It is divided into a Novice-, Expert-, and Master class, with each class featuring four unique tracks.
+In Stunt Trax the player has to complete courses filled with obstacles within a certain time limit while trying to collect as many stars as possible.
+Battle Trax is a two player mode taking place on special tracks without any CPU-controlled opponents.
+Finally, Test Run let's the player practice all tracks that have been unlocked.

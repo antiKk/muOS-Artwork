@@ -1,0 +1,11 @@
+Salamander is a 1 or 2 player sequel to 1985's superb shoot-em-up, "Nemesis". While it retained the same basic gameplay and feel of its predecessor (particularly the superb and innovative weapons system), Salamander featured both superior graphics and a more imaginative approach to level design. The earliest example of the latter appears towards the end of the very first level, in which imposing, organic obstructions grow before the players' eyes. The game's third level - the infamous 'lava' level - is another good example of Salamander's superb design; with huge solar flares constantly erupting both above and below the player's ship that must be carefully navigated to avoid instant loss of life. Salamander introduced further variety to the action with the introduction vertically-scrolling levels, which alternated with the standard side-scrolling levels. 
+ 
+Salamander's weapon power-up system is as follows: 
+SPEED UP: Five speed levels. 
+MISSILE: Press missile button to launch. 
+LASER: Your forward rockets turn into deadly lasers. 
+RIPPLE LASER: Use shoot button to fire. 
+FORCE FIELD: Protect your ship with barriers. 
+MULTIPLE: Increase your fire power by up to four times. 
+ 
+Multiple special powers can be obtained, but the LASER cannot be used in conjunction with the RIPPLE Laser.

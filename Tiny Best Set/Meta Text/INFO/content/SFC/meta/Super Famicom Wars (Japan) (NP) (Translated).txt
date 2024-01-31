@@ -1,0 +1,1 @@
+Super Famicom Wars is a strategy game where two players each control an army with the goal of destroying one another. Each city controlled by the player generates money which can be used to purchase new units. Each individual unit has unique statistics and is often best used against certain types of enemy units.

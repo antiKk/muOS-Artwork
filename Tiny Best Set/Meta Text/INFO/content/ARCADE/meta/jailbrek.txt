@@ -1,0 +1,5 @@
+A mass prison breakout has occurred and the prison warden has been kidnapped in this sideways scrolling shoot-em-up from Konami. The player controls a lonely police officer whose job it is to kill the hordes of escaped convicts and, eventually, rescue the kidnapped warden. Each level also has a number of civilian hostages that also roam the levels and need to be rescued. 
+ 
+The player begins the game with only a pistol, but 2 extra weapons, in the form of a bazooka and a tear gas gun, can be collected. The 'Weapon Select' button cycles through the player's weapons via a display at the bottom of the screen. When the desired weapon is highlighted, pressing the Fire button will select and fire the desired weapon. 
+ 
+Hostages will randomly run across the screen and can be rescued by running into them. Should the player accidentally shoot a hostage, all extra weapons will be lost leaving only the pistol.

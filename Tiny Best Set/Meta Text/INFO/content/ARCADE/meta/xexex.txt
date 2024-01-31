@@ -1,0 +1,13 @@
+Xexex is a horizontally-scrolling shoot-em-up in which players pilot a ship called the 'Flintlock' and must save the blue-haired Princess Irene of the planet E-Square from an evil lord named Klaus.  
+ 
+The player's ship has a detachable orb attachment called the Flint, which behaves in a similar fashion to the 'Force Device' from Irem's "R-Type" series. Power-ups can be obtained to increase the Flint's power, movement speed, change the main weapon, or even give the player an extra life. 
+ 
+The player starts the game armed with the Proton Laser, which emits thin stream of weak bullets. Defeating certain enemies will drop other weapons: 
+Homing Laser: A 3-way laser with weak "bending" homing for top and bottom lasers. 
+Shadow Laser: A laser beam that creates a damage-inflicting shadow as the ship moves up and down.  
+Round Laser: An unusual spread shot (different from the overseas version's main weapon) 
+Spiral Laser: A spiral laser of considerable width. 
+Search Laser: A laser with strong homing that travels in square trajectories. 
+Ground Laser: Fires an upgraded Proton Laser along with a laser beam that travels along the ground. 
+ 
+The name of the current weapon is displayed at the bottom of the screen. In the non-Japanese overseas versions, the only available weapon is the Proton Laser and picking up power-ups simply increases the spread of the weapon. Missiles are a secondary weapon.

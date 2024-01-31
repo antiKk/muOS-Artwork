@@ -1,0 +1,1 @@
+Kung-fu player jumps around multiple level boards, kicking opponents and collecting power-ups and bonus items. Player defeats by way of three kicks the board "boss" and advances to the next level.

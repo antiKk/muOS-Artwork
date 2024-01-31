@@ -1,0 +1,7 @@
+Alien Syndrome is a overhead-view run and gun game for one or two players in which a number of Mankind's space ships and bases have been overrun by an alien race, who have taken the human inhabitants hostage. 
+ 
+Players control two soldiers named Ricky and Mary and must fight their way through large eight-way scrolling levels to rescue their captured comrades. Once a set number of hostages have been rescued, an exit opens and players can pass through it to fight the end-of-level guardian. Once the guardian is defeated, play moves onto the next stage. 
+ 
+A time-bomb is automatically set at the start of each stage, which must then be completed before the bomb's timer runs down. Failure to finish the level in time results in the death of the player characters. Weapon upgrades and maps of the current level are available at certain points and are accessed via hatchways in the wall. 
+ 
+Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting solely of a fight to the death against the game's final, massive guardian.

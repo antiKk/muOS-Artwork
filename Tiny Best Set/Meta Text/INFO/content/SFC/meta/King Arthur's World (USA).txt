@@ -1,0 +1,3 @@
+This is a 2D side scrolling strategy game.  You take the role of King Arthur and lead your army into battle against evil.  You'll travel to many worlds including fighting dark knights, underworld orcs, and cloud giants.  One of the few games that is Super NES Mouse capable.
+
+You are given a certain amount of troops each level.  Passwords are used to save your progress between levels.  The levels have enemies you must thwart, traps you should avoid, and gold to be won.

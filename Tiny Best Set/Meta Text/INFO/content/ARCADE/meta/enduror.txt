@@ -1,0 +1,5 @@
+Enduro Racer is an off-road racing game in which players ride a dirt bike across five extremely hilly and twisting courses. Each course is littered with logs, rocks, trees and rival racers that must be either jumped over or avoided. 
+ 
+Jumps can only be performed at specific locations on each track. These locations feature a dirt ramp that spreads across the width of the track. Players must have the bike in the 'wheelie' position when the ramp is struck, the bike will then be launched into the air. If the bike is not in a wheelie position when the ramps are struck, the bike will still clear the ramp, but will land front-wheel first and crash. 
+ 
+Enduro Racer is perhaps best remembered for its 'Wheelie' feature, which required the player to physically lift the cabinet's handlebars to raise the front wheel of the game's on-screen counterpart.

@@ -1,0 +1,11 @@
+In the year 199X, in the village of Onett, on the continent of Eagleland...
+
+Young Ness was asleep one night when a loud crashing noise awoke him suddenly. As he rushes out of bed and up to a nearby hill, he encounters a strange meteor, carrying a single passenger: a mysterious insect-like being named Buzz Buzz. Buzz Buzz tells him that in the future, an evil alien being known as Giygas has conquered the world, and the only one who can stop him are 4 young kids: 3 boys and a girl. Ness, of course, is one of the chosen ones... Ness now must find the other three children: Paula, a young girl with remarkable psychic powers, Jeff, a mechanical genius, and Poo, the young Prince of Dahlaam. Together, these four friends have the power to defeat Giygas and save the world from his chaotic reign!
+
+EarthBound is a top-down RPG where you travel around Eagleland and various other, exotic countries, trying to end Giygas' evil influence. 
+
+On the way, Ness and his friends will encounter a lot of enemies and battle them in turn-based combat. Each turn, each of the characters in the party can attack with their weapon, use a special ability (some characters have powerful psychic powers that can hurt enemies, heal comrades and more; some also have some other, unique special powers), use an item or try and escape. The game features "rolling HP meters" - when a character is dealt damage, it's not all taken away from his HP right away, but instead his HP decreases slowly; if the combat is ended quickly, even a massively damaging attack can leave a character with only minor injuries. By winning battles, characters receive experience and thus become stronger. 
+
+If your characters are strong enough, weak enemies will escape from them instead of trying to attack them, and when chased down, they will be defeated instantly! 
+
+Saving the game is done by finding a telephone and calling Ness' father. When you defeat enemies, your bank account receives money which can be then retrieved from ATM machines throughout the game and spent in shops to buy better equipment or useful items.

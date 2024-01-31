@@ -1,0 +1,5 @@
+A Zelda-like game with a twist.
+
+Here you are some sort of a dog with oversized bird which you use to defeat your enemies. Your goal is to find seven pieces of powers. Each piece is spread throughout a colorful world with funny enemies and weird bosses.
+
+It´s like a Zelda-clone, Ardy and Link are not twins but they have same goal, to find pieces which then have to be puzzled together to find the greater evil.

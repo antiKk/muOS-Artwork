@@ -1,0 +1,4 @@
+A kabuki warrior steps into a time portal to go back to the Shogun dynasty to defeat the evil lord Kabuki. The game is basically a side-scrolling beat-em up game, with the player controlling the kabuki warrior. The player can deliver kicks and punches to hordes of enemy minions throughout each stage. Other moves at the the players disposal are jump kicks, the ability to lift enemies and throw them, and the ability to grab enemies and spin them like a tornado.
+The player can also use a special magic power that gets charged by picking up scrolls throughout the level. The player can also find life bar refills throughout a stage also.
+
+Each section of a stage must be defeated within a certain time limit. At the end of a stage the player must defeat a boss enemy to advance to the next stage.

@@ -1,0 +1,3 @@
+In this Tetris-style game, you play as Dr. Mario, who must drop differently coloured pills onto viruses to remove them from the bottle. Each pill is split into two, with each side a different colour. Match that colour to the colour of the virus, and it will be removed from the bottle.
+
+Included in the game is the normal mode, a time trial, and a two player battle mode to see who can remove the most viruses.

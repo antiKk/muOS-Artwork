@@ -1,0 +1,7 @@
+Secret Agent is a side-scrolling platform shoot-em-up which the player takes on the role of a James Bond-esque secret agent who must fight his way through a terrorist group called 'CWD' to reach the final Boss confrontation and prevent a stolen nuclear missile being launched. 
+ 
+The player starts the game armed only with a pistol, and this has a limited amount of ammunition. Once the ammo has run out, players can only kick their enemies. Machine guns are occasionally dropped by defeated enemies and can be picked up and used. Also, Golden Gun components are sometimes dropped; there are six of these in total and once all have been collected, the player is rewarded with a very powerful golden rifle. This weapon kills all enemies instantly but will only last for twenty-five seconds, indicated by a meter at the top-right of the screen. 
+ 
+Most of the game's eight stages are platform-based, but there are also two underwater scuba levels and a motorbike chase. All of the game's end-of-level bosses reappear on the final 'underground lair' level. 
+ 
+While not officially licensed as a James Bond game, Secret Agent is unmistakably meant to represent both the Bond character and movie series. The Bond villain Jaws shows up at the end of stage two and another famous Bond villain, Odd Job also appears. Another memorable Bond reference is the use of a Shaun Connery impersonator who tells players that they have done a Great job upon completion of a level.

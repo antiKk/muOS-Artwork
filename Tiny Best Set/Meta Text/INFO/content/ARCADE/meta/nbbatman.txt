@@ -1,0 +1,17 @@
+Ninja Baseball Batman is an abstract, horizontally-scrolling beat-em-up for in which up to four players control a team of robotic baseball-star ninjas who must fight their way through a variety of levels, defeating the game's many enemies.  
+ 
+The object of the game is to recover a number of artifacts stolen from the Baseball Hall of Fame, a task prescribed to them by the Commissioner of Baseball. Each stage takes place in several parts of the United States, with a boss character appears at the end of each stage. 
+ 
+The game's enemies are themed entirely around the sport of Baseball; taking the form of Baseballs, Catcher's mitts, bats etc. The game also allows players to perform combos, throws and dash attacks against multiple enemies. When a player's health bar flashes red, more moves can be performed as long as the player does not restore or completely lose health.  
+ 
+Health restoring food and drink items appear throughout the game, as well as throwable weapon pick-ups, including baseballs and shuriken. Occasionally players will find a pink heart, collecting this summons cheerleaders who either damage all on-screen enemies or drop a large amount of food. 
+ 
+The four characters of "Ninja Baseball Batman" and their traits are: 
+ 
+Captain Jose - Head of the team and technician. Well-balanced and a good choice for beginners.  
+     
+Twinbats Ryno - Very fast and wields two bats, but is the weakest of the four. 
+     
+Beanball Roger - He is a powerful buster, but not as fast as others.  
+     
+Stick Straw - A long-reach hitter, making him the best choice for long-range moves.

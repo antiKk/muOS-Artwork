@@ -1,0 +1,5 @@
+In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hit man) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.
+
+The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way.
+
+You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.

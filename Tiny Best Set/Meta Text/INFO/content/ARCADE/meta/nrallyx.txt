@@ -1,0 +1,11 @@
+New Rally-X is a scrolling, overhead mazed-based racing game in which the player drives a racing car around a maze and must collect ten yellow flags before the car's fuel runs out. In-game opponents consist of red enemy cars that pursue and try to ram into and destroy the player's car. The enemy cars are faster moving than the player's vehicle.  
+ 
+The player's car automatically moves in whichever direction the joystick is pushed and if it runs into a wall, it will turn automatically and continue moving. To disrupt the chasing enemy cars a smoke-screen can be activated that trails behind the player's car, causing any pursuing vehicles to crash. Activating the smoke screen uses a small amount of fuel, however, so players must be careful to not overuse it. 
+ 
+Each maze also has rock formations and crashing into these will result in the loss of a player car. A radar display to the right-hand side of the playing area shows the relative positions of the flags, rocks and enemy vehicles.  
+ 
+In addition to the standard ten flags, each maze also contains a special flag (indicated by the letter "S"). If collected, the value earned for the round's remaining flags doubles from 100 to 200 points. If the player dies before the end of that round, the flag value is set back to 100 points and the double bonus is lost.  
+ 
+The mazes also contain a 'lucky flag'. This is marked with the letter 'L' and - providing there are still standard flags remaining - awards the player extra points for remaining fuel, after which the round will continue as normal. Upon completion of a round, bonus points are awarded based on how much fuel the player has remaining. 
+ 
+As players progress through the rounds, the number or pursuing enemy cars increases.

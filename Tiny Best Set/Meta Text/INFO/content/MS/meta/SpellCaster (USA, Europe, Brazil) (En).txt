@@ -1,0 +1,11 @@
+Kujakuo is based on the comic by the same name, published in Young Jump in the late eighties and drawn by Makoto Ogino. It is a tale of the occult, centred around the buddhist monk Kujaku.
+
+In this game, Kujaku is sent out by his master, Ajari, to find out what has happened at the nearby temple of Hieizan. Upon arriving, after having fought his way through magical creatures and deadly warriors, he find his comrades slain. One of them, Kubira, is still holding on to his life, and before drawing his last breath, he utters the word "Izumo". Ajuri then sends Kujaku to the town of Izumo, where he encounters a deadly enemy of unknown origin.
+
+Kujakuo is part adventure game à la Déjà vu (or, since this is a Sega game, Hoshi o sagashite), part platform action. To get between the adventure parts, you must pass an action level, as well as a boss fight or two, just as in Cosmic Spacehead.
+
+The adventure part has you looking at a scenery, with a text box for descriptions and lines, and a set of verbs on the right. Use a cursor to point out specific objects for your verbs.
+
+In the platform levels, Kujaku can jump and shoot magic bolts. While the usual bolt is small, he can load up before releasing them, R-Type style. Pressing the pause button opens up the spell menu, for accessing more powerful magical spells. New spells can be learned throughout the game. Most spells are offensive, but some grant additional powers such as levitation. Each time a spell is activated, you use up your limited spirit energy. Enemies will, when killed, sometimes drop spheres that will raise your spirit energy, though.
+
+This game was remade into Spellcaster upon its release in the West.

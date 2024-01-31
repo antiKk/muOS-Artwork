@@ -1,0 +1,5 @@
+Dogyuun is an arcade Shoot 'em Up. 
+ 
+The plot is somewhat vague, except that it involves two pilots destroying aliens after an alien mecha kills the reconnaissance ship leading them. 
+ 
+One interesting feature of the game is the ability in Co-Op Multiplayer for player 1 to combine with player 2, producing a larger ship with better firepower. The game also features loads of homing lasers and large bosses.

@@ -1,0 +1,6 @@
+An excellent vertically scrolling shoot'em up. The player assumes the role of a pilot who is sent by their squadron to fight their former allies until one side destroys the other, all of which is a part of a mission to strengthen the military power that controls each side. The player flies their selected fighter over 5 areas of various terrain, encountering a number of land, sea and air enemies. The player's ship has two modes of fire: by tapping the fire button, shots are fired; holding it down produces a concentrated vertical beam, but also reduces the ship's speed. 
+ 
+The player can choose one of 3 aircraft at the start of the game, or upon continuing: 
+Type A: A red (or yellow/orange, for player two) fighter, which fires a narrow stream of shots 
+Type B: A green (or purple, for player two) helicopter, which fires its main guns forward, but has side guns that rotate in the direction of movement 
+Type C: A blue (or black, for player two) fighter, which fires a wide, three-way spread of shots

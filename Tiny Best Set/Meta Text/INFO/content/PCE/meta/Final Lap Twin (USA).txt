@@ -1,0 +1,5 @@
+Final Lap Twin is an open-wheel F1-style racing game loosely based on Namco's Final Lap arcade game.  The game display is always in split screen mode, even if only one player is playing.  The other display shows your nearest rival if you are racing against the computer.
+
+There are two basic modes: Grand Prix and Quest.  Grand Prix consists of a multi-race points championship.  There are two car types for this mode: F-3000 and F1.  Grand Prix mode can be played with one or two players.
+
+Quest mode has more depth and forms the core of Final Lap Twin.  This is essentially a racing RPG.  You take the role of a boy who desires to become the World Champion.  To do so, you must travel from town to town finding challenges and winning them to gain money and special items to improve your car.  As you move around the game world, which is presented in an overhead view, you will encounter random challenges, much like random battles in a traditional RPG.

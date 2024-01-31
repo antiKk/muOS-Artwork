@@ -1,0 +1,5 @@
+WWF Raw is a professional wrestling game featuring 10 superstars from the World Wrestling Federation.  The wrestlers you can choose from include Bret "Hit Man" Hart, Bam Bam Bigelow, 1-2-3 Kid, Diesel, Doink, Lex Luger, Luna Vachon, Owen Hart, Razor Ramon, Shawn Michaels, Undertaker, and Yokozuna.
+
+In this game, you attempt to pin your opponent to the mat by reducing his power meter until he can fight no more.  There is a large number of moves to perform, including turnbuckle maneuvers and "illegal" acts such as hitting your opponent with a metal folding chair.
+
+This game supports up to 4 simultaneous players, and has the following game modes: One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, Raw Endurance Match, and Rematch.

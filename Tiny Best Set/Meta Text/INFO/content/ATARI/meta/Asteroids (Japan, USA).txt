@@ -1,0 +1,30 @@
+Asteroids is a conversion of the arcade game of the same name.
+
+Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the play can them move to the next round. In addition to asteroid, the player will also face an Alien Robot Saucer which shoots randomly across the screen.
+
+The player using the controller may rotate the ship (left or right) to any direction or move the ship forward. Shots will be fired according to the ship direction. The player has three reserved ships available to replace a destroyed spaceship. The spaceship is destroyed if an asteroid collides with the spaceship or is shot by an Alien Robot Saucer. Additionally, the player may opt to use the hyperspace warp to avoid collision. The warp however, may also destroy the spaceship in the process.
+
+Asteroids when shot will break-up into smaller pieces or be destroyed.. There are three types of asteroids: large asteroids, medium asteroids, and small asteroids. Large asteroids and medium asteroids when shot, will break-up into two smaller sized asteroids. Small asteroids when shot will be destroyed. 
+
+Alien Robot Saucers come in two sizes: small and large. Both use photon lasers to shoot and will explode when destroyed. Alien Robot Saucers will not appear at the Novice Level.
+
+Game Difficulty and Variations
+There are 4 available difficulty settings: Novice, Intermediate, Advanced, and Expert. 
+
+The game also offers three different game variations:
+
+1. Standard Play - For one or two players, taking turns when a player's ship is destroyed.
+
+2. Competition Asteroids - Two players appear on the screen at the same time. Friendly fire is in affect, which means shots fired from one player's spaceship will destroy the other player's spaceship. Each player has separate ship reserves.
+
+3. Team Asteroids - Two players on the screen at the same time. Friendly fire is disabled, which means shots fired from one player's spaceship will not destroy the other player's spaceship and just pass through. Ship reserves for both players are combined.
+
+Scoring
+The score of the Player 1 is viewable on the upper left side of the screen, while Player 2 on the opposite upper right side. A player will be awarded a new reserve ship for every 10,000 points.
+
+1. Small saucer - 1,000 points
+2. Other player's ship - 500 points
+3. Large saucer - 200 points
+4. Small asteroid - 100 points
+5. Medium asteroid  - 50 points
+6. Large asteroid - 20 points

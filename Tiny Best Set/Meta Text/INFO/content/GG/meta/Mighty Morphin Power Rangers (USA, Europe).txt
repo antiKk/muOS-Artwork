@@ -1,0 +1,3 @@
+This is a one-on-one fighting game for one or two players. 
+
+Single players pick a Ranger (Red, Pink, Blue, Yellow, Black, or the unlockable Green) and take him or her through a series of battles against Rita's monsters. After one normal battle, the monster grows very large, and then it is time to take out the MegaZord.

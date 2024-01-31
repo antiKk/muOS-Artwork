@@ -1,0 +1,18 @@
+Kickle Cubicle is a Lolo type sliding puzzle game where the Wicked Wizard King covered the kingdom with ice and hid the people and palaces deep within the ice.
+
+Armed with his freezing breath, Kickle sets out to save his friends and attempts to rescue the kingdom from this puzzling predicament of perpetual winter.
+
+Each level has a fixed time limit and enemies that will try and block your progress. The four lands (Garden, Fruit, Cake and Toy) have 17 or 18 puzzles in each. Beat all of those and there is a Special Stage with 30 more challenging puzzles.
+
+Your main options are to move, make a block of ice and slide a block of ice.
+
+Objects appearing in puzzles include: 
+
+1. Rock: You cannot go over these but you can use them to stop sliding ice cubes.
+Slippery Ice: Enemies can not go there.
+Base Rock: These can not be destroyed and enemies generate from them.
+Spring: Springs an ice cube across the screen.
+Water Hole: You can't fill or walk across these holes in the ice.
+Breaker: Shatters ice cubes that strike its corners.
+Hammer: Changes ice cube direction and hits enemies.
+Power Rock: Hit this and all enemies will freeze.

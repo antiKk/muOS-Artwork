@@ -1,0 +1,3 @@
+In this version of Tetris, the basic 'clear the line of puzzle blocks' element is still here, but with an added twist: inside the many block shapes are bombs. By linking the bombs while clearing the play field as usual (creating a line of blocks), more of the field is cleared as the bombs explode. 
+
+The usual gameplay modes are included, i.e. challenge, clear as many lines as possible, time trial, clear as many lines as possible before time runs out and 2 player battle.

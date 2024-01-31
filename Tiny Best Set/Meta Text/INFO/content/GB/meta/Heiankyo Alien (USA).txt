@@ -1,0 +1,5 @@
+1000 years ago the city of Kyo was suddenly invaded by aliens.  A Kebiishi (knight of the past) was entrusted to defend the city. 
+ 
+The game starts with a maze where the kebiishi and some aliens appear.  The aliens start moving through the maze wherever they please.  While trying to keep from getting eaten, the kebiishi digs holes where the aliens will likely travel.  If an alien comes to a finished hole, it will fall in an be trapped for a while.  While the alien is trapped in the hole, you can fill the hole to bury it.  If all aliens are buried, the round ends and you can proceed to the next round.   
+ 
+The Game Boy version includes both the original arcade version as well as an enhanced version with new graphics and original features such as a super alien that has special powers, moves to avoid holes and chases the keibiishi. Two players can play via the video link cable.  

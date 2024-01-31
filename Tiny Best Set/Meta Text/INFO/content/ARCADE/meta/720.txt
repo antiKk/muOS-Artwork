@@ -1,0 +1,15 @@
+A one or two-player arcade game with players taking on the role of a skateboarder, and must perform various tricks and maneuvers to earn the points and tickets needed to compete for medals in the game's numerous skate parks.  
+ 
+The bulk of the action takes place in a 'Skate City', a small urban area made up of ramps, jumps and hazards. Players can skate anywhere they wish as they perform the tricks and jumps needed to reach the score thresholds that will earn them entry tickets to Skate City's skate parks to compete for medals and cash prizes.  
+ 
+Each score threshold must be reached and a park entered within a tight time limit. Failure to do so sees the skater persued by a swarm of bees and the words SKATE OR DIE appear. Should the bees touch the skater before he enters a park, the game ends. Skate City's roads and pavements are populated with moving traffic and pedestrians and any collision with them will result in the skater being knocked from his board, costing the player precious seconds.  
+ 
+The parks themselves each feature one of four different disciplines: Slalom, Jump, Downhill and Ramp. Each park has a timer and players can earn either a bronze, silver or gold medal - together with a cash prize - depending on how quickly the park is completed. If the park target score or finish line is not reached before the timer expires, no medal or money is awarded.  
+ 
+Money won can be used to buy equipment upgrades from the stalls that litter Skate City. Players can buy upgraded boards, helmets, pads and shoes. Boards give faster speed; helmets allow for more risky maneuvers; pads give a faster recovery from falls and shoes provide more height on jumps, as well as giving a quicker standing start.  
+ 
+At the start of each new game, players can select from one of two play modes. 'Training Level' is available for beginners and gives players numerous playing hints and tips. 'Experienced Level' is more challenging as well as offering fewer hints. It does, however, include the 'add-a-coin' feature, which allows for awards and items already won to be carried over to a new game.  
+ 
+The main objective is to compete in as many skate parks as possible. There are numerous city hazards to be avoided, such as BMX riders, cars, Frisbee throwers and other skaters. To guide the player around Skate City are map tiles. Riding over one of these will temporaily pause the action and display the layout of the city, including the locations of the skate parks and equipment stalls.  
+ 
+

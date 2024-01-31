@@ -1,0 +1,3 @@
+As with the original games, Shinobi for the GG (the first portable member of the franchise) is a action side-scroller in which you take the role of an elemental ninja seeking revenge, your task to clear several stages filled with evil ninja and other assorted enemies.
+
+New to this release is the MegaMan-like ability to select which stage (all also unique for this release) to play in any sequence.  Each stage contains a fellow elemental ninja held prisoner, who gets released once you complete the level.  You can then switch between available ninja mid-stage to take advantage of their unique abilities (green ninja double jumps, blue ninja has a grappling hook, yellow ninja walks on water, etc.) which become a necessity to successfully complete all the levels.

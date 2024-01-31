@@ -1,0 +1,5 @@
+Using the same graphical interface as Deja Vu, Shadowgate is an adventure game set in a fantasy world. Players take the part of an adventurer sent to the ancient keep of Shadowgate on a quest to find a mystic artifact known as the Staff of Ages and stop the evil Warlock Lord from summoning a horrific demon known as the Behemoth. However Shadowgate has become infested with the Warlock Lord's demonic minions, not to mention the castle's still functional booby-traps.
+
+Unlike Deja Vu, death comes at you suddenly, unexpectedly, and most of all OFTEN. Such simple acts as pulling the wrong switch or opening the wrong door can cause you to be skewered by a booby-trap or disemboweled by a monster. It's allso worth mentioning the fact that if your torch burns out (this happens quite regularly) and you forget to light a new one, you'll trip in the dark and break your neck.
+
+A Windows 3.x update to this game was created in 1991.

@@ -1,0 +1,21 @@
+Asteroids © 1979 Atari, Incorporated.
+
+Asteroids is a legendary, genre defining game - in an era replete with genre-defining classics - in which a single player takes control of a spaceship trapped in the middle of an asteroid belt. A number of large, slow-moving asteroids drift randomly around the play area and must be shot by the player. When shot, the asteroids will break into a number of smaller pieces which must also be shot until eventually, all of the asteroids and fragments will be destroyed and the next wave begins. 
+
+Asteroids introduced real-world physics to video games for the first time, with speed and inertia all adding to the player's problems. As well as the inertia of the player's ship - forcing the player to allow for the ship slowing down and speeding up whenever the Thrust button was utilized - shot asteroids would often send fragments flying in seemingly random directions, and at varying and unpredictable speeds. 
+
+As well as the ever-present asteroids, flying saucers also make a regular appearance. These move horizontally and diagonally around the screen, firing at the player's ship, and must be quickly destroyed. They are destroyed when hit by the player's shot, when hit by a saucer's shot or when they collide with an asteroid. 
+
+CAST OF CHARACTERS - 
+
+Spaceship - This is you, the player. You can rotate 360 degrees, fire bullets, thrust forward in any direction, and hyperspace to safety if you feel you are in danger. 
+
+Large Asteroid - These are the large rocks that fill the screen at the beginning of each stage. Hitting one with a bullet will break it apart into two Medium Asteroids. 
+
+Medium Asteroid - Slightly smaller than Large Asteroids, but faster moving. Shooting one of these will result in two Small Asteroids. 
+
+Small Asteroid - These are the smallest and fastest rocks on the screen. If a bullet hits one of these, it will vaporize. 
+
+Large Saucer - Large flying saucers appear on the screen from time to time, randomly firing shots around the screen. They pose a minor threat. 
+
+Small Saucer - The smaller flying saucers are deadlier than the large variety. They are much more precise with their shots, and are more likely to kill you. Eliminate them quickly or get out of their range.

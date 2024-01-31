@@ -1,0 +1,11 @@
+I, Robot is a 3-D shoot-em-up in which the player controls the "Unhappy Interface Robot #1984"; a servant robot who has become self-aware and decided to rebel against the all-controlling Big Brother and his ever-watchful 'Evil Eyes'. 
+ 
+The game is set over a series of platform-based stages constructed from solid coloured blocks and to complete a stage, players must "eliminate the red zones". This is achieved by moving the robot over all of a stage's red surfaces, changing their colour to blue. The colour scheme - including target colour - changes every 26 levels, however. So while the target colour is red for the first 26 screens, it becomes yellow from Level 27, blue from Level 53 and magenta from Level 79. 
+ 
+In order to reach all of the platforms and surfaces, the Interface robot will need to jump. This must be carefully timed, however, as jumping is not allowed under Big Brother's strict regime and his Evil eye - sitting atop a pyramid at the back of the playfield - will open at regular intervals to watch over the interface robot. Should the eye be fully open - indicated by it turning red - when the robot is mid-jump, he will be spotted and destroyed, costing the player a life. 
+ 
+Once all of the coloured squares on a stage have been eliminated, the enemy's shield is destroyed and the Interface Robot will need to be guided to a final, previously inaccessible coloured square at the back of the playfield. The Evil Eye is then zapped and destroyed. 
+ 
+Some levels feature different background elements that affect gameplay, such as walls that must be shot and destroyed to reach coloured tiles, or indestructible moving columns that intermittently block access to coloured tiles, making timing difficult. There are also enemies to be shot or avoided, including birds, bombs and flying sharks. 
+ 
+

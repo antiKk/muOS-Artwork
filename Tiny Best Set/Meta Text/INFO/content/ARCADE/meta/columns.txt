@@ -1,0 +1,1 @@
+Columns is a Tetris-style puzzle game in which you stack falling jewels in order to created a chain of three of the same colored jewel.

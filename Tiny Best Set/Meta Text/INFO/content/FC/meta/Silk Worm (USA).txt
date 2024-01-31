@@ -1,0 +1,3 @@
+Silkworm is a classic horizontally-scrolling shoot-em-up based on the 1988 Tecmo arcade game. The main difference between this game and many other side-scrolling shoot-em-ups is that you got to be on land as well as in the air.
+
+Player 1 would play as a helicopter, but if a second player joined the game, they would play as a jeep. Both players would have to protect each other as well as themselves. After a certain number of kills, a "goose" helicopter would form on the screen. If the players managed to destroy it they would get a weapons powerup. This would go on throughout the entire game (a "goose" could appear even during the end of level baddie!).

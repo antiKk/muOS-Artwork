@@ -1,0 +1,5 @@
+Return of the Ninja is a side-scrolling beat 'm up game set in Japan. 
+
+On a day when Tsukikage and Saiyuri return to their village, they see it on fire. The player takes the role of either of the two and has to stop the ones attacking the village and avenge their friends.
+
+The character is controlled with the D-pad. The A and B-buttons are used to jump and attack. There's no fundamental difference in moves between the two characters, but they do feature different animations. Aside from enemies which need to be killed there's also environmental hazards such as fire which have to be avoided.

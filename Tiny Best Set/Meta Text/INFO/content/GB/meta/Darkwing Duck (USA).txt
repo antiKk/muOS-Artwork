@@ -1,0 +1,7 @@
+Darkwing Duck is a 2D 3rd person platform game featuring this Disney super-hero, friend of Lauchpad McQuack (the Duck Tales character who worked as a pilot for Scrooge McDuck).
+
+As a decent super-hero, his role is to save the city from his enemies.
+
+Graphics are cartoonish, like other Disney licenses developed by Capcom, but darker.
+
+Gameplay is similar to Mega Man and Duck Tales, in the same jump and run style. Controls are easy to handle.

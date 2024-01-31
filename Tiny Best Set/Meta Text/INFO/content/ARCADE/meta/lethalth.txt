@@ -1,0 +1,5 @@
+A simple shoot-em-up with multiple endings based on your performance in each level. Your guns build up power and get stronger as you tap the fire button rapidly, but the power gauge will drain if you stop tapping the button.  
+ 
+After charging up enough power, you can press the bomb button for a smart bomb attack which uses up the whole power gauge. With more power it creates a bigger explosion.  
+ 
+Power-ups switch your weapon to fire different projectiles, like lasers that spread out at right angles, and a flamethrower that reaches farther with more power.

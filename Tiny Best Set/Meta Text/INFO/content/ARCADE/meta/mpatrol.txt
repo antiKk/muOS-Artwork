@@ -1,0 +1,13 @@
+Moon Patrol is a horizontally-scrolling shoot-em-up in which the player takes the role of a Luna City police officer assigned to Sector Nine, home of the toughest thugs in the galaxy.  
+ 
+The player controls a moon buggy that travels over the moon's surface, trying to avoid or destroy any obstacles in its path, including craters, rocks and mines. UFOs attack the buggy from above by dropping bombs, some UFO bombs will create a new crater when they hit the ground, generating a new obstacle to avoid. 
+ 
+The buggy can jump to avoid craters, mines and rocks, it also has both front and vertically-mounted cannons that fire missiles simultaneously. The vertical cannon is to destroy UFOs while the front-cannon can take out obstacles that lie in the buggy's path. 
+ 
+Moon Patrol has five different stages spread over 26 check-points, each designated a letter of the English alphabet. The five checkpoints that denote a new stage are E, J, O, T and Z and each new stage sees a change in background graphics as well as an increase in difficulty. One example of this is the introduction of landmines in the third stage (stage 'J'). 
+ 
+A status panel is displayed at the top of the screen that gives the player useful information. A progress bar showing the five major checkpoints and the player's current position is displayed at the bottom of the panel. Above the progress bar is an indicator of the current checkpoint, the time spent in the stage and three indicator lights: the top light indicates upcoming enemy aerial attacks, the middle one indicates an upcoming minefield and the bottom one indicates enemies approaching from behind. 
+ 
+At the end of each stage bonus points are awarded based on how quickly the stage was completed. 
+ 
+
